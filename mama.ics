@@ -7,80 +7,91 @@ X-WR-CALNAME:🎨 繪師媽媽
 X-WR-CALDESC:繪師生日行事曆
 
 BEGIN:VEVENT
-UID:43956a58-5d5b-4bc8-be75-221ee1147463@hololive-cal
+UID:ee328d2d-fcb1-459b-b3d2-27d4767e209a@hololive-cal
 DTSTART;VALUE=DATE:19000708
 DTEND;VALUE=DATE:19000708
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Iida Pochi 生日（繪師媽媽）
 URL:https://x.com/hanami_4
-DESCRIPTION:Twitter: https://x.com/hanami_4\n設計成員: Sakura Miko, Ookami Mio, Moona Hoshinova
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/hanami_4\\n設計成員: Sakura Miko\, Ookami Mio\, Moona Hoshinova
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e98d5be3-58fb-41b5-a20f-8604235d6845@hololive-cal
+UID:840d7319-50ae-48ab-a98b-ea705b19410b@hololive-cal
 DTSTART;VALUE=DATE:19000315
 DTEND;VALUE=DATE:19000315
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Kakage 生日（繪師媽媽）
 URL:https://x.com/kakage0905
-DESCRIPTION:Twitter: https://x.com/kakage0905\n設計成員: AZKi
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/kakage0905\\n設計成員: AZKi
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:70d533a0-23e6-4b8e-a9a5-e06f45a7a5c4@hololive-cal
+UID:27fa1a26-2790-4ad4-8f8e-605687079b62@hololive-cal
 DTSTART;VALUE=DATE:19000110
 DTEND;VALUE=DATE:19000110
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Yuuki Hagure (憂姫はぐれ) 生日（繪師媽媽）
 URL:https://x.com/hagure_yuuki
-DESCRIPTION:Twitter: https://x.com/hagure_yuuki\n設計成員: Akai Haato, Nakiri Ayame, Usada Pekora, Kiryu Coco, Mano Aloe
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/hagure_yuuki\\n設計成員: Akai Haato\, Nakiri Ayame\, Usada Pekora\, Mano Aloe
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:181269c1-99d8-4927-9f00-6b7ff0975927@hololive-cal
+UID:f3e7c179-14a5-420b-8a15-9ab45a67f17b@hololive-cal
 DTSTART;VALUE=DATE:19000519
 DTEND;VALUE=DATE:19000519
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Itou Life (伊東ライフ) 生日（繪師媽媽）
 URL:https://x.com/itou_life
-DESCRIPTION:Twitter: https://x.com/itou_life\n設計成員: Minato Aqua
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/itou_life\\n設計成員: Minato Aqua
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d5a24eb6-2c27-45e8-ba60-09282f28d5a9@hololive-cal
+UID:b2cbdd61-16f5-4212-9b5b-117b9fb7a5f3@hololive-cal
 DTSTART;VALUE=DATE:19000530
 DTEND;VALUE=DATE:19000530
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Shigure Ui (しぐれうい) 生日（繪師媽媽）
 URL:https://x.com/ui_shig
-DESCRIPTION:Twitter: https://x.com/ui_shig\n設計成員: Oozora Subaru
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/ui_shig\\n設計成員: Oozora Subaru
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:67603c00-10b8-4531-9360-0b2ab9cdccb8@hololive-cal
+UID:3d5de013-325c-4874-a75b-d74fc3f9ffb0@hololive-cal
 DTSTART;VALUE=DATE:19000913
 DTEND;VALUE=DATE:19000913
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Nabi (なび) 生日（繪師媽媽）
 URL:https://x.com/nabi_artwork
-DESCRIPTION:Twitter: https://x.com/nabi_artwork\n設計成員: Omaru Polka, Ninomae Ina'nis
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/nabi_artwork\\n設計成員: Omaru Polka\, Ninomae Ina'nis\, Watson Amelia
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ccc3373c-1f68-45e9-bae1-c6b75c96bc7c@hololive-cal
+UID:d87d1c18-ea8e-4347-a550-f96f0309246b@hololive-cal
 DTSTART;VALUE=DATE:19000720
 DTEND;VALUE=DATE:19000720
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Mika Pikazo 生日（繪師媽媽）
 URL:https://x.com/mika_pikazo
-DESCRIPTION:Twitter: https://x.com/mika_pikazo\n設計成員: Kobo Kanaeru, Hakos Baelz, Elizabeth Rose Bloodflame, Juufuutei Raden
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/mika_pikazo\\n設計成員: Kobo Kanaeru\, Hakos Baelz\, Elizabeth Rose Bloodflame\, Juufuutei Raden
+CATEGORIES:繪師媽媽\,生日
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ee2fb910-4882-4589-ba79-9dfd7144de3c@hololive-cal
+DTSTART;VALUE=DATE:19000727
+DTEND;VALUE=DATE:19000727
+RRULE:FREQ=YEARLY
+SUMMARY:🎨 Amashiro Natsuki (甘城なつき) 生日（繪師媽媽）
+URL:https://x.com/amsrntk3
+DESCRIPTION:Twitter: https://x.com/amsrntk3\\n設計成員: Gawr Gura
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 END:VCALENDAR
