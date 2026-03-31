@@ -7,2578 +7,2589 @@ X-WR-CALNAME:🌐 全合併版
 X-WR-CALDESC:全部合併行事曆
 
 BEGIN:VEVENT
-UID:37125a44-1e68-45d2-945e-081aefea8468@hololive-cal
+UID:0b645b92-2ebe-492a-bd44-a3f7b3ba3f48@hololive-cal
 DTSTART;VALUE=DATE:19000515
 DTEND;VALUE=DATE:19000515
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Tokino Sora 生日 (hololive JP Gen0)
+SUMMARY:🎂 ときのそら / Tokino Sora 生日 (hololive JP Gen0)
 URL:https://x.com/tokino_sora
-DESCRIPTION:Twitter: https://x.com/tokino_sora\nYouTube: https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg\nProfile: https://hololive.hololivepro.com/en/talents/tokino-sora
-CATEGORIES:hololive JP,Gen0,生日
+DESCRIPTION:Twitter: https://x.com/tokino_sora\\nYouTube: https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg\\nProfile: https://hololive.hololivepro.com/en/talents/tokino-sora
+CATEGORIES:hololive JP\,Gen0\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:207a8c6d-a928-40ee-a95d-dd24f84a72f0@hololive-cal
+UID:21469577-30c0-4ca8-b59e-30069a1684fa@hololive-cal
 DTSTART;VALUE=DATE:19000907
 DTEND;VALUE=DATE:19000907
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Tokino Sora 出道紀念日 (hololive JP Gen0)
+SUMMARY:🎉 ときのそら / Tokino Sora 出道紀念日 (hololive JP Gen0)
 URL:https://x.com/tokino_sora
-DESCRIPTION:Twitter: https://x.com/tokino_sora\nYouTube: https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg\nProfile: https://hololive.hololivepro.com/en/talents/tokino-sora
-CATEGORIES:hololive JP,Gen0,出道
+DESCRIPTION:Twitter: https://x.com/tokino_sora\\nYouTube: https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg\\nProfile: https://hololive.hololivepro.com/en/talents/tokino-sora
+CATEGORIES:hololive JP\,Gen0\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4315272a-8146-4d42-b7c8-2352db1cd5c9@hololive-cal
+UID:59458512-7f19-47df-a0b0-68c428cecd10@hololive-cal
 DTSTART;VALUE=DATE:19000523
 DTEND;VALUE=DATE:19000523
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Roboco-san 生日 (hololive JP Gen0)
+SUMMARY:🎂 ロボ子さん / Roboco-san 生日 (hololive JP Gen0)
 URL:https://x.com/robocosan
-DESCRIPTION:Twitter: https://x.com/robocosan\nYouTube: https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g\nProfile: https://hololive.hololivepro.com/en/talents/roboco-san
-CATEGORIES:hololive JP,Gen0,生日
+DESCRIPTION:Twitter: https://x.com/robocosan\\nYouTube: https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g\\nProfile: https://hololive.hololivepro.com/en/talents/roboco-san
+CATEGORIES:hololive JP\,Gen0\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3ee58c55-8238-4d50-a4cd-cd6c1c192ba3@hololive-cal
+UID:4c417f99-3611-4071-a1b2-5c70953f97d5@hololive-cal
 DTSTART;VALUE=DATE:19000304
 DTEND;VALUE=DATE:19000304
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Roboco-san 出道紀念日 (hololive JP Gen0)
+SUMMARY:🎉 ロボ子さん / Roboco-san 出道紀念日 (hololive JP Gen0)
 URL:https://x.com/robocosan
-DESCRIPTION:Twitter: https://x.com/robocosan\nYouTube: https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g\nProfile: https://hololive.hololivepro.com/en/talents/roboco-san
-CATEGORIES:hololive JP,Gen0,出道
+DESCRIPTION:Twitter: https://x.com/robocosan\\nYouTube: https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g\\nProfile: https://hololive.hololivepro.com/en/talents/roboco-san
+CATEGORIES:hololive JP\,Gen0\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d09aa6b9-df94-4716-ad21-cba1e918fb07@hololive-cal
+UID:c7f8465b-c6a3-4712-b08e-1fe6980622b3@hololive-cal
 DTSTART;VALUE=DATE:19000305
 DTEND;VALUE=DATE:19000305
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Sakura Miko 生日 (hololive JP Gen0)
+SUMMARY:🎂 さくらみこ / Sakura Miko 生日 (hololive JP Gen0)
 URL:https://x.com/sakuramiko35
-DESCRIPTION:Twitter: https://x.com/sakuramiko35\nYouTube: https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA\nProfile: https://hololive.hololivepro.com/en/talents/sakura-miko
-CATEGORIES:hololive JP,Gen0,生日
+DESCRIPTION:Twitter: https://x.com/sakuramiko35\\nYouTube: https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA\\nProfile: https://hololive.hololivepro.com/en/talents/sakura-miko
+CATEGORIES:hololive JP\,Gen0\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:af68a8e1-02a0-4c2e-be8c-ad04877ba018@hololive-cal
+UID:e945829b-8dd9-42e1-8e5e-4763b57cf048@hololive-cal
 DTSTART;VALUE=DATE:19000801
 DTEND;VALUE=DATE:19000801
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Sakura Miko 出道紀念日 (hololive JP Gen0)
+SUMMARY:🎉 さくらみこ / Sakura Miko 出道紀念日 (hololive JP Gen0)
 URL:https://x.com/sakuramiko35
-DESCRIPTION:Twitter: https://x.com/sakuramiko35\nYouTube: https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA\nProfile: https://hololive.hololivepro.com/en/talents/sakura-miko
-CATEGORIES:hololive JP,Gen0,出道
+DESCRIPTION:Twitter: https://x.com/sakuramiko35\\nYouTube: https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA\\nProfile: https://hololive.hololivepro.com/en/talents/sakura-miko
+CATEGORIES:hololive JP\,Gen0\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:cc5bba7f-21e0-44a5-ad8b-6d6adc965d8c@hololive-cal
+UID:f6a53dff-ae5a-47b3-803f-58dec0b88994@hololive-cal
 DTSTART;VALUE=DATE:19000322
 DTEND;VALUE=DATE:19000322
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Hoshimachi Suisei 生日 (hololive JP Gen0)
+SUMMARY:🎂 星街すいせい / Hoshimachi Suisei 生日 (hololive JP Gen0)
 URL:https://x.com/suisei_hosimati
-DESCRIPTION:Twitter: https://x.com/suisei_hosimati\nYouTube: https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A\nProfile: https://hololive.hololivepro.com/en/talents/hoshimachi-suisei
-CATEGORIES:hololive JP,Gen0,生日
+DESCRIPTION:Twitter: https://x.com/suisei_hosimati\\nYouTube: https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A\\nProfile: https://hololive.hololivepro.com/en/talents/hoshimachi-suisei
+CATEGORIES:hololive JP\,Gen0\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:69036cf0-e24e-4b6a-842c-346c7ab7295f@hololive-cal
+UID:5f30e57b-b7c3-4734-babc-24f9d0f6f601@hololive-cal
 DTSTART;VALUE=DATE:19000322
 DTEND;VALUE=DATE:19000322
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Hoshimachi Suisei 出道紀念日 (hololive JP Gen0)
+SUMMARY:🎉 星街すいせい / Hoshimachi Suisei 出道紀念日 (hololive JP Gen0)
 URL:https://x.com/suisei_hosimati
-DESCRIPTION:Twitter: https://x.com/suisei_hosimati\nYouTube: https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A\nProfile: https://hololive.hololivepro.com/en/talents/hoshimachi-suisei
-CATEGORIES:hololive JP,Gen0,出道
+DESCRIPTION:Twitter: https://x.com/suisei_hosimati\\nYouTube: https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A\\nProfile: https://hololive.hololivepro.com/en/talents/hoshimachi-suisei
+CATEGORIES:hololive JP\,Gen0\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:99071f37-e76d-47e6-938b-fa1a0bcfc787@hololive-cal
+UID:acc7c70a-2440-447a-b557-b6511b792ea7@hololive-cal
 DTSTART;VALUE=DATE:19000701
 DTEND;VALUE=DATE:19000701
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 AZKi 生日 (hololive JP Gen0)
 URL:https://x.com/AZKi_VDiVA
-DESCRIPTION:Twitter: https://x.com/AZKi_VDiVA\nYouTube: https://www.youtube.com/channel/UC0g1AE-F9b_1JNcXIzFqQbQ\nProfile: https://hololive.hololivepro.com/en/talents/azki
-CATEGORIES:hololive JP,Gen0,生日
+DESCRIPTION:Twitter: https://x.com/AZKi_VDiVA\\nYouTube: https://www.youtube.com/channel/UC0g1AE-F9b_1JNcXIzFqQbQ\\nProfile: https://hololive.hololivepro.com/en/talents/azki
+CATEGORIES:hololive JP\,Gen0\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:144275dd-51c5-4be9-a30d-ccd69d373157@hololive-cal
+UID:356b5ddc-91ce-44f9-a332-76b7452fd484@hololive-cal
 DTSTART;VALUE=DATE:19001115
 DTEND;VALUE=DATE:19001115
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 AZKi 出道紀念日 (hololive JP Gen0)
 URL:https://x.com/AZKi_VDiVA
-DESCRIPTION:Twitter: https://x.com/AZKi_VDiVA\nYouTube: https://www.youtube.com/channel/UC0g1AE-F9b_1JNcXIzFqQbQ\nProfile: https://hololive.hololivepro.com/en/talents/azki
-CATEGORIES:hololive JP,Gen0,出道
+DESCRIPTION:Twitter: https://x.com/AZKi_VDiVA\\nYouTube: https://www.youtube.com/channel/UC0g1AE-F9b_1JNcXIzFqQbQ\\nProfile: https://hololive.hololivepro.com/en/talents/azki
+CATEGORIES:hololive JP\,Gen0\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8deb8453-5369-441f-b658-d1cccff43e76@hololive-cal
+UID:2a8765e0-718a-4a9c-8a5a-9e076c752ac2@hololive-cal
 DTSTART;VALUE=DATE:19001031
 DTEND;VALUE=DATE:19001031
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Yozora Mel 生日 (hololive JP Gen1) ‑ 已畢業
+SUMMARY:🎂 夜空メル / Yozora Mel 生日 (hololive JP Gen1) - 已畢業
 URL:https://x.com/yozoramel
-DESCRIPTION:Twitter: https://x.com/yozoramel\nYouTube: https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBg\nProfile: https://hololive.hololivepro.com/en/talents/yozora-mel
-CATEGORIES:hololive JP,Gen1,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/yozoramel\\nYouTube: https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBg\\nProfile: https://hololive.hololivepro.com/en/talents/yozora-mel
+CATEGORIES:hololive JP\,Gen1\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3546d198-1826-40f0-9a85-860601f6d436@hololive-cal
+UID:67526be3-b72b-4b8e-b57d-76d4722369cf@hololive-cal
 DTSTART;VALUE=DATE:19000513
 DTEND;VALUE=DATE:19000513
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Yozora Mel 出道紀念日 (hololive JP Gen1) ‑ 已畢業
+SUMMARY:🎉 夜空メル / Yozora Mel 出道紀念日 (hololive JP Gen1) - 已畢業
 URL:https://x.com/yozoramel
-DESCRIPTION:Twitter: https://x.com/yozoramel\nYouTube: https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBg\nProfile: https://hololive.hololivepro.com/en/talents/yozora-mel
-CATEGORIES:hololive JP,Gen1,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/yozoramel\\nYouTube: https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBg\\nProfile: https://hololive.hololivepro.com/en/talents/yozora-mel
+CATEGORIES:hololive JP\,Gen1\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e8e4236f-e321-41fa-9173-1938430c9c7a@hololive-cal
+UID:a4f788c5-6335-4fff-8fbc-11a4c154d96e@hololive-cal
 DTSTART;VALUE=DATE:20240116
 DTEND;VALUE=DATE:20240116
-SUMMARY:🎓 Yozora Mel 畢業 (hololive JP Gen1)
+SUMMARY:🎓 夜空メル / Yozora Mel 畢業 (hololive JP Gen1)
 URL:https://x.com/yozoramel
-DESCRIPTION:Graduated: 2024-01-16\nTwitter: https://x.com/yozoramel\nYouTube: https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBg\nProfile: https://hololive.hololivepro.com/en/talents/yozora-mel
-CATEGORIES:hololive JP,Gen1,畢業
+DESCRIPTION:Graduated: 2024-01-16\\nTwitter: https://x.com/yozoramel\\nYouTube: https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBg\\nProfile: https://hololive.hololivepro.com/en/talents/yozora-mel
+CATEGORIES:hololive JP\,Gen1\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:67fdc4e8-2a5a-44c7-b549-5c3d946c94ad@hololive-cal
+UID:b85b71ec-9a93-42a9-9e3c-804e5f088aa1@hololive-cal
 DTSTART;VALUE=DATE:19001005
 DTEND;VALUE=DATE:19001005
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Shirakami Fubuki 生日 (hololive JP Gen1)
+SUMMARY:🎂 白上フブキ / Shirakami Fubuki 生日 (hololive JP Gen1)
 URL:https://x.com/shirakamifubuki
-DESCRIPTION:Twitter: https://x.com/shirakamifubuki\nYouTube: https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg\nProfile: https://hololive.hololivepro.com/en/talents/shirakami-fubuki
-CATEGORIES:hololive JP,Gen1,生日
+DESCRIPTION:Twitter: https://x.com/shirakamifubuki\\nYouTube: https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg\\nProfile: https://hololive.hololivepro.com/en/talents/shirakami-fubuki
+CATEGORIES:hololive JP\,Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c08e336b-ae68-44ae-9608-c0d6f93f759c@hololive-cal
+UID:da6f1ca0-ecbe-4732-ad6e-f6116650e1ea@hololive-cal
 DTSTART;VALUE=DATE:19000601
 DTEND;VALUE=DATE:19000601
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Shirakami Fubuki 出道紀念日 (hololive JP Gen1)
+SUMMARY:🎉 白上フブキ / Shirakami Fubuki 出道紀念日 (hololive JP Gen1)
 URL:https://x.com/shirakamifubuki
-DESCRIPTION:Twitter: https://x.com/shirakamifubuki\nYouTube: https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg\nProfile: https://hololive.hololivepro.com/en/talents/shirakami-fubuki
-CATEGORIES:hololive JP,Gen1,出道
+DESCRIPTION:Twitter: https://x.com/shirakamifubuki\\nYouTube: https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg\\nProfile: https://hololive.hololivepro.com/en/talents/shirakami-fubuki
+CATEGORIES:hololive JP\,Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c52d2ef6-4f6b-428a-8198-4bbce08d5961@hololive-cal
+UID:87a3e699-96b5-4b66-bee2-631eea3486bb@hololive-cal
 DTSTART;VALUE=DATE:19000722
 DTEND;VALUE=DATE:19000722
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Natsuiro Matsuri 生日 (hololive JP Gen1)
+SUMMARY:🎂 夏色まつり / Natsuiro Matsuri 生日 (hololive JP Gen1)
 URL:https://x.com/natsuiromatsuri
-DESCRIPTION:Twitter: https://x.com/natsuiromatsuri\nYouTube: https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38CB0\nProfile: https://hololive.hololivepro.com/en/talents/natsuiro-matsuri
-CATEGORIES:hololive JP,Gen1,生日
+DESCRIPTION:Twitter: https://x.com/natsuiromatsuri\\nYouTube: https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38CB0\\nProfile: https://hololive.hololivepro.com/en/talents/natsuiro-matsuri
+CATEGORIES:hololive JP\,Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5f09a69e-57d4-4d5c-8576-6d1312f88102@hololive-cal
+UID:761c7976-9e8b-4420-b9ea-0b9de95202e5@hololive-cal
 DTSTART;VALUE=DATE:19000601
 DTEND;VALUE=DATE:19000601
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Natsuiro Matsuri 出道紀念日 (hololive JP Gen1)
+SUMMARY:🎉 夏色まつり / Natsuiro Matsuri 出道紀念日 (hololive JP Gen1)
 URL:https://x.com/natsuiromatsuri
-DESCRIPTION:Twitter: https://x.com/natsuiromatsuri\nYouTube: https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38CB0\nProfile: https://hololive.hololivepro.com/en/talents/natsuiro-matsuri
-CATEGORIES:hololive JP,Gen1,出道
+DESCRIPTION:Twitter: https://x.com/natsuiromatsuri\\nYouTube: https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38CB0\\nProfile: https://hololive.hololivepro.com/en/talents/natsuiro-matsuri
+CATEGORIES:hololive JP\,Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:94127d30-8dbd-4528-8318-f27340ed1e9b@hololive-cal
+UID:a4e998d5-e3c3-4f95-87ea-a7c0f01d05c9@hololive-cal
 DTSTART;VALUE=DATE:19000217
 DTEND;VALUE=DATE:19000217
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Aki Rosenthal 生日 (hololive JP Gen1)
+SUMMARY:🎂 アキ・ローゼンタール / Aki Rosenthal 生日 (hololive JP Gen1)
 URL:https://x.com/akirosenthal
-DESCRIPTION:Twitter: https://x.com/akirosenthal\nYouTube: https://www.youtube.com/channel/UCFTLzh12_nrtzqKKAektApg\nProfile: https://hololive.hololivepro.com/en/talents/aki-rosenthal
-CATEGORIES:hololive JP,Gen1,生日
+DESCRIPTION:Twitter: https://x.com/akirosenthal\\nYouTube: https://www.youtube.com/channel/UCFTLzh12_nrtzqKKAektApg\\nProfile: https://hololive.hololivepro.com/en/talents/aki-rosenthal
+CATEGORIES:hololive JP\,Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e2f6c5fb-03f4-4f8d-bab8-1c128e9743a1@hololive-cal
+UID:beb88b1c-238d-4dbb-ae3b-7a28b6abf9c6@hololive-cal
 DTSTART;VALUE=DATE:19000601
 DTEND;VALUE=DATE:19000601
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Aki Rosenthal 出道紀念日 (hololive JP Gen1)
+SUMMARY:🎉 アキ・ローゼンタール / Aki Rosenthal 出道紀念日 (hololive JP Gen1)
 URL:https://x.com/akirosenthal
-DESCRIPTION:Twitter: https://x.com/akirosenthal\nYouTube: https://www.youtube.com/channel/UCFTLzh12_nrtzqKKAektApg\nProfile: https://hololive.hololivepro.com/en/talents/aki-rosenthal
-CATEGORIES:hololive JP,Gen1,出道
+DESCRIPTION:Twitter: https://x.com/akirosenthal\\nYouTube: https://www.youtube.com/channel/UCFTLzh12_nrtzqKKAektApg\\nProfile: https://hololive.hololivepro.com/en/talents/aki-rosenthal
+CATEGORIES:hololive JP\,Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20a86593-9ca2-4410-886f-9e4074e48410@hololive-cal
+UID:651b5393-b166-4989-9e51-f4bdb8832c7c@hololive-cal
 DTSTART;VALUE=DATE:19000810
 DTEND;VALUE=DATE:19000810
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Akai Haato 生日 (hololive JP Gen1)
+SUMMARY:🎂 赤井はあと / Akai Haato 生日 (hololive JP Gen1)
 URL:https://x.com/akaihaato
-DESCRIPTION:Twitter: https://x.com/akaihaato\nYouTube: https://www.youtube.com/channel/UCIcAj6WkJ8vZ7DeJVgmeqKw\nProfile: https://hololive.hololivepro.com/en/talents/akai-haato
-CATEGORIES:hololive JP,Gen1,生日
+DESCRIPTION:Twitter: https://x.com/akaihaato\\nYouTube: https://www.youtube.com/channel/UCIcAj6WkJ8vZ7DeJVgmeqKw\\nProfile: https://hololive.hololivepro.com/en/talents/akai-haato
+CATEGORIES:hololive JP\,Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5158bb58-c529-4d19-b105-c0d1e02ce663@hololive-cal
+UID:56f02e43-ca6e-4b68-8a6b-32d2409730ba@hololive-cal
 DTSTART;VALUE=DATE:19000602
 DTEND;VALUE=DATE:19000602
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Akai Haato 出道紀念日 (hololive JP Gen1)
+SUMMARY:🎉 赤井はあと / Akai Haato 出道紀念日 (hololive JP Gen1)
 URL:https://x.com/akaihaato
-DESCRIPTION:Twitter: https://x.com/akaihaato\nYouTube: https://www.youtube.com/channel/UCIcAj6WkJ8vZ7DeJVgmeqKw\nProfile: https://hololive.hololivepro.com/en/talents/akai-haato
-CATEGORIES:hololive JP,Gen1,出道
+DESCRIPTION:Twitter: https://x.com/akaihaato\\nYouTube: https://www.youtube.com/channel/UCIcAj6WkJ8vZ7DeJVgmeqKw\\nProfile: https://hololive.hololivepro.com/en/talents/akai-haato
+CATEGORIES:hololive JP\,Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:1bdfda55-1c25-4996-893e-ba5372fa66a9@hololive-cal
+UID:49fdca5b-1a88-401b-ac70-827725e3db02@hololive-cal
 DTSTART;VALUE=DATE:19000603
 DTEND;VALUE=DATE:19000603
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Hitomi Chris 出道紀念日 (hololive JP Gen1) ‑ 已解約
-CATEGORIES:hololive JP,Gen1,出道,已解約
+SUMMARY:🎉 ひとみクリス / Hitomi Chris 出道紀念日 (hololive JP Gen1) - 已解約
+CATEGORIES:hololive JP\,Gen1\,出道\,已解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:dfd1154d-aaf6-46a5-ad5d-432c8e06c2a9@hololive-cal
+UID:5d6f5b75-030c-4ea8-9ca9-04bee6c5bc67@hololive-cal
 DTSTART;VALUE=DATE:20180603
 DTEND;VALUE=DATE:20180603
-SUMMARY:🚫 Hitomi Chris 解約 (hololive JP Gen1)
-DESCRIPTION:Terminated: 2018-06-03\n
-CATEGORIES:hololive JP,Gen1,解約
+SUMMARY:🚫 ひとみクリス / Hitomi Chris 解約 (hololive JP Gen1)
+DESCRIPTION:Terminated: 2018-06-03
+CATEGORIES:hololive JP\,Gen1\,解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:1fb48c29-d484-4afd-9433-d9c54478ff04@hololive-cal
+UID:2e0f22b2-faf2-4196-a55c-34efe4a5b10c@hololive-cal
 DTSTART;VALUE=DATE:19001201
 DTEND;VALUE=DATE:19001201
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Minato Aqua 生日 (hololive JP Gen2) ‑ 已畢業
+SUMMARY:🎂 湊あくあ / Minato Aqua 生日 (hololive JP Gen2) - 已畢業
 URL:https://x.com/minatoaqua
-DESCRIPTION:Twitter: https://x.com/minatoaqua\nYouTube: https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg\nProfile: https://hololive.hololivepro.com/en/talents/minato-aqua
-CATEGORIES:hololive JP,Gen2,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/minatoaqua\\nYouTube: https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg\\nProfile: https://hololive.hololivepro.com/en/talents/minato-aqua
+CATEGORIES:hololive JP\,Gen2\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a079d792-2566-48f4-b123-ae7e81a6b219@hololive-cal
+UID:b9d84058-7a80-44d2-9165-043a570abd05@hololive-cal
 DTSTART;VALUE=DATE:19000808
 DTEND;VALUE=DATE:19000808
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Minato Aqua 出道紀念日 (hololive JP Gen2) ‑ 已畢業
+SUMMARY:🎉 湊あくあ / Minato Aqua 出道紀念日 (hololive JP Gen2) - 已畢業
 URL:https://x.com/minatoaqua
-DESCRIPTION:Twitter: https://x.com/minatoaqua\nYouTube: https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg\nProfile: https://hololive.hololivepro.com/en/talents/minato-aqua
-CATEGORIES:hololive JP,Gen2,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/minatoaqua\\nYouTube: https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg\\nProfile: https://hololive.hololivepro.com/en/talents/minato-aqua
+CATEGORIES:hololive JP\,Gen2\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7c00b120-a455-466a-8b26-306f986460fa@hololive-cal
+UID:ccc05d3d-5c59-4cf0-8ab9-402c37f1b880@hololive-cal
 DTSTART;VALUE=DATE:20240828
 DTEND;VALUE=DATE:20240828
-SUMMARY:🎓 Minato Aqua 畢業 (hololive JP Gen2)
+SUMMARY:🎓 湊あくあ / Minato Aqua 畢業 (hololive JP Gen2)
 URL:https://x.com/minatoaqua
-DESCRIPTION:Graduated: 2024-08-28\nTwitter: https://x.com/minatoaqua\nYouTube: https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg\nProfile: https://hololive.hololivepro.com/en/talents/minato-aqua
-CATEGORIES:hololive JP,Gen2,畢業
+DESCRIPTION:Graduated: 2024-08-28\\nTwitter: https://x.com/minatoaqua\\nYouTube: https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg\\nProfile: https://hololive.hololivepro.com/en/talents/minato-aqua
+CATEGORIES:hololive JP\,Gen2\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:21d8dd1a-4899-43ca-9763-142f3fb2ec6d@hololive-cal
+UID:c66bf70e-8583-495b-b3a1-441f636deec6@hololive-cal
 DTSTART;VALUE=DATE:19001208
 DTEND;VALUE=DATE:19001208
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Murasaki Shion 生日 (hololive JP Gen2) ‑ 已畢業
+SUMMARY:🎂 紫咲シオン / Murasaki Shion 生日 (hololive JP Gen2) - 已畢業
 URL:https://x.com/murasakishionch
-DESCRIPTION:Twitter: https://x.com/murasakishionch\nYouTube: https://www.youtube.com/channel/UCXTpFs9ql9oMVTOFYBPbCeg\nProfile: https://hololive.hololivepro.com/en/talents/murasaki-shion
-CATEGORIES:hololive JP,Gen2,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/murasakishionch\\nYouTube: https://www.youtube.com/channel/UCXTpFs9ql9oMVTOFYBPbCeg\\nProfile: https://hololive.hololivepro.com/en/talents/murasaki-shion
+CATEGORIES:hololive JP\,Gen2\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:843504d7-04cf-44a3-8dce-5d097e37af4a@hololive-cal
+UID:93aa5622-1871-4a4a-b8a6-7ca2b5e99aa1@hololive-cal
 DTSTART;VALUE=DATE:19000817
 DTEND;VALUE=DATE:19000817
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Murasaki Shion 出道紀念日 (hololive JP Gen2) ‑ 已畢業
+SUMMARY:🎉 紫咲シオン / Murasaki Shion 出道紀念日 (hololive JP Gen2) - 已畢業
 URL:https://x.com/murasakishionch
-DESCRIPTION:Twitter: https://x.com/murasakishionch\nYouTube: https://www.youtube.com/channel/UCXTpFs9ql9oMVTOFYBPbCeg\nProfile: https://hololive.hololivepro.com/en/talents/murasaki-shion
-CATEGORIES:hololive JP,Gen2,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/murasakishionch\\nYouTube: https://www.youtube.com/channel/UCXTpFs9ql9oMVTOFYBPbCeg\\nProfile: https://hololive.hololivepro.com/en/talents/murasaki-shion
+CATEGORIES:hololive JP\,Gen2\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:25700bf7-ec81-490e-91fa-cacd83974477@hololive-cal
+UID:a58713b8-51a4-4a88-a6ec-d395b023657c@hololive-cal
 DTSTART;VALUE=DATE:20250426
 DTEND;VALUE=DATE:20250426
-SUMMARY:🎓 Murasaki Shion 畢業 (hololive JP Gen2)
+SUMMARY:🎓 紫咲シオン / Murasaki Shion 畢業 (hololive JP Gen2)
 URL:https://x.com/murasakishionch
-DESCRIPTION:Graduated: 2025-04-26\nTwitter: https://x.com/murasakishionch\nYouTube: https://www.youtube.com/channel/UCXTpFs9ql9oMVTOFYBPbCeg\nProfile: https://hololive.hololivepro.com/en/talents/murasaki-shion
-CATEGORIES:hololive JP,Gen2,畢業
+DESCRIPTION:Graduated: 2025-04-26\\nTwitter: https://x.com/murasakishionch\\nYouTube: https://www.youtube.com/channel/UCXTpFs9ql9oMVTOFYBPbCeg\\nProfile: https://hololive.hololivepro.com/en/talents/murasaki-shion
+CATEGORIES:hololive JP\,Gen2\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d95ceb94-2530-416d-8f9e-78ae6468c934@hololive-cal
+UID:3870569a-ec86-4e89-9586-137c49884681@hololive-cal
 DTSTART;VALUE=DATE:19001213
 DTEND;VALUE=DATE:19001213
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Nakiri Ayame 生日 (hololive JP Gen2)
+SUMMARY:🎂 百鬼あやめ / Nakiri Ayame 生日 (hololive JP Gen2)
 URL:https://x.com/nakiriayame
-DESCRIPTION:Twitter: https://x.com/nakiriayame\nYouTube: https://www.youtube.com/channel/UC7fk0CB07ly8-EVZInto1Mw\nProfile: https://hololive.hololivepro.com/en/talents/nakiri-ayame
-CATEGORIES:hololive JP,Gen2,生日
+DESCRIPTION:Twitter: https://x.com/nakiriayame\\nYouTube: https://www.youtube.com/channel/UC7fk0CB07ly8-EVZInto1Mw\\nProfile: https://hololive.hololivepro.com/en/talents/nakiri-ayame
+CATEGORIES:hololive JP\,Gen2\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4da4cca5-f89a-4de6-b797-ef74322c2db8@hololive-cal
+UID:8b5043ed-2c8e-4537-807b-3a07c4754246@hololive-cal
 DTSTART;VALUE=DATE:19000903
 DTEND;VALUE=DATE:19000903
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Nakiri Ayame 出道紀念日 (hololive JP Gen2)
+SUMMARY:🎉 百鬼あやめ / Nakiri Ayame 出道紀念日 (hololive JP Gen2)
 URL:https://x.com/nakiriayame
-DESCRIPTION:Twitter: https://x.com/nakiriayame\nYouTube: https://www.youtube.com/channel/UC7fk0CB07ly8-EVZInto1Mw\nProfile: https://hololive.hololivepro.com/en/talents/nakiri-ayame
-CATEGORIES:hololive JP,Gen2,出道
+DESCRIPTION:Twitter: https://x.com/nakiriayame\\nYouTube: https://www.youtube.com/channel/UC7fk0CB07ly8-EVZInto1Mw\\nProfile: https://hololive.hololivepro.com/en/talents/nakiri-ayame
+CATEGORIES:hololive JP\,Gen2\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a207efdd-4e85-47ae-99a2-17bd04e55668@hololive-cal
+UID:1c81cb8e-ae3c-45d9-bb6e-d46fad8dea6c@hololive-cal
 DTSTART;VALUE=DATE:19000214
 DTEND;VALUE=DATE:19000214
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Yuzuki Choco 生日 (hololive JP Gen2)
+SUMMARY:🎂 癒月ちょこ / Yuzuki Choco 生日 (hololive JP Gen2)
 URL:https://x.com/yuzukichococh
-DESCRIPTION:Twitter: https://x.com/yuzukichococh\nYouTube: https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg\nProfile: https://hololive.hololivepro.com/en/talents/yuzuki-choco
-CATEGORIES:hololive JP,Gen2,生日
+DESCRIPTION:Twitter: https://x.com/yuzukichococh\\nYouTube: https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg\\nProfile: https://hololive.hololivepro.com/en/talents/yuzuki-choco
+CATEGORIES:hololive JP\,Gen2\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a4ac5905-1196-4004-b6d2-712d19490b30@hololive-cal
+UID:f8efabb3-0e56-4342-9463-4031d26259eb@hololive-cal
 DTSTART;VALUE=DATE:19000904
 DTEND;VALUE=DATE:19000904
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Yuzuki Choco 出道紀念日 (hololive JP Gen2)
+SUMMARY:🎉 癒月ちょこ / Yuzuki Choco 出道紀念日 (hololive JP Gen2)
 URL:https://x.com/yuzukichococh
-DESCRIPTION:Twitter: https://x.com/yuzukichococh\nYouTube: https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg\nProfile: https://hololive.hololivepro.com/en/talents/yuzuki-choco
-CATEGORIES:hololive JP,Gen2,出道
+DESCRIPTION:Twitter: https://x.com/yuzukichococh\\nYouTube: https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg\\nProfile: https://hololive.hololivepro.com/en/talents/yuzuki-choco
+CATEGORIES:hololive JP\,Gen2\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:db4ce809-a4e8-4cdb-ae3d-78812baf5839@hololive-cal
+UID:d6891267-d8a4-4c1d-9726-c498ea137754@hololive-cal
 DTSTART;VALUE=DATE:19000702
 DTEND;VALUE=DATE:19000702
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Oozora Subaru 生日 (hololive JP Gen2)
+SUMMARY:🎂 大空スバル / Oozora Subaru 生日 (hololive JP Gen2)
 URL:https://x.com/oozorasubaru
-DESCRIPTION:Twitter: https://x.com/oozorasubaru\nYouTube: https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA\nProfile: https://hololive.hololivepro.com/en/talents/oozora-subaru
-CATEGORIES:hololive JP,Gen2,生日
+DESCRIPTION:Twitter: https://x.com/oozorasubaru\\nYouTube: https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA\\nProfile: https://hololive.hololivepro.com/en/talents/oozora-subaru
+CATEGORIES:hololive JP\,Gen2\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bee095a7-8209-4613-985c-1275c040eb3c@hololive-cal
+UID:c8d7962b-0fad-4926-a877-c5e0cd1f9153@hololive-cal
 DTSTART;VALUE=DATE:19000916
 DTEND;VALUE=DATE:19000916
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Oozora Subaru 出道紀念日 (hololive JP Gen2)
+SUMMARY:🎉 大空スバル / Oozora Subaru 出道紀念日 (hololive JP Gen2)
 URL:https://x.com/oozorasubaru
-DESCRIPTION:Twitter: https://x.com/oozorasubaru\nYouTube: https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA\nProfile: https://hololive.hololivepro.com/en/talents/oozora-subaru
-CATEGORIES:hololive JP,Gen2,出道
+DESCRIPTION:Twitter: https://x.com/oozorasubaru\\nYouTube: https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA\\nProfile: https://hololive.hololivepro.com/en/talents/oozora-subaru
+CATEGORIES:hololive JP\,Gen2\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bf73e316-97f1-461a-bdb5-455ba06f018f@hololive-cal
+UID:ac2e64c7-d5a6-4a54-abf9-2b10d413c322@hololive-cal
 DTSTART;VALUE=DATE:19000820
 DTEND;VALUE=DATE:19000820
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Ookami Mio 生日 (hololive JP Gamers)
+SUMMARY:🎂 大神ミオ / Ookami Mio 生日 (hololive JP Gamers)
 URL:https://x.com/ookamimio
-DESCRIPTION:Twitter: https://x.com/ookamimio\nYouTube: https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg\nProfile: https://hololive.hololivepro.com/en/talents/ookami-mio
-CATEGORIES:hololive JP,Gamers,生日
+DESCRIPTION:Twitter: https://x.com/ookamimio\\nYouTube: https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg\\nProfile: https://hololive.hololivepro.com/en/talents/ookami-mio
+CATEGORIES:hololive JP\,Gamers\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:95f8595f-a8db-4351-962f-31af152b1f42@hololive-cal
+UID:dd303e1f-e7bb-4e5c-9d27-980598c8a03b@hololive-cal
 DTSTART;VALUE=DATE:19001207
 DTEND;VALUE=DATE:19001207
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Ookami Mio 出道紀念日 (hololive JP Gamers)
+SUMMARY:🎉 大神ミオ / Ookami Mio 出道紀念日 (hololive JP Gamers)
 URL:https://x.com/ookamimio
-DESCRIPTION:Twitter: https://x.com/ookamimio\nYouTube: https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg\nProfile: https://hololive.hololivepro.com/en/talents/ookami-mio
-CATEGORIES:hololive JP,Gamers,出道
+DESCRIPTION:Twitter: https://x.com/ookamimio\\nYouTube: https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg\\nProfile: https://hololive.hololivepro.com/en/talents/ookami-mio
+CATEGORIES:hololive JP\,Gamers\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:86b040f1-eeff-41ac-8d22-80d2b064761c@hololive-cal
+UID:558c228e-5121-498c-ac6c-2206d23d0149@hololive-cal
 DTSTART;VALUE=DATE:19000222
 DTEND;VALUE=DATE:19000222
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Nekomata Okayu 生日 (hololive JP Gamers)
+SUMMARY:🎂 猫又おかゆ / Nekomata Okayu 生日 (hololive JP Gamers)
 URL:https://x.com/nekomataokayu
-DESCRIPTION:Twitter: https://x.com/nekomataokayu\nYouTube: https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw\nProfile: https://hololive.hololivepro.com/en/talents/nekomata-okayu
-CATEGORIES:hololive JP,Gamers,生日
+DESCRIPTION:Twitter: https://x.com/nekomataokayu\\nYouTube: https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw\\nProfile: https://hololive.hololivepro.com/en/talents/nekomata-okayu
+CATEGORIES:hololive JP\,Gamers\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bdde61a7-32a9-4e5c-8977-9f35b11f0440@hololive-cal
+UID:6c609775-615f-4d8e-a160-39187c63a79d@hololive-cal
 DTSTART;VALUE=DATE:19000406
 DTEND;VALUE=DATE:19000406
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Nekomata Okayu 出道紀念日 (hololive JP Gamers)
+SUMMARY:🎉 猫又おかゆ / Nekomata Okayu 出道紀念日 (hololive JP Gamers)
 URL:https://x.com/nekomataokayu
-DESCRIPTION:Twitter: https://x.com/nekomataokayu\nYouTube: https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw\nProfile: https://hololive.hololivepro.com/en/talents/nekomata-okayu
-CATEGORIES:hololive JP,Gamers,出道
+DESCRIPTION:Twitter: https://x.com/nekomataokayu\\nYouTube: https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw\\nProfile: https://hololive.hololivepro.com/en/talents/nekomata-okayu
+CATEGORIES:hololive JP\,Gamers\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ab97d3c3-bab7-4f5e-b756-a73c7b6eff07@hololive-cal
+UID:b083ff3d-00e8-4cb8-ae9d-f0e952f3016a@hololive-cal
 DTSTART;VALUE=DATE:19001001
 DTEND;VALUE=DATE:19001001
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Inugami Korone 生日 (hololive JP Gamers)
+SUMMARY:🎂 戌神ころね / Inugami Korone 生日 (hololive JP Gamers)
 URL:https://x.com/inugamikorone
-DESCRIPTION:Twitter: https://x.com/inugamikorone\nYouTube: https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q\nProfile: https://hololive.hololivepro.com/en/talents/inugami-korone
-CATEGORIES:hololive JP,Gamers,生日
+DESCRIPTION:Twitter: https://x.com/inugamikorone\\nYouTube: https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q\\nProfile: https://hololive.hololivepro.com/en/talents/inugami-korone
+CATEGORIES:hololive JP\,Gamers\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:87bb0c90-0f17-4adc-b19a-3096de2e6643@hololive-cal
+UID:fc0e3682-c8f3-44e0-a7bb-44cd984aaefc@hololive-cal
 DTSTART;VALUE=DATE:19000413
 DTEND;VALUE=DATE:19000413
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Inugami Korone 出道紀念日 (hololive JP Gamers)
+SUMMARY:🎉 戌神ころね / Inugami Korone 出道紀念日 (hololive JP Gamers)
 URL:https://x.com/inugamikorone
-DESCRIPTION:Twitter: https://x.com/inugamikorone\nYouTube: https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q\nProfile: https://hololive.hololivepro.com/en/talents/inugami-korone
-CATEGORIES:hololive JP,Gamers,出道
+DESCRIPTION:Twitter: https://x.com/inugamikorone\\nYouTube: https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q\\nProfile: https://hololive.hololivepro.com/en/talents/inugami-korone
+CATEGORIES:hololive JP\,Gamers\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:23ed2a75-dc07-4cc1-8e88-4af00d1f350e@hololive-cal
+UID:ed789c88-4b3e-48e4-b3b9-c785a923b890@hololive-cal
 DTSTART;VALUE=DATE:19000112
 DTEND;VALUE=DATE:19000112
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Usada Pekora 生日 (hololive JP Gen3)
+SUMMARY:🎂 兎田ぺこら / Usada Pekora 生日 (hololive JP Gen3)
 URL:https://x.com/usadapekora
-DESCRIPTION:Twitter: https://x.com/usadapekora\nYouTube: https://www.youtube.com/channel/UC0RZwikiHh8eLSnBC0vjIBQ\nProfile: https://hololive.hololivepro.com/en/talents/usada-pekora
-CATEGORIES:hololive JP,Gen3,生日
+DESCRIPTION:Twitter: https://x.com/usadapekora\\nYouTube: https://www.youtube.com/channel/UC0RZwikiHh8eLSnBC0vjIBQ\\nProfile: https://hololive.hololivepro.com/en/talents/usada-pekora
+CATEGORIES:hololive JP\,Gen3\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:49c75687-c7f8-48b7-aade-57d3bac714dd@hololive-cal
+UID:c5c19669-2bd7-4b11-b1af-5ba4243fb325@hololive-cal
 DTSTART;VALUE=DATE:19000717
 DTEND;VALUE=DATE:19000717
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Usada Pekora 出道紀念日 (hololive JP Gen3)
+SUMMARY:🎉 兎田ぺこら / Usada Pekora 出道紀念日 (hololive JP Gen3)
 URL:https://x.com/usadapekora
-DESCRIPTION:Twitter: https://x.com/usadapekora\nYouTube: https://www.youtube.com/channel/UC0RZwikiHh8eLSnBC0vjIBQ\nProfile: https://hololive.hololivepro.com/en/talents/usada-pekora
-CATEGORIES:hololive JP,Gen3,出道
+DESCRIPTION:Twitter: https://x.com/usadapekora\\nYouTube: https://www.youtube.com/channel/UC0RZwikiHh8eLSnBC0vjIBQ\\nProfile: https://hololive.hololivepro.com/en/talents/usada-pekora
+CATEGORIES:hololive JP\,Gen3\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:cf835ada-4a8e-4f07-b919-535ce160ecc5@hololive-cal
+UID:11af1028-cfb7-4aa0-b085-e773f0d737d0@hololive-cal
 DTSTART;VALUE=DATE:19001201
 DTEND;VALUE=DATE:19001201
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Uruha Rushia 生日 (hololive JP Gen3) ‑ 已解約
-CATEGORIES:hololive JP,Gen3,生日,已解約
+SUMMARY:🎂 潤羽るしあ / Uruha Rushia 生日 (hololive JP Gen3) - 已解約
+CATEGORIES:hololive JP\,Gen3\,生日\,已解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:fda79dd8-0651-45b5-a80b-4c1d4a4d1c8b@hololive-cal
+UID:1d8e52f2-3c3a-43e1-bf6f-35a01d83be22@hololive-cal
 DTSTART;VALUE=DATE:19000718
 DTEND;VALUE=DATE:19000718
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Uruha Rushia 出道紀念日 (hololive JP Gen3) ‑ 已解約
-CATEGORIES:hololive JP,Gen3,出道,已解約
+SUMMARY:🎉 潤羽るしあ / Uruha Rushia 出道紀念日 (hololive JP Gen3) - 已解約
+CATEGORIES:hololive JP\,Gen3\,出道\,已解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:637ed4d6-22b1-4c0b-b172-8a6116b2b830@hololive-cal
+UID:00aeba49-be73-48ce-972e-975ee540d45c@hololive-cal
 DTSTART;VALUE=DATE:20220224
 DTEND;VALUE=DATE:20220224
-SUMMARY:🚫 Uruha Rushia 解約 (hololive JP Gen3)
-DESCRIPTION:Terminated: 2022-02-24\n
-CATEGORIES:hololive JP,Gen3,解約
+SUMMARY:🚫 潤羽るしあ / Uruha Rushia 解約 (hololive JP Gen3)
+DESCRIPTION:Terminated: 2022-02-24
+CATEGORIES:hololive JP\,Gen3\,解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d5f1e40f-4d3f-42a1-9b9d-1fe7e4aa5ddb@hololive-cal
+UID:0fd2a356-918a-45b2-852e-2b8f19ea6cbf@hololive-cal
 DTSTART;VALUE=DATE:19000402
 DTEND;VALUE=DATE:19000402
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Shiranui Flare 生日 (hololive JP Gen3)
+SUMMARY:🎂 不知火フレア / Shiranui Flare 生日 (hololive JP Gen3)
 URL:https://x.com/shiranuiflare
-DESCRIPTION:Twitter: https://x.com/shiranuiflare\nYouTube: https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg\nProfile: https://hololive.hololivepro.com/en/talents/shiranui-flare
-CATEGORIES:hololive JP,Gen3,生日
+DESCRIPTION:Twitter: https://x.com/shiranuiflare\\nYouTube: https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg\\nProfile: https://hololive.hololivepro.com/en/talents/shiranui-flare
+CATEGORIES:hololive JP\,Gen3\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a903efb7-2f5f-4fb7-b8f4-116ca4fdd101@hololive-cal
+UID:31994e1c-568c-4df4-8e02-fa070e3d1f0a@hololive-cal
 DTSTART;VALUE=DATE:19000807
 DTEND;VALUE=DATE:19000807
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Shiranui Flare 出道紀念日 (hololive JP Gen3)
+SUMMARY:🎉 不知火フレア / Shiranui Flare 出道紀念日 (hololive JP Gen3)
 URL:https://x.com/shiranuiflare
-DESCRIPTION:Twitter: https://x.com/shiranuiflare\nYouTube: https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg\nProfile: https://hololive.hololivepro.com/en/talents/shiranui-flare
-CATEGORIES:hololive JP,Gen3,出道
+DESCRIPTION:Twitter: https://x.com/shiranuiflare\\nYouTube: https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg\\nProfile: https://hololive.hololivepro.com/en/talents/shiranui-flare
+CATEGORIES:hololive JP\,Gen3\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:64e27ad4-326a-4bf2-a9ef-6d3dbfa87c09@hololive-cal
+UID:e66d1708-32f2-46b0-a46c-8123a8bb7d7d@hololive-cal
 DTSTART;VALUE=DATE:19001124
 DTEND;VALUE=DATE:19001124
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Shirogane Noel 生日 (hololive JP Gen3)
+SUMMARY:🎂 白銀ノエル / Shirogane Noel 生日 (hololive JP Gen3)
 URL:https://x.com/shiroganenoel
-DESCRIPTION:Twitter: https://x.com/shiroganenoel\nYouTube: https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ\nProfile: https://hololive.hololivepro.com/en/talents/shirogane-noel
-CATEGORIES:hololive JP,Gen3,生日
+DESCRIPTION:Twitter: https://x.com/shiroganenoel\\nYouTube: https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ\\nProfile: https://hololive.hololivepro.com/en/talents/shirogane-noel
+CATEGORIES:hololive JP\,Gen3\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a2dccf17-5442-46f3-9643-d7b526cf158f@hololive-cal
+UID:5a906e29-a105-4b42-99c2-9a2ea544771e@hololive-cal
 DTSTART;VALUE=DATE:19000808
 DTEND;VALUE=DATE:19000808
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Shirogane Noel 出道紀念日 (hololive JP Gen3)
+SUMMARY:🎉 白銀ノエル / Shirogane Noel 出道紀念日 (hololive JP Gen3)
 URL:https://x.com/shiroganenoel
-DESCRIPTION:Twitter: https://x.com/shiroganenoel\nYouTube: https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ\nProfile: https://hololive.hololivepro.com/en/talents/shirogane-noel
-CATEGORIES:hololive JP,Gen3,出道
+DESCRIPTION:Twitter: https://x.com/shiroganenoel\\nYouTube: https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ\\nProfile: https://hololive.hololivepro.com/en/talents/shirogane-noel
+CATEGORIES:hololive JP\,Gen3\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b650383d-7032-488c-bf36-fbc0d597aa11@hololive-cal
+UID:32caaec3-4687-45a6-b3f6-c44e6760bdf4@hololive-cal
 DTSTART;VALUE=DATE:19000730
 DTEND;VALUE=DATE:19000730
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Houshou Marine 生日 (hololive JP Gen3)
+SUMMARY:🎂 宝鐘マリン / Houshou Marine 生日 (hololive JP Gen3)
 URL:https://x.com/houshoumarine
-DESCRIPTION:Twitter: https://x.com/houshoumarine\nYouTube: https://www.youtube.com/channel/UCCzUftykAd1kqYCgc5xwK0A\nProfile: https://hololive.hololivepro.com/en/talents/houshou-marine
-CATEGORIES:hololive JP,Gen3,生日
+DESCRIPTION:Twitter: https://x.com/houshoumarine\\nYouTube: https://www.youtube.com/channel/UCCzUftykAd1kqYCgc5xwK0A\\nProfile: https://hololive.hololivepro.com/en/talents/houshou-marine
+CATEGORIES:hololive JP\,Gen3\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8f809779-91af-4c9e-8889-cd65b005cbc5@hololive-cal
+UID:64f1de8c-0af3-42a1-95e3-818d65bc1b9e@hololive-cal
 DTSTART;VALUE=DATE:19000811
 DTEND;VALUE=DATE:19000811
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Houshou Marine 出道紀念日 (hololive JP Gen3)
+SUMMARY:🎉 宝鐘マリン / Houshou Marine 出道紀念日 (hololive JP Gen3)
 URL:https://x.com/houshoumarine
-DESCRIPTION:Twitter: https://x.com/houshoumarine\nYouTube: https://www.youtube.com/channel/UCCzUftykAd1kqYCgc5xwK0A\nProfile: https://hololive.hololivepro.com/en/talents/houshou-marine
-CATEGORIES:hololive JP,Gen3,出道
+DESCRIPTION:Twitter: https://x.com/houshoumarine\\nYouTube: https://www.youtube.com/channel/UCCzUftykAd1kqYCgc5xwK0A\\nProfile: https://hololive.hololivepro.com/en/talents/houshou-marine
+CATEGORIES:hololive JP\,Gen3\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b39d9357-a236-4744-98ec-7bc53bba9ed9@hololive-cal
+UID:952aabfa-1284-4d23-b281-b0e977aa2a6e@hololive-cal
 DTSTART;VALUE=DATE:19000606
 DTEND;VALUE=DATE:19000606
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Tsunomaki Watame 生日 (hololive JP Gen4)
+SUMMARY:🎂 角巻わため / Tsunomaki Watame 生日 (hololive JP Gen4)
 URL:https://x.com/tsunomakiwatame
-DESCRIPTION:Twitter: https://x.com/tsunomakiwatame\nYouTube: https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_Hd-Jcvg\nProfile: https://hololive.hololivepro.com/en/talents/tsunomaki-watame
-CATEGORIES:hololive JP,Gen4,生日
+DESCRIPTION:Twitter: https://x.com/tsunomakiwatame\\nYouTube: https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_Hd-Jcvg\\nProfile: https://hololive.hololivepro.com/en/talents/tsunomaki-watame
+CATEGORIES:hololive JP\,Gen4\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a633acdd-fee5-402d-bc41-63af53bcba77@hololive-cal
+UID:7d4b79bc-63b7-4846-bc46-3218098f2d0f@hololive-cal
 DTSTART;VALUE=DATE:19001229
 DTEND;VALUE=DATE:19001229
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Tsunomaki Watame 出道紀念日 (hololive JP Gen4)
+SUMMARY:🎉 角巻わため / Tsunomaki Watame 出道紀念日 (hololive JP Gen4)
 URL:https://x.com/tsunomakiwatame
-DESCRIPTION:Twitter: https://x.com/tsunomakiwatame\nYouTube: https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_Hd-Jcvg\nProfile: https://hololive.hololivepro.com/en/talents/tsunomaki-watame
-CATEGORIES:hololive JP,Gen4,出道
+DESCRIPTION:Twitter: https://x.com/tsunomakiwatame\\nYouTube: https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_Hd-Jcvg\\nProfile: https://hololive.hololivepro.com/en/talents/tsunomaki-watame
+CATEGORIES:hololive JP\,Gen4\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8c42c590-b39e-4c09-b56d-0cf5856e4b5e@hololive-cal
+UID:fc2bafab-7868-44c7-8672-d7ed57ecb4ed@hololive-cal
 DTSTART;VALUE=DATE:19000808
 DTEND;VALUE=DATE:19000808
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Tokoyami Towa 生日 (hololive JP Gen4)
+SUMMARY:🎂 常闇トワ / Tokoyami Towa 生日 (hololive JP Gen4)
 URL:https://x.com/tokoyamitowa
-DESCRIPTION:Twitter: https://x.com/tokoyamitowa\nYouTube: https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw\nProfile: https://hololive.hololivepro.com/en/talents/tokoyami-towa
-CATEGORIES:hololive JP,Gen4,生日
+DESCRIPTION:Twitter: https://x.com/tokoyamitowa\\nYouTube: https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw\\nProfile: https://hololive.hololivepro.com/en/talents/tokoyami-towa
+CATEGORIES:hololive JP\,Gen4\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b8fd4510-c553-46d1-87a1-7950a0946887@hololive-cal
+UID:34ab1808-020d-44c9-b619-7fd5959e1180@hololive-cal
 DTSTART;VALUE=DATE:19000103
 DTEND;VALUE=DATE:19000103
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Tokoyami Towa 出道紀念日 (hololive JP Gen4)
+SUMMARY:🎉 常闇トワ / Tokoyami Towa 出道紀念日 (hololive JP Gen4)
 URL:https://x.com/tokoyamitowa
-DESCRIPTION:Twitter: https://x.com/tokoyamitowa\nYouTube: https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw\nProfile: https://hololive.hololivepro.com/en/talents/tokoyami-towa
-CATEGORIES:hololive JP,Gen4,出道
+DESCRIPTION:Twitter: https://x.com/tokoyamitowa\\nYouTube: https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw\\nProfile: https://hololive.hololivepro.com/en/talents/tokoyami-towa
+CATEGORIES:hololive JP\,Gen4\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c7653717-fa35-4890-87aa-ada6ab8fb552@hololive-cal
+UID:2b1e1547-ad3d-4043-a282-0d87077b72fe@hololive-cal
 DTSTART;VALUE=DATE:19001010
 DTEND;VALUE=DATE:19001010
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Himemori Luna 生日 (hololive JP Gen4)
+SUMMARY:🎂 姫森ルーナ / Himemori Luna 生日 (hololive JP Gen4)
 URL:https://x.com/himemoriluna
-DESCRIPTION:Twitter: https://x.com/himemoriluna\nYouTube: https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw\nProfile: https://hololive.hololivepro.com/en/talents/himemori-luna
-CATEGORIES:hololive JP,Gen4,生日
+DESCRIPTION:Twitter: https://x.com/himemoriluna\\nYouTube: https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw\\nProfile: https://hololive.hololivepro.com/en/talents/himemori-luna
+CATEGORIES:hololive JP\,Gen4\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:fd029179-b56b-42a9-aaa8-c36c0af44d7b@hololive-cal
+UID:3f2d7b9e-b4bb-4f04-aa25-0afc52795ba6@hololive-cal
 DTSTART;VALUE=DATE:19000104
 DTEND;VALUE=DATE:19000104
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Himemori Luna 出道紀念日 (hololive JP Gen4)
+SUMMARY:🎉 姫森ルーナ / Himemori Luna 出道紀念日 (hololive JP Gen4)
 URL:https://x.com/himemoriluna
-DESCRIPTION:Twitter: https://x.com/himemoriluna\nYouTube: https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw\nProfile: https://hololive.hololivepro.com/en/talents/himemori-luna
-CATEGORIES:hololive JP,Gen4,出道
+DESCRIPTION:Twitter: https://x.com/himemoriluna\\nYouTube: https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw\\nProfile: https://hololive.hololivepro.com/en/talents/himemori-luna
+CATEGORIES:hololive JP\,Gen4\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:efd68ecd-f2c3-46bb-a886-af1185c32a51@hololive-cal
+UID:9c3e4543-fcc6-4360-99a4-398a1feb4f12@hololive-cal
 DTSTART;VALUE=DATE:19000422
 DTEND;VALUE=DATE:19000422
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Amane Kanata 生日 (hololive JP Gen4) ‑ 已畢業
+SUMMARY:🎂 天音かなた / Amane Kanata 生日 (hololive JP Gen4) - 已畢業
 URL:https://x.com/amanekanatach
-DESCRIPTION:Twitter: https://x.com/amanekanatach\nYouTube: https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg\nProfile: https://hololive.hololivepro.com/en/talents/amane-kanata
-CATEGORIES:hololive JP,Gen4,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/amanekanatach\\nYouTube: https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg\\nProfile: https://hololive.hololivepro.com/en/talents/amane-kanata
+CATEGORIES:hololive JP\,Gen4\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8b93a07f-f03f-4e11-b4cc-967bc4c9b372@hololive-cal
+UID:ff17fbe0-8e75-4cf8-a899-fdc392c97d93@hololive-cal
 DTSTART;VALUE=DATE:19001227
 DTEND;VALUE=DATE:19001227
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Amane Kanata 出道紀念日 (hololive JP Gen4) ‑ 已畢業
+SUMMARY:🎉 天音かなた / Amane Kanata 出道紀念日 (hololive JP Gen4) - 已畢業
 URL:https://x.com/amanekanatach
-DESCRIPTION:Twitter: https://x.com/amanekanatach\nYouTube: https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg\nProfile: https://hololive.hololivepro.com/en/talents/amane-kanata
-CATEGORIES:hololive JP,Gen4,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/amanekanatach\\nYouTube: https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg\\nProfile: https://hololive.hololivepro.com/en/talents/amane-kanata
+CATEGORIES:hololive JP\,Gen4\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a2ed43fb-c949-4369-881a-50e4eba35396@hololive-cal
+UID:570e8886-5e09-404e-a3f7-1624e2dc5d34@hololive-cal
 DTSTART;VALUE=DATE:20251227
 DTEND;VALUE=DATE:20251227
-SUMMARY:🎓 Amane Kanata 畢業 (hololive JP Gen4)
+SUMMARY:🎓 天音かなた / Amane Kanata 畢業 (hololive JP Gen4)
 URL:https://x.com/amanekanatach
-DESCRIPTION:Graduated: 2025-12-27\nTwitter: https://x.com/amanekanatach\nYouTube: https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg\nProfile: https://hololive.hololivepro.com/en/talents/amane-kanata
-CATEGORIES:hololive JP,Gen4,畢業
+DESCRIPTION:Graduated: 2025-12-27\\nTwitter: https://x.com/amanekanatach\\nYouTube: https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg\\nProfile: https://hololive.hololivepro.com/en/talents/amane-kanata
+CATEGORIES:hololive JP\,Gen4\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:47900005-436b-4773-9485-42357a931f1a@hololive-cal
+UID:b4d9993d-b85f-4b02-9c73-d440271ac1b5@hololive-cal
 DTSTART;VALUE=DATE:19000617
 DTEND;VALUE=DATE:19000617
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Kiryu Coco 生日 (hololive JP Gen4) ‑ 已畢業
+SUMMARY:🎂 桐生ココ / Kiryu Coco 生日 (hololive JP Gen4) - 已畢業
 URL:https://x.com/kiryucoco
-DESCRIPTION:Twitter: https://x.com/kiryucoco\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w
-CATEGORIES:hololive JP,Gen4,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/kiryucoco\\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w
+CATEGORIES:hololive JP\,Gen4\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:25cba043-200a-4c68-91ab-862df78106b9@hololive-cal
+UID:606ee313-53a9-463e-b4ed-00c6844b0fb7@hololive-cal
 DTSTART;VALUE=DATE:19001228
 DTEND;VALUE=DATE:19001228
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Kiryu Coco 出道紀念日 (hololive JP Gen4) ‑ 已畢業
+SUMMARY:🎉 桐生ココ / Kiryu Coco 出道紀念日 (hololive JP Gen4) - 已畢業
 URL:https://x.com/kiryucoco
-DESCRIPTION:Twitter: https://x.com/kiryucoco\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w
-CATEGORIES:hololive JP,Gen4,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/kiryucoco\\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w
+CATEGORIES:hololive JP\,Gen4\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5a2fab57-528e-4fdf-8478-9f22372ce438@hololive-cal
+UID:845ba0da-7b77-4cfd-87dd-8c48e3b2e0d5@hololive-cal
 DTSTART;VALUE=DATE:20210701
 DTEND;VALUE=DATE:20210701
-SUMMARY:🎓 Kiryu Coco 畢業 (hololive JP Gen4)
+SUMMARY:🎓 桐生ココ / Kiryu Coco 畢業 (hololive JP Gen4)
 URL:https://x.com/kiryucoco
-DESCRIPTION:Graduated: 2021-07-01\nTwitter: https://x.com/kiryucoco\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w
-CATEGORIES:hololive JP,Gen4,畢業
+DESCRIPTION:Graduated: 2021-07-01\\nTwitter: https://x.com/kiryucoco\\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w
+CATEGORIES:hololive JP\,Gen4\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f0b2938a-5bc9-49da-a8ad-e8579319c6f6@hololive-cal
+UID:869990b5-1adc-4e09-8fd5-8d51d607c356@hololive-cal
 DTSTART;VALUE=DATE:19001115
 DTEND;VALUE=DATE:19001115
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Yukihana Lamy 生日 (hololive JP Gen5)
+SUMMARY:🎂 雪花ラミィ / Yukihana Lamy 生日 (hololive JP Gen5)
 URL:https://x.com/yukihanalamy
-DESCRIPTION:Twitter: https://x.com/yukihanalamy\nYouTube: https://www.youtube.com/channel/UCFWOSodm5a8IntLGU-srMpQ\nProfile: https://hololive.hololivepro.com/en/talents/yukihana-lamy
-CATEGORIES:hololive JP,Gen5,生日
+DESCRIPTION:Twitter: https://x.com/yukihanalamy\\nYouTube: https://www.youtube.com/channel/UCFWOSodm5a8IntLGU-srMpQ\\nProfile: https://hololive.hololivepro.com/en/talents/yukihana-lamy
+CATEGORIES:hololive JP\,Gen5\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3b7df971-26e2-475b-a46a-751c0b35ca22@hololive-cal
+UID:f45a5d13-facb-4740-a2d3-c52d99cf27e5@hololive-cal
 DTSTART;VALUE=DATE:19000812
 DTEND;VALUE=DATE:19000812
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Yukihana Lamy 出道紀念日 (hololive JP Gen5)
+SUMMARY:🎉 雪花ラミィ / Yukihana Lamy 出道紀念日 (hololive JP Gen5)
 URL:https://x.com/yukihanalamy
-DESCRIPTION:Twitter: https://x.com/yukihanalamy\nYouTube: https://www.youtube.com/channel/UCFWOSodm5a8IntLGU-srMpQ\nProfile: https://hololive.hololivepro.com/en/talents/yukihana-lamy
-CATEGORIES:hololive JP,Gen5,出道
+DESCRIPTION:Twitter: https://x.com/yukihanalamy\\nYouTube: https://www.youtube.com/channel/UCFWOSodm5a8IntLGU-srMpQ\\nProfile: https://hololive.hololivepro.com/en/talents/yukihana-lamy
+CATEGORIES:hololive JP\,Gen5\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:afb684b3-4284-4ba6-9bbf-84a5a1d09ea9@hololive-cal
+UID:e8017987-0155-4037-bf27-b0ff1b7b341f@hololive-cal
 DTSTART;VALUE=DATE:19000302
 DTEND;VALUE=DATE:19000302
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Momosuzu Nene 生日 (hololive JP Gen5)
+SUMMARY:🎂 桃鈴ねね / Momosuzu Nene 生日 (hololive JP Gen5)
 URL:https://x.com/momosuzunene
-DESCRIPTION:Twitter: https://x.com/momosuzunene\nYouTube: https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA\nProfile: https://hololive.hololivepro.com/en/talents/momosuzu-nene
-CATEGORIES:hololive JP,Gen5,生日
+DESCRIPTION:Twitter: https://x.com/momosuzunene\\nYouTube: https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA\\nProfile: https://hololive.hololivepro.com/en/talents/momosuzu-nene
+CATEGORIES:hololive JP\,Gen5\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f5065e7e-dae4-4e2a-b978-2ef85d45597c@hololive-cal
+UID:83e1425f-b39e-4ed1-8527-e86a6cee93ae@hololive-cal
 DTSTART;VALUE=DATE:19000813
 DTEND;VALUE=DATE:19000813
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Momosuzu Nene 出道紀念日 (hololive JP Gen5)
+SUMMARY:🎉 桃鈴ねね / Momosuzu Nene 出道紀念日 (hololive JP Gen5)
 URL:https://x.com/momosuzunene
-DESCRIPTION:Twitter: https://x.com/momosuzunene\nYouTube: https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA\nProfile: https://hololive.hololivepro.com/en/talents/momosuzu-nene
-CATEGORIES:hololive JP,Gen5,出道
+DESCRIPTION:Twitter: https://x.com/momosuzunene\\nYouTube: https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA\\nProfile: https://hololive.hololivepro.com/en/talents/momosuzu-nene
+CATEGORIES:hololive JP\,Gen5\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:efbff4c6-ce29-4ae8-b724-32ddf7f73553@hololive-cal
+UID:64deaaed-80d1-4a07-a221-1801ada70026@hololive-cal
 DTSTART;VALUE=DATE:19000908
 DTEND;VALUE=DATE:19000908
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Shishiro Botan 生日 (hololive JP Gen5)
+SUMMARY:🎂 獅白ぼたん / Shishiro Botan 生日 (hololive JP Gen5)
 URL:https://x.com/shishirobotan
-DESCRIPTION:Twitter: https://x.com/shishirobotan\nYouTube: https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA\nProfile: https://hololive.hololivepro.com/en/talents/shishiro-botan
-CATEGORIES:hololive JP,Gen5,生日
+DESCRIPTION:Twitter: https://x.com/shishirobotan\\nYouTube: https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA\\nProfile: https://hololive.hololivepro.com/en/talents/shishiro-botan
+CATEGORIES:hololive JP\,Gen5\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0e1b8594-311b-4b4d-bbd1-44d940aaebd4@hololive-cal
+UID:04fa2751-dd2b-4b92-800a-27e8d18d7883@hololive-cal
 DTSTART;VALUE=DATE:19000814
 DTEND;VALUE=DATE:19000814
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Shishiro Botan 出道紀念日 (hololive JP Gen5)
+SUMMARY:🎉 獅白ぼたん / Shishiro Botan 出道紀念日 (hololive JP Gen5)
 URL:https://x.com/shishirobotan
-DESCRIPTION:Twitter: https://x.com/shishirobotan\nYouTube: https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA\nProfile: https://hololive.hololivepro.com/en/talents/shishiro-botan
-CATEGORIES:hololive JP,Gen5,出道
+DESCRIPTION:Twitter: https://x.com/shishirobotan\\nYouTube: https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA\\nProfile: https://hololive.hololivepro.com/en/talents/shishiro-botan
+CATEGORIES:hololive JP\,Gen5\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0ac98e7f-0ac0-46dd-ab40-7ba2a0c40bd9@hololive-cal
+UID:8e85b9ef-7555-4faa-86c5-3f8c1e6a29e0@hololive-cal
 DTSTART;VALUE=DATE:19000218
 DTEND;VALUE=DATE:19000218
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Mano Aloe 生日 (hololive JP Gen5) ‑ 已解約
-CATEGORIES:hololive JP,Gen5,生日,已解約
+SUMMARY:🎂 魔乃アロエ / Mano Aloe 生日 (hololive JP Gen5) - 已解約
+CATEGORIES:hololive JP\,Gen5\,生日\,已解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:091c9e04-4ec7-43ff-8cfe-bb6425ea7b27@hololive-cal
+UID:6455b293-4f05-4a03-894c-0b4c92a1915f@hololive-cal
 DTSTART;VALUE=DATE:19000816
 DTEND;VALUE=DATE:19000816
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Mano Aloe 出道紀念日 (hololive JP Gen5) ‑ 已解約
-CATEGORIES:hololive JP,Gen5,出道,已解約
+SUMMARY:🎉 魔乃アロエ / Mano Aloe 出道紀念日 (hololive JP Gen5) - 已解約
+CATEGORIES:hololive JP\,Gen5\,出道\,已解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:38d3a5fe-e520-4504-be8c-6adcce8ba280@hololive-cal
+UID:dd7df4e7-09c4-464e-b594-820959ede8e0@hololive-cal
 DTSTART;VALUE=DATE:20200831
 DTEND;VALUE=DATE:20200831
-SUMMARY:🚫 Mano Aloe 解約 (hololive JP Gen5)
-DESCRIPTION:Terminated: 2020-08-31\n
-CATEGORIES:hololive JP,Gen5,解約
+SUMMARY:🚫 魔乃アロエ / Mano Aloe 解約 (hololive JP Gen5)
+DESCRIPTION:Terminated: 2020-08-31
+CATEGORIES:hololive JP\,Gen5\,解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3cf6c793-eeb4-454e-89da-41cf392e8c7c@hololive-cal
+UID:a755060f-66db-4e77-ab98-69cf7de78288@hololive-cal
 DTSTART;VALUE=DATE:19000130
 DTEND;VALUE=DATE:19000130
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Omaru Polka 生日 (hololive JP Gen5)
+SUMMARY:🎂 尾丸ポルカ / Omaru Polka 生日 (hololive JP Gen5)
 URL:https://x.com/omarupolka
-DESCRIPTION:Twitter: https://x.com/omarupolka\nYouTube: https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA\nProfile: https://hololive.hololivepro.com/en/talents/omaru-polka
-CATEGORIES:hololive JP,Gen5,生日
+DESCRIPTION:Twitter: https://x.com/omarupolka\\nYouTube: https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA\\nProfile: https://hololive.hololivepro.com/en/talents/omaru-polka
+CATEGORIES:hololive JP\,Gen5\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:55f87fb6-9983-4c9a-b348-39a7a0bea528@hololive-cal
+UID:3ee89402-6b21-4c2b-8db6-a923aba23dd8@hololive-cal
 DTSTART;VALUE=DATE:19000820
 DTEND;VALUE=DATE:19000820
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Omaru Polka 出道紀念日 (hololive JP Gen5)
+SUMMARY:🎉 尾丸ポルカ / Omaru Polka 出道紀念日 (hololive JP Gen5)
 URL:https://x.com/omarupolka
-DESCRIPTION:Twitter: https://x.com/omarupolka\nYouTube: https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA\nProfile: https://hololive.hololivepro.com/en/talents/omaru-polka
-CATEGORIES:hololive JP,Gen5,出道
+DESCRIPTION:Twitter: https://x.com/omarupolka\\nYouTube: https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA\\nProfile: https://hololive.hololivepro.com/en/talents/omaru-polka
+CATEGORIES:hololive JP\,Gen5\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:49b874b1-2e09-4fd8-9af1-689cecfc8398@hololive-cal
+UID:42a521c4-8b21-4e34-8ce2-af3fa2df99ef@hololive-cal
 DTSTART;VALUE=DATE:19000525
 DTEND;VALUE=DATE:19000525
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 La+ Darknesss 生日 (hololive JP holoX)
+SUMMARY:🎂 ラプラス・ダークネス / La+ Darknesss 生日 (hololive JP holoX)
 URL:https://x.com/laplus_hololive
-DESCRIPTION:Twitter: https://x.com/laplus_hololive\nYouTube: https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw\nProfile: https://hololive.hololivepro.com/en/talents/laplus-darknesss
-CATEGORIES:hololive JP,holoX,生日
+DESCRIPTION:Twitter: https://x.com/laplus_hololive\\nYouTube: https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw\\nProfile: https://hololive.hololivepro.com/en/talents/laplus-darknesss
+CATEGORIES:hololive JP\,holoX\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e953d456-9a57-4370-9a6e-98b5aa501c06@hololive-cal
+UID:ffadca89-d7c3-4c56-a755-18a430f9d065@hololive-cal
 DTSTART;VALUE=DATE:19001126
 DTEND;VALUE=DATE:19001126
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 La+ Darknesss 出道紀念日 (hololive JP holoX)
+SUMMARY:🎉 ラプラス・ダークネス / La+ Darknesss 出道紀念日 (hololive JP holoX)
 URL:https://x.com/laplus_hololive
-DESCRIPTION:Twitter: https://x.com/laplus_hololive\nYouTube: https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw\nProfile: https://hololive.hololivepro.com/en/talents/laplus-darknesss
-CATEGORIES:hololive JP,holoX,出道
+DESCRIPTION:Twitter: https://x.com/laplus_hololive\\nYouTube: https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw\\nProfile: https://hololive.hololivepro.com/en/talents/laplus-darknesss
+CATEGORIES:hololive JP\,holoX\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:af62b5e2-321b-4043-82cb-3d281b20b891@hololive-cal
+UID:48b8106c-734c-4247-b652-7de25c4fab39@hololive-cal
 DTSTART;VALUE=DATE:19000611
 DTEND;VALUE=DATE:19000611
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Takane Lui 生日 (hololive JP holoX)
+SUMMARY:🎂 鷹嶺ルイ / Takane Lui 生日 (hololive JP holoX)
 URL:https://x.com/takanelui
-DESCRIPTION:Twitter: https://x.com/takanelui\nYouTube: https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-oab7CgDg\nProfile: https://hololive.hololivepro.com/en/talents/takane-lui
-CATEGORIES:hololive JP,holoX,生日
+DESCRIPTION:Twitter: https://x.com/takanelui\\nYouTube: https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-oab7CgDg\\nProfile: https://hololive.hololivepro.com/en/talents/takane-lui
+CATEGORIES:hololive JP\,holoX\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:63f6e0d0-e8ca-41a4-9488-5db307ed8102@hololive-cal
+UID:5e48af56-d60e-49dc-93f9-28b1b9a3ce81@hololive-cal
 DTSTART;VALUE=DATE:19001127
 DTEND;VALUE=DATE:19001127
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Takane Lui 出道紀念日 (hololive JP holoX)
+SUMMARY:🎉 鷹嶺ルイ / Takane Lui 出道紀念日 (hololive JP holoX)
 URL:https://x.com/takanelui
-DESCRIPTION:Twitter: https://x.com/takanelui\nYouTube: https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-oab7CgDg\nProfile: https://hololive.hololivepro.com/en/talents/takane-lui
-CATEGORIES:hololive JP,holoX,出道
+DESCRIPTION:Twitter: https://x.com/takanelui\\nYouTube: https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-oab7CgDg\\nProfile: https://hololive.hololivepro.com/en/talents/takane-lui
+CATEGORIES:hololive JP\,holoX\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5f532914-80c8-4bea-9cfc-a07c7054656b@hololive-cal
+UID:75d0dc38-8952-4097-bcbe-6ae466d04fde@hololive-cal
 DTSTART;VALUE=DATE:19000315
 DTEND;VALUE=DATE:19000315
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Hakui Koyori 生日 (hololive JP holoX)
+SUMMARY:🎂 博衣こより / Hakui Koyori 生日 (hololive JP holoX)
 URL:https://x.com/hakuikoyori
-DESCRIPTION:Twitter: https://x.com/hakuikoyori\nYouTube: https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw\nProfile: https://hololive.hololivepro.com/en/talents/hakui-koyori
-CATEGORIES:hololive JP,holoX,生日
+DESCRIPTION:Twitter: https://x.com/hakuikoyori\\nYouTube: https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw\\nProfile: https://hololive.hololivepro.com/en/talents/hakui-koyori
+CATEGORIES:hololive JP\,holoX\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5c4210c6-5e42-4ffd-8fc0-2d41ed684e9f@hololive-cal
+UID:debdcea2-1f83-434b-8c6c-891b410dec5c@hololive-cal
 DTSTART;VALUE=DATE:19001128
 DTEND;VALUE=DATE:19001128
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Hakui Koyori 出道紀念日 (hololive JP holoX)
+SUMMARY:🎉 博衣こより / Hakui Koyori 出道紀念日 (hololive JP holoX)
 URL:https://x.com/hakuikoyori
-DESCRIPTION:Twitter: https://x.com/hakuikoyori\nYouTube: https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw\nProfile: https://hololive.hololivepro.com/en/talents/hakui-koyori
-CATEGORIES:hololive JP,holoX,出道
+DESCRIPTION:Twitter: https://x.com/hakuikoyori\\nYouTube: https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw\\nProfile: https://hololive.hololivepro.com/en/talents/hakui-koyori
+CATEGORIES:hololive JP\,holoX\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e89168f6-01fe-4413-9900-d42adcc424a4@hololive-cal
+UID:ad508e12-5418-47fc-b357-928440a232fb@hololive-cal
 DTSTART;VALUE=DATE:19000518
 DTEND;VALUE=DATE:19000518
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Sakamata Chloe 生日 (hololive JP holoX) ‑ 已畢業
+SUMMARY:🎂 沙花叉クロヱ / Sakamata Chloe 生日 (hololive JP holoX) - 已畢業
 URL:https://x.com/sakamata_chloe
-DESCRIPTION:Twitter: https://x.com/sakamata_chloe\nYouTube: https://www.youtube.com/channel/UCIBY1gdj6_eu5hRDZm7aqTg
-CATEGORIES:hololive JP,holoX,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/sakamata_chloe\\nYouTube: https://www.youtube.com/channel/UCIBY1gdj6_eu5hRDZm7aqTg
+CATEGORIES:hololive JP\,holoX\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:512013b4-be74-418a-bf64-87d5f1a5d449@hololive-cal
+UID:fcaa8d44-b946-45aa-b46f-babd281f6f6f@hololive-cal
 DTSTART;VALUE=DATE:19001129
 DTEND;VALUE=DATE:19001129
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Sakamata Chloe 出道紀念日 (hololive JP holoX) ‑ 已畢業
+SUMMARY:🎉 沙花叉クロヱ / Sakamata Chloe 出道紀念日 (hololive JP holoX) - 已畢業
 URL:https://x.com/sakamata_chloe
-DESCRIPTION:Twitter: https://x.com/sakamata_chloe\nYouTube: https://www.youtube.com/channel/UCIBY1gdj6_eu5hRDZm7aqTg
-CATEGORIES:hololive JP,holoX,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/sakamata_chloe\\nYouTube: https://www.youtube.com/channel/UCIBY1gdj6_eu5hRDZm7aqTg
+CATEGORIES:hololive JP\,holoX\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:946edb11-cac8-4c7e-acde-6d68c9bd145e@hololive-cal
+UID:91bfd7d5-2b4c-4b0f-9869-2d6c72fbd491@hololive-cal
 DTSTART;VALUE=DATE:20250126
 DTEND;VALUE=DATE:20250126
-SUMMARY:🎓 Sakamata Chloe 畢業 (hololive JP holoX)
+SUMMARY:🎓 沙花叉クロヱ / Sakamata Chloe 畢業 (hololive JP holoX)
 URL:https://x.com/sakamata_chloe
-DESCRIPTION:Graduated: 2025-01-26\nTwitter: https://x.com/sakamata_chloe\nYouTube: https://www.youtube.com/channel/UCIBY1gdj6_eu5hRDZm7aqTg
-CATEGORIES:hololive JP,holoX,畢業
+DESCRIPTION:Graduated: 2025-01-26\\nTwitter: https://x.com/sakamata_chloe\\nYouTube: https://www.youtube.com/channel/UCIBY1gdj6_eu5hRDZm7aqTg
+CATEGORIES:hololive JP\,holoX\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2dd6480b-b1b9-4aa7-a283-06c195a7f9e9@hololive-cal
+UID:fae18df1-287f-43fa-a6d0-7d9d21af6e80@hololive-cal
 DTSTART;VALUE=DATE:19000618
 DTEND;VALUE=DATE:19000618
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Kazama Iroha 生日 (hololive JP holoX)
+SUMMARY:🎂 風真いろは / Kazama Iroha 生日 (hololive JP holoX)
 URL:https://x.com/kazamairoha
-DESCRIPTION:Twitter: https://x.com/kazamairoha\nYouTube: https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ\nProfile: https://hololive.hololivepro.com/en/talents/kazama-iroha
-CATEGORIES:hololive JP,holoX,生日
+DESCRIPTION:Twitter: https://x.com/kazamairoha\\nYouTube: https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ\\nProfile: https://hololive.hololivepro.com/en/talents/kazama-iroha
+CATEGORIES:hololive JP\,holoX\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b955ca1b-974d-4b32-8fb2-be4b6eec1443@hololive-cal
+UID:9b9dc6fc-ef70-4ea1-bf55-5a8299b74cb6@hololive-cal
 DTSTART;VALUE=DATE:19001130
 DTEND;VALUE=DATE:19001130
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Kazama Iroha 出道紀念日 (hololive JP holoX)
+SUMMARY:🎉 風真いろは / Kazama Iroha 出道紀念日 (hololive JP holoX)
 URL:https://x.com/kazamairoha
-DESCRIPTION:Twitter: https://x.com/kazamairoha\nYouTube: https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ\nProfile: https://hololive.hololivepro.com/en/talents/kazama-iroha
-CATEGORIES:hololive JP,holoX,出道
+DESCRIPTION:Twitter: https://x.com/kazamairoha\\nYouTube: https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ\\nProfile: https://hololive.hololivepro.com/en/talents/kazama-iroha
+CATEGORIES:hololive JP\,holoX\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3ce4838d-2169-4f23-ad3c-96660c41ae1f@hololive-cal
+UID:6daf9300-701e-4cf7-ab86-4913a3b26d3c@hololive-cal
 DTSTART;VALUE=DATE:19000115
 DTEND;VALUE=DATE:19000115
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Ayunda Risu 生日 (hololive ID ID Gen1)
 URL:https://x.com/ayunda_risu
-DESCRIPTION:Twitter: https://x.com/ayunda_risu\nYouTube: https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw\nProfile: https://hololive.hololivepro.com/en/talents/ayunda-risu
-CATEGORIES:hololive ID,ID Gen1,生日
+DESCRIPTION:Twitter: https://x.com/ayunda_risu\\nYouTube: https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw\\nProfile: https://hololive.hololivepro.com/en/talents/ayunda-risu
+CATEGORIES:hololive ID\,ID Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:21a42e65-4ba8-4f65-a377-b5397e2335e4@hololive-cal
+UID:2c02003d-d29a-44ce-9f7c-50ed3827acbd@hololive-cal
 DTSTART;VALUE=DATE:19000410
 DTEND;VALUE=DATE:19000410
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Ayunda Risu 出道紀念日 (hololive ID ID Gen1)
 URL:https://x.com/ayunda_risu
-DESCRIPTION:Twitter: https://x.com/ayunda_risu\nYouTube: https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw\nProfile: https://hololive.hololivepro.com/en/talents/ayunda-risu
-CATEGORIES:hololive ID,ID Gen1,出道
+DESCRIPTION:Twitter: https://x.com/ayunda_risu\\nYouTube: https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw\\nProfile: https://hololive.hololivepro.com/en/talents/ayunda-risu
+CATEGORIES:hololive ID\,ID Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4cd7308c-b03f-4676-96f7-8100123b7dbb@hololive-cal
+UID:3b96562f-9426-4a87-923f-529cafd3a23e@hololive-cal
 DTSTART;VALUE=DATE:19000215
 DTEND;VALUE=DATE:19000215
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Moona Hoshinova 生日 (hololive ID ID Gen1)
 URL:https://x.com/moonahoshinova
-DESCRIPTION:Twitter: https://x.com/moonahoshinova\nYouTube: https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg\nProfile: https://hololive.hololivepro.com/en/talents/moona-hoshinova
-CATEGORIES:hololive ID,ID Gen1,生日
+DESCRIPTION:Twitter: https://x.com/moonahoshinova\\nYouTube: https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg\\nProfile: https://hololive.hololivepro.com/en/talents/moona-hoshinova
+CATEGORIES:hololive ID\,ID Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b5106fb2-5a0b-420b-af95-1639189fc009@hololive-cal
+UID:078ec5be-8fe3-49b9-b18d-eed58ac2fbc0@hololive-cal
 DTSTART;VALUE=DATE:19000411
 DTEND;VALUE=DATE:19000411
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Moona Hoshinova 出道紀念日 (hololive ID ID Gen1)
 URL:https://x.com/moonahoshinova
-DESCRIPTION:Twitter: https://x.com/moonahoshinova\nYouTube: https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg\nProfile: https://hololive.hololivepro.com/en/talents/moona-hoshinova
-CATEGORIES:hololive ID,ID Gen1,出道
+DESCRIPTION:Twitter: https://x.com/moonahoshinova\\nYouTube: https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg\\nProfile: https://hololive.hololivepro.com/en/talents/moona-hoshinova
+CATEGORIES:hololive ID\,ID Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f5a8d491-4e13-4f78-a3f2-2cd0853c628c@hololive-cal
+UID:c3016384-03d4-421a-8dbd-35babd139001@hololive-cal
 DTSTART;VALUE=DATE:19000715
 DTEND;VALUE=DATE:19000715
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Airani Iofifteen 生日 (hololive ID ID Gen1)
 URL:https://x.com/airaniiofifteen
-DESCRIPTION:Twitter: https://x.com/airaniiofifteen\nYouTube: https://www.youtube.com/channel/UCAoy6rzhSf29CanKdbW5AZg\nProfile: https://hololive.hololivepro.com/en/talents/airani-iofifteen
-CATEGORIES:hololive ID,ID Gen1,生日
+DESCRIPTION:Twitter: https://x.com/airaniiofifteen\\nYouTube: https://www.youtube.com/channel/UCAoy6rzhSf29CanKdbW5AZg\\nProfile: https://hololive.hololivepro.com/en/talents/airani-iofifteen
+CATEGORIES:hololive ID\,ID Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:78e202c2-51e3-446f-9ad1-7717370d4aaf@hololive-cal
+UID:0db29576-3603-48d4-afea-1e4323db25c8@hololive-cal
 DTSTART;VALUE=DATE:19000412
 DTEND;VALUE=DATE:19000412
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Airani Iofifteen 出道紀念日 (hololive ID ID Gen1)
 URL:https://x.com/airaniiofifteen
-DESCRIPTION:Twitter: https://x.com/airaniiofifteen\nYouTube: https://www.youtube.com/channel/UCAoy6rzhSf29CanKdbW5AZg\nProfile: https://hololive.hololivepro.com/en/talents/airani-iofifteen
-CATEGORIES:hololive ID,ID Gen1,出道
+DESCRIPTION:Twitter: https://x.com/airaniiofifteen\\nYouTube: https://www.youtube.com/channel/UCAoy6rzhSf29CanKdbW5AZg\\nProfile: https://hololive.hololivepro.com/en/talents/airani-iofifteen
+CATEGORIES:hololive ID\,ID Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:523837e8-6925-4f6b-816d-e974dcc63894@hololive-cal
+UID:4be905ae-4741-4ad7-8c74-0cb9e68105a2@hololive-cal
 DTSTART;VALUE=DATE:19001013
 DTEND;VALUE=DATE:19001013
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Kureiji Ollie 生日 (hololive ID ID Gen2)
 URL:https://x.com/kureijiollie
-DESCRIPTION:Twitter: https://x.com/kureijiollie\nYouTube: https://www.youtube.com/channel/UCYz_5n-uDqchHEx_sPKAf1g\nProfile: https://hololive.hololivepro.com/en/talents/kureiji-ollie
-CATEGORIES:hololive ID,ID Gen2,生日
+DESCRIPTION:Twitter: https://x.com/kureijiollie\\nYouTube: https://www.youtube.com/channel/UCYz_5n-uDqchHEx_sPKAf1g\\nProfile: https://hololive.hololivepro.com/en/talents/kureiji-ollie
+CATEGORIES:hololive ID\,ID Gen2\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:de84cbdf-32f6-40ed-9d5b-d77ef782907c@hololive-cal
+UID:962cefc8-a7fb-459a-8ae1-3ddfb87f626c@hololive-cal
 DTSTART;VALUE=DATE:19001204
 DTEND;VALUE=DATE:19001204
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Kureiji Ollie 出道紀念日 (hololive ID ID Gen2)
 URL:https://x.com/kureijiollie
-DESCRIPTION:Twitter: https://x.com/kureijiollie\nYouTube: https://www.youtube.com/channel/UCYz_5n-uDqchHEx_sPKAf1g\nProfile: https://hololive.hololivepro.com/en/talents/kureiji-ollie
-CATEGORIES:hololive ID,ID Gen2,出道
+DESCRIPTION:Twitter: https://x.com/kureijiollie\\nYouTube: https://www.youtube.com/channel/UCYz_5n-uDqchHEx_sPKAf1g\\nProfile: https://hololive.hololivepro.com/en/talents/kureiji-ollie
+CATEGORIES:hololive ID\,ID Gen2\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e80ef575-b4ee-4cf1-931a-3f785bd3506d@hololive-cal
+UID:a437d6de-d509-4398-b4ca-9685b2e01f55@hololive-cal
 DTSTART;VALUE=DATE:19000312
 DTEND;VALUE=DATE:19000312
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Anya Melfissa 生日 (hololive ID ID Gen2)
 URL:https://x.com/anyamelfissa
-DESCRIPTION:Twitter: https://x.com/anyamelfissa\nYouTube: https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg\nProfile: https://hololive.hololivepro.com/en/talents/anya-melfissa
-CATEGORIES:hololive ID,ID Gen2,生日
+DESCRIPTION:Twitter: https://x.com/anyamelfissa\\nYouTube: https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg\\nProfile: https://hololive.hololivepro.com/en/talents/anya-melfissa
+CATEGORIES:hololive ID\,ID Gen2\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:281985ec-d15f-49e7-99f5-3196a3924d75@hololive-cal
+UID:3b35c8e1-4300-4553-afaf-f7cdf0a6d97c@hololive-cal
 DTSTART;VALUE=DATE:19001205
 DTEND;VALUE=DATE:19001205
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Anya Melfissa 出道紀念日 (hololive ID ID Gen2)
 URL:https://x.com/anyamelfissa
-DESCRIPTION:Twitter: https://x.com/anyamelfissa\nYouTube: https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg\nProfile: https://hololive.hololivepro.com/en/talents/anya-melfissa
-CATEGORIES:hololive ID,ID Gen2,出道
+DESCRIPTION:Twitter: https://x.com/anyamelfissa\\nYouTube: https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg\\nProfile: https://hololive.hololivepro.com/en/talents/anya-melfissa
+CATEGORIES:hololive ID\,ID Gen2\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0d5ea5f2-91e6-4233-a2da-7f3160d545a9@hololive-cal
+UID:7f5df9c4-f2e4-41da-9053-87d82c0bf4eb@hololive-cal
 DTSTART;VALUE=DATE:19000909
 DTEND;VALUE=DATE:19000909
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Pavolia Reine 生日 (hololive ID ID Gen2)
 URL:https://x.com/pavoliareine
-DESCRIPTION:Twitter: https://x.com/pavoliareine\nYouTube: https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q\nProfile: https://hololive.hololivepro.com/en/talents/pavolia-reine
-CATEGORIES:hololive ID,ID Gen2,生日
+DESCRIPTION:Twitter: https://x.com/pavoliareine\\nYouTube: https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q\\nProfile: https://hololive.hololivepro.com/en/talents/pavolia-reine
+CATEGORIES:hololive ID\,ID Gen2\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:be6d7225-c991-4352-bc53-8a3bbd78dd04@hololive-cal
+UID:27511764-e86a-42b2-ba74-9e51d87aea2b@hololive-cal
 DTSTART;VALUE=DATE:19001206
 DTEND;VALUE=DATE:19001206
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Pavolia Reine 出道紀念日 (hololive ID ID Gen2)
 URL:https://x.com/pavoliareine
-DESCRIPTION:Twitter: https://x.com/pavoliareine\nYouTube: https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q\nProfile: https://hololive.hololivepro.com/en/talents/pavolia-reine
-CATEGORIES:hololive ID,ID Gen2,出道
+DESCRIPTION:Twitter: https://x.com/pavoliareine\\nYouTube: https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q\\nProfile: https://hololive.hololivepro.com/en/talents/pavolia-reine
+CATEGORIES:hololive ID\,ID Gen2\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9e6290a7-3e0f-474f-89de-59a97c5a51af@hololive-cal
+UID:f0fc1a49-cfc0-41ef-b01e-e7492226ab0f@hololive-cal
 DTSTART;VALUE=DATE:19001107
 DTEND;VALUE=DATE:19001107
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Vestia Zeta 生日 (hololive ID ID Gen3)
 URL:https://x.com/vestiazeta
-DESCRIPTION:Twitter: https://x.com/vestiazeta\nYouTube: https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ\nProfile: https://hololive.hololivepro.com/en/talents/vestia-zeta
-CATEGORIES:hololive ID,ID Gen3,生日
+DESCRIPTION:Twitter: https://x.com/vestiazeta\\nYouTube: https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ\\nProfile: https://hololive.hololivepro.com/en/talents/vestia-zeta
+CATEGORIES:hololive ID\,ID Gen3\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5274c641-bcd8-4437-b5c5-dda3ea7c6ecb@hololive-cal
+UID:1768cdc4-fb80-432c-a935-87d761c30c79@hololive-cal
 DTSTART;VALUE=DATE:19000325
 DTEND;VALUE=DATE:19000325
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Vestia Zeta 出道紀念日 (hololive ID ID Gen3)
 URL:https://x.com/vestiazeta
-DESCRIPTION:Twitter: https://x.com/vestiazeta\nYouTube: https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ\nProfile: https://hololive.hololivepro.com/en/talents/vestia-zeta
-CATEGORIES:hololive ID,ID Gen3,出道
+DESCRIPTION:Twitter: https://x.com/vestiazeta\\nYouTube: https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ\\nProfile: https://hololive.hololivepro.com/en/talents/vestia-zeta
+CATEGORIES:hololive ID\,ID Gen3\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3e17510b-14c1-44e0-b6ef-247f098262c5@hololive-cal
+UID:509958a2-7785-46c0-988b-d7899f0dee36@hololive-cal
 DTSTART;VALUE=DATE:19000830
 DTEND;VALUE=DATE:19000830
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Kaela Kovalskia 生日 (hololive ID ID Gen3)
 URL:https://x.com/kaelakovalskia
-DESCRIPTION:Twitter: https://x.com/kaelakovalskia\nYouTube: https://www.youtube.com/channel/UCZLZ8Jjx_RAs6RxkQl1K0Q\nProfile: https://hololive.hololivepro.com/en/talents/kaela-kovalskia
-CATEGORIES:hololive ID,ID Gen3,生日
+DESCRIPTION:Twitter: https://x.com/kaelakovalskia\\nYouTube: https://www.youtube.com/channel/UCZLZ8Jjx_RAs6RxkQl1K0Q\\nProfile: https://hololive.hololivepro.com/en/talents/kaela-kovalskia
+CATEGORIES:hololive ID\,ID Gen3\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6198795d-5d60-4b03-a994-ac63c9350793@hololive-cal
+UID:4fc31621-d351-458d-b4d9-dc41047affe9@hololive-cal
 DTSTART;VALUE=DATE:19000326
 DTEND;VALUE=DATE:19000326
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Kaela Kovalskia 出道紀念日 (hololive ID ID Gen3)
 URL:https://x.com/kaelakovalskia
-DESCRIPTION:Twitter: https://x.com/kaelakovalskia\nYouTube: https://www.youtube.com/channel/UCZLZ8Jjx_RAs6RxkQl1K0Q\nProfile: https://hololive.hololivepro.com/en/talents/kaela-kovalskia
-CATEGORIES:hololive ID,ID Gen3,出道
+DESCRIPTION:Twitter: https://x.com/kaelakovalskia\\nYouTube: https://www.youtube.com/channel/UCZLZ8Jjx_RAs6RxkQl1K0Q\\nProfile: https://hololive.hololivepro.com/en/talents/kaela-kovalskia
+CATEGORIES:hololive ID\,ID Gen3\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3d2b69d3-dd5f-460d-ac9c-7e1c03d582fc@hololive-cal
+UID:5543c0b4-651b-4e31-9554-7bd49292339b@hololive-cal
 DTSTART;VALUE=DATE:19001212
 DTEND;VALUE=DATE:19001212
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Kobo Kanaeru 生日 (hololive ID ID Gen3)
 URL:https://x.com/kobokanaeru
-DESCRIPTION:Twitter: https://x.com/kobokanaeru\nYouTube: https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw\nProfile: https://hololive.hololivepro.com/en/talents/kobo-kanaeru
-CATEGORIES:hololive ID,ID Gen3,生日
+DESCRIPTION:Twitter: https://x.com/kobokanaeru\\nYouTube: https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw\\nProfile: https://hololive.hololivepro.com/en/talents/kobo-kanaeru
+CATEGORIES:hololive ID\,ID Gen3\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6efbd24d-acb5-4086-9cd0-b47e3e4ec52a@hololive-cal
+UID:ca2cef05-8def-4a33-8bb9-a1afa23cd17f@hololive-cal
 DTSTART;VALUE=DATE:19000327
 DTEND;VALUE=DATE:19000327
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Kobo Kanaeru 出道紀念日 (hololive ID ID Gen3)
 URL:https://x.com/kobokanaeru
-DESCRIPTION:Twitter: https://x.com/kobokanaeru\nYouTube: https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw\nProfile: https://hololive.hololivepro.com/en/talents/kobo-kanaeru
-CATEGORIES:hololive ID,ID Gen3,出道
+DESCRIPTION:Twitter: https://x.com/kobokanaeru\\nYouTube: https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw\\nProfile: https://hololive.hololivepro.com/en/talents/kobo-kanaeru
+CATEGORIES:hololive ID\,ID Gen3\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:014069a3-1547-4c2a-a913-4211721106bd@hololive-cal
+UID:2108d6bc-45b3-42ef-b9dc-269e6c0b48cc@hololive-cal
 DTSTART;VALUE=DATE:19000404
 DTEND;VALUE=DATE:19000404
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Mori Calliope 生日 (hololive EN Myth)
 URL:https://x.com/moricalliope
-DESCRIPTION:Twitter: https://x.com/moricalliope\nYouTube: https://www.youtube.com/channel/UCL_qhgtOtZczeewo6zvYmtA\nProfile: https://hololive.hololivepro.com/en/talents/mori-calliope
-CATEGORIES:hololive EN,Myth,生日
+DESCRIPTION:Twitter: https://x.com/moricalliope\\nYouTube: https://www.youtube.com/channel/UCL_qhgtOtZczeewo6zvYmtA\\nProfile: https://hololive.hololivepro.com/en/talents/mori-calliope
+CATEGORIES:hololive EN\,Myth\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f1ad976a-3eff-4ec0-bcf3-0fbde887a1c2@hololive-cal
+UID:3c5bb60d-7f40-4d08-93b3-f71b90e5ff31@hololive-cal
 DTSTART;VALUE=DATE:19000912
 DTEND;VALUE=DATE:19000912
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Mori Calliope 出道紀念日 (hololive EN Myth)
 URL:https://x.com/moricalliope
-DESCRIPTION:Twitter: https://x.com/moricalliope\nYouTube: https://www.youtube.com/channel/UCL_qhgtOtZczeewo6zvYmtA\nProfile: https://hololive.hololivepro.com/en/talents/mori-calliope
-CATEGORIES:hololive EN,Myth,出道
+DESCRIPTION:Twitter: https://x.com/moricalliope\\nYouTube: https://www.youtube.com/channel/UCL_qhgtOtZczeewo6zvYmtA\\nProfile: https://hololive.hololivepro.com/en/talents/mori-calliope
+CATEGORIES:hololive EN\,Myth\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:de712d59-89c0-4a95-a91a-7b470eede582@hololive-cal
+UID:537c203c-2269-4890-acfd-6e5d1267f72f@hololive-cal
 DTSTART;VALUE=DATE:19000706
 DTEND;VALUE=DATE:19000706
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Takanashi Kiara 生日 (hololive EN Myth)
 URL:https://x.com/takanashikiara
-DESCRIPTION:Twitter: https://x.com/takanashikiara\nYouTube: https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww\nProfile: https://hololive.hololivepro.com/en/talents/takanashi-kiara
-CATEGORIES:hololive EN,Myth,生日
+DESCRIPTION:Twitter: https://x.com/takanashikiara\\nYouTube: https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww\\nProfile: https://hololive.hololivepro.com/en/talents/takanashi-kiara
+CATEGORIES:hololive EN\,Myth\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2796a062-6686-4482-9e1b-e178fc0d3195@hololive-cal
+UID:41238c73-7b18-48e7-9cd5-b5fc2d72e81e@hololive-cal
 DTSTART;VALUE=DATE:19000912
 DTEND;VALUE=DATE:19000912
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Takanashi Kiara 出道紀念日 (hololive EN Myth)
 URL:https://x.com/takanashikiara
-DESCRIPTION:Twitter: https://x.com/takanashikiara\nYouTube: https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww\nProfile: https://hololive.hololivepro.com/en/talents/takanashi-kiara
-CATEGORIES:hololive EN,Myth,出道
+DESCRIPTION:Twitter: https://x.com/takanashikiara\\nYouTube: https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww\\nProfile: https://hololive.hololivepro.com/en/talents/takanashi-kiara
+CATEGORIES:hololive EN\,Myth\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9c5e67c6-9d56-4adb-8e7b-9221a604d348@hololive-cal
+UID:16392bf5-bb74-49a1-baa1-0d256085e817@hololive-cal
 DTSTART;VALUE=DATE:19000520
 DTEND;VALUE=DATE:19000520
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Ninomae Ina'nis 生日 (hololive EN Myth)
 URL:https://x.com/ninomaeinanis
-DESCRIPTION:Twitter: https://x.com/ninomaeinanis\nYouTube: https://www.youtube.com/channel/UCMruFpzQ6oQ_FDhLjbJnKcg\nProfile: https://hololive.hololivepro.com/en/talents/ninomae-inanis
-CATEGORIES:hololive EN,Myth,生日
+DESCRIPTION:Twitter: https://x.com/ninomaeinanis\\nYouTube: https://www.youtube.com/channel/UCMruFpzQ6oQ_FDhLjbJnKcg\\nProfile: https://hololive.hololivepro.com/en/talents/ninomae-inanis
+CATEGORIES:hololive EN\,Myth\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6362f47e-0710-469c-9c6c-761476117f9c@hololive-cal
+UID:bc250ef8-ba93-4e45-851c-8fcb68bea9a7@hololive-cal
 DTSTART;VALUE=DATE:19000913
 DTEND;VALUE=DATE:19000913
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Ninomae Ina'nis 出道紀念日 (hololive EN Myth)
 URL:https://x.com/ninomaeinanis
-DESCRIPTION:Twitter: https://x.com/ninomaeinanis\nYouTube: https://www.youtube.com/channel/UCMruFpzQ6oQ_FDhLjbJnKcg\nProfile: https://hololive.hololivepro.com/en/talents/ninomae-inanis
-CATEGORIES:hololive EN,Myth,出道
+DESCRIPTION:Twitter: https://x.com/ninomaeinanis\\nYouTube: https://www.youtube.com/channel/UCMruFpzQ6oQ_FDhLjbJnKcg\\nProfile: https://hololive.hololivepro.com/en/talents/ninomae-inanis
+CATEGORIES:hololive EN\,Myth\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2bfc496a-20d7-442f-b452-7b3080e63c42@hololive-cal
+UID:355f2bd8-9145-43bb-aee7-5c17185280f4@hololive-cal
 DTSTART;VALUE=DATE:19000620
 DTEND;VALUE=DATE:19000620
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Gawr Gura 生日 (hololive EN Myth) ‑ 已畢業
+SUMMARY:🎂 がうる・ぐら / Gawr Gura 生日 (hololive EN Myth) - 已畢業
 URL:https://x.com/gawrgura
-DESCRIPTION:Twitter: https://x.com/gawrgura\nYouTube: https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g
-CATEGORIES:hololive EN,Myth,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/gawrgura\\nYouTube: https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g
+CATEGORIES:hololive EN\,Myth\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:38d845b5-5024-49bb-a276-7bfef4f14971@hololive-cal
+UID:8f8bd859-5e42-422d-8576-b7e043424224@hololive-cal
 DTSTART;VALUE=DATE:19000913
 DTEND;VALUE=DATE:19000913
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Gawr Gura 出道紀念日 (hololive EN Myth) ‑ 已畢業
+SUMMARY:🎉 がうる・ぐら / Gawr Gura 出道紀念日 (hololive EN Myth) - 已畢業
 URL:https://x.com/gawrgura
-DESCRIPTION:Twitter: https://x.com/gawrgura\nYouTube: https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g
-CATEGORIES:hololive EN,Myth,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/gawrgura\\nYouTube: https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g
+CATEGORIES:hololive EN\,Myth\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e1b0bb8b-62c8-45d1-a46e-c0aab889379f@hololive-cal
+UID:d72f12f7-c964-4bd7-9912-22de7a7cf70f@hololive-cal
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250501
-SUMMARY:🎓 Gawr Gura 畢業 (hololive EN Myth)
+SUMMARY:🎓 がうる・ぐら / Gawr Gura 畢業 (hololive EN Myth)
 URL:https://x.com/gawrgura
-DESCRIPTION:Graduated: 2025-05-01\nTwitter: https://x.com/gawrgura\nYouTube: https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g
-CATEGORIES:hololive EN,Myth,畢業
+DESCRIPTION:Graduated: 2025-05-01\\nTwitter: https://x.com/gawrgura\\nYouTube: https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g
+CATEGORIES:hololive EN\,Myth\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:1edc619b-10c2-416a-8922-b56431d6521c@hololive-cal
+UID:c566d2ac-a6ff-4598-9e61-7914418df9a7@hololive-cal
 DTSTART;VALUE=DATE:19000106
 DTEND;VALUE=DATE:19000106
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Watson Amelia 生日 (hololive EN Myth) ‑ 已畢業
+SUMMARY:🎂 ワトソン・アメリア / Watson Amelia 生日 (hololive EN Myth) - 已畢業
 URL:https://x.com/watsonameliaEN
-DESCRIPTION:Twitter: https://x.com/watsonameliaEN\nYouTube: https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg
-CATEGORIES:hololive EN,Myth,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/watsonameliaEN\\nYouTube: https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg
+CATEGORIES:hololive EN\,Myth\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:109370ce-bfe9-44b5-bc27-d5e5d104f954@hololive-cal
+UID:25a4222a-a61f-4601-b927-d3b5a4b7a92c@hololive-cal
 DTSTART;VALUE=DATE:19000913
 DTEND;VALUE=DATE:19000913
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Watson Amelia 出道紀念日 (hololive EN Myth) ‑ 已畢業
+SUMMARY:🎉 ワトソン・アメリア / Watson Amelia 出道紀念日 (hololive EN Myth) - 已畢業
 URL:https://x.com/watsonameliaEN
-DESCRIPTION:Twitter: https://x.com/watsonameliaEN\nYouTube: https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg
-CATEGORIES:hololive EN,Myth,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/watsonameliaEN\\nYouTube: https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg
+CATEGORIES:hololive EN\,Myth\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e33fb2ee-b2b9-4400-b7d0-f354537ded38@hololive-cal
+UID:ab8abebd-e979-48cb-a135-da62a44687a7@hololive-cal
 DTSTART;VALUE=DATE:20240930
 DTEND;VALUE=DATE:20240930
-SUMMARY:🎓 Watson Amelia 畢業 (hololive EN Myth)
+SUMMARY:🎓 ワトソン・アメリア / Watson Amelia 畢業 (hololive EN Myth)
 URL:https://x.com/watsonameliaEN
-DESCRIPTION:Graduated: 2024-09-30\nTwitter: https://x.com/watsonameliaEN\nYouTube: https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg
-CATEGORIES:hololive EN,Myth,畢業
+DESCRIPTION:Graduated: 2024-09-30\\nTwitter: https://x.com/watsonameliaEN\\nYouTube: https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg
+CATEGORIES:hololive EN\,Myth\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:70808ae9-fbea-419b-8ac3-cd9a3748ad50@hololive-cal
+UID:3eb5299f-dc1b-4ec5-8551-85b26ac9795c@hololive-cal
 DTSTART;VALUE=DATE:19000307
 DTEND;VALUE=DATE:19000307
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 IRyS 生日 (hololive EN HOPE)
 URL:https://x.com/irys_en
-DESCRIPTION:Twitter: https://x.com/irys_en\nYouTube: https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g\nProfile: https://hololive.hololivepro.com/en/talents/irys
-CATEGORIES:hololive EN,HOPE,生日
+DESCRIPTION:Twitter: https://x.com/irys_en\\nYouTube: https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g\\nProfile: https://hololive.hololivepro.com/en/talents/irys
+CATEGORIES:hololive EN\,HOPE\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f0988b11-22ad-46ee-8be6-81cedacd9bde@hololive-cal
+UID:d380cfae-03e0-449a-8715-6734f41eedb9@hololive-cal
 DTSTART;VALUE=DATE:19000711
 DTEND;VALUE=DATE:19000711
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 IRyS 出道紀念日 (hololive EN HOPE)
 URL:https://x.com/irys_en
-DESCRIPTION:Twitter: https://x.com/irys_en\nYouTube: https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g\nProfile: https://hololive.hololivepro.com/en/talents/irys
-CATEGORIES:hololive EN,HOPE,出道
+DESCRIPTION:Twitter: https://x.com/irys_en\\nYouTube: https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g\\nProfile: https://hololive.hololivepro.com/en/talents/irys
+CATEGORIES:hololive EN\,HOPE\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d6b98b5d-b9d9-410d-9e03-08ec37cd04de@hololive-cal
+UID:3ca94535-0fb8-4062-be5f-7aaa8e3460bc@hololive-cal
 DTSTART;VALUE=DATE:19000321
 DTEND;VALUE=DATE:19000321
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Ceres Fauna 生日 (hololive EN Council) ‑ 已畢業
+SUMMARY:🎂 セレス・ファウナ / Ceres Fauna 生日 (hololive EN Council) - 已畢業
 URL:https://x.com/ceresfauna
-DESCRIPTION:Twitter: https://x.com/ceresfauna\nYouTube: https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ
-CATEGORIES:hololive EN,Council,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/ceresfauna\\nYouTube: https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ
+CATEGORIES:hololive EN\,Council\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:83aa519d-2f04-4c5a-b57e-ba08617302f8@hololive-cal
+UID:91c1de45-8d2e-43a4-bd38-82f9a44ccde9@hololive-cal
 DTSTART;VALUE=DATE:19000823
 DTEND;VALUE=DATE:19000823
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Ceres Fauna 出道紀念日 (hololive EN Council) ‑ 已畢業
+SUMMARY:🎉 セレス・ファウナ / Ceres Fauna 出道紀念日 (hololive EN Council) - 已畢業
 URL:https://x.com/ceresfauna
-DESCRIPTION:Twitter: https://x.com/ceresfauna\nYouTube: https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ
-CATEGORIES:hololive EN,Council,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/ceresfauna\\nYouTube: https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ
+CATEGORIES:hololive EN\,Council\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b75e0765-dc1c-4a9d-a9dd-d47d00134221@hololive-cal
+UID:3a869386-1d6a-4e65-8712-578affcb7e54@hololive-cal
 DTSTART;VALUE=DATE:20250103
 DTEND;VALUE=DATE:20250103
-SUMMARY:🎓 Ceres Fauna 畢業 (hololive EN Council)
+SUMMARY:🎓 セレス・ファウナ / Ceres Fauna 畢業 (hololive EN Council)
 URL:https://x.com/ceresfauna
-DESCRIPTION:Graduated: 2025-01-03\nTwitter: https://x.com/ceresfauna\nYouTube: https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ
-CATEGORIES:hololive EN,Council,畢業
+DESCRIPTION:Graduated: 2025-01-03\\nTwitter: https://x.com/ceresfauna\\nYouTube: https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ
+CATEGORIES:hololive EN\,Council\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:289b734f-2acc-412e-a5f7-bf34e355260f@hololive-cal
+UID:678ae4ad-8b15-4765-8ac8-3873785e33eb@hololive-cal
 DTSTART;VALUE=DATE:19000314
 DTEND;VALUE=DATE:19000314
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Ouro Kronii 生日 (hololive EN Council)
 URL:https://x.com/ourokronii
-DESCRIPTION:Twitter: https://x.com/ourokronii\nYouTube: https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg\nProfile: https://hololive.hololivepro.com/en/talents/ouro-kronii
-CATEGORIES:hololive EN,Council,生日
+DESCRIPTION:Twitter: https://x.com/ourokronii\\nYouTube: https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg\\nProfile: https://hololive.hololivepro.com/en/talents/ouro-kronii
+CATEGORIES:hololive EN\,Council\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8f1d53a4-5fae-4415-9bf1-76857b617215@hololive-cal
+UID:994daa63-de03-497f-ae4f-13bc286ecb98@hololive-cal
 DTSTART;VALUE=DATE:19000823
 DTEND;VALUE=DATE:19000823
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Ouro Kronii 出道紀念日 (hololive EN Council)
 URL:https://x.com/ourokronii
-DESCRIPTION:Twitter: https://x.com/ourokronii\nYouTube: https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg\nProfile: https://hololive.hololivepro.com/en/talents/ouro-kronii
-CATEGORIES:hololive EN,Council,出道
+DESCRIPTION:Twitter: https://x.com/ourokronii\\nYouTube: https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg\\nProfile: https://hololive.hololivepro.com/en/talents/ouro-kronii
+CATEGORIES:hololive EN\,Council\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9194a3e2-96b7-484b-86c3-237fa9d8a58c@hololive-cal
+UID:98311a38-6b3a-462e-b60f-9dc04b261ed3@hololive-cal
 DTSTART;VALUE=DATE:19000804
 DTEND;VALUE=DATE:19000804
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Nanashi Mumei 生日 (hololive EN Council) ‑ 已畢業
+SUMMARY:🎂 七詩ムメイ / Nanashi Mumei 生日 (hololive EN Council) - 已畢業
 URL:https://x.com/nanashimumei_
-DESCRIPTION:Twitter: https://x.com/nanashimumei_\nYouTube: https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA
-CATEGORIES:hololive EN,Council,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/nanashimumei_\\nYouTube: https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA
+CATEGORIES:hololive EN\,Council\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a473a7b8-0d09-4415-b87a-d3b4b6f8513c@hololive-cal
+UID:3a959f5f-971c-4a7a-9015-9f878568c1e1@hololive-cal
 DTSTART;VALUE=DATE:19000823
 DTEND;VALUE=DATE:19000823
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Nanashi Mumei 出道紀念日 (hololive EN Council) ‑ 已畢業
+SUMMARY:🎉 七詩ムメイ / Nanashi Mumei 出道紀念日 (hololive EN Council) - 已畢業
 URL:https://x.com/nanashimumei_
-DESCRIPTION:Twitter: https://x.com/nanashimumei_\nYouTube: https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA
-CATEGORIES:hololive EN,Council,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/nanashimumei_\\nYouTube: https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA
+CATEGORIES:hololive EN\,Council\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:1c494355-770e-4de7-81a2-9c9a12fd8e1d@hololive-cal
+UID:00f9a2f6-b293-43e3-8410-13549938dfe7@hololive-cal
 DTSTART;VALUE=DATE:20250428
 DTEND;VALUE=DATE:20250428
-SUMMARY:🎓 Nanashi Mumei 畢業 (hololive EN Council)
+SUMMARY:🎓 七詩ムメイ / Nanashi Mumei 畢業 (hololive EN Council)
 URL:https://x.com/nanashimumei_
-DESCRIPTION:Graduated: 2025-04-28\nTwitter: https://x.com/nanashimumei_\nYouTube: https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA
-CATEGORIES:hololive EN,Council,畢業
+DESCRIPTION:Graduated: 2025-04-28\\nTwitter: https://x.com/nanashimumei_\\nYouTube: https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA
+CATEGORIES:hololive EN\,Council\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:1e1adbbe-7b01-428e-be01-a60abddc74ca@hololive-cal
+UID:c5c91ceb-ebe9-4da0-a05e-c3d29bf3ba04@hololive-cal
 DTSTART;VALUE=DATE:19000229
 DTEND;VALUE=DATE:19000229
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Hakos Baelz 生日 (hololive EN Council)
 URL:https://x.com/hakosbaelz
-DESCRIPTION:Twitter: https://x.com/hakosbaelz\nYouTube: https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ\nProfile: https://hololive.hololivepro.com/en/talents/hakos-baelz
-CATEGORIES:hololive EN,Council,生日
+DESCRIPTION:Twitter: https://x.com/hakosbaelz\\nYouTube: https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ\\nProfile: https://hololive.hololivepro.com/en/talents/hakos-baelz
+CATEGORIES:hololive EN\,Council\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bbaad3db-6348-4d68-8333-e697010d0866@hololive-cal
+UID:8861b04c-55a9-4ddf-8385-5342d15908c0@hololive-cal
 DTSTART;VALUE=DATE:19000823
 DTEND;VALUE=DATE:19000823
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Hakos Baelz 出道紀念日 (hololive EN Council)
 URL:https://x.com/hakosbaelz
-DESCRIPTION:Twitter: https://x.com/hakosbaelz\nYouTube: https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ\nProfile: https://hololive.hololivepro.com/en/talents/hakos-baelz
-CATEGORIES:hololive EN,Council,出道
+DESCRIPTION:Twitter: https://x.com/hakosbaelz\\nYouTube: https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ\\nProfile: https://hololive.hololivepro.com/en/talents/hakos-baelz
+CATEGORIES:hololive EN\,Council\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:87203a31-6ad6-4f83-bd26-7891b9cf36c9@hololive-cal
+UID:3032620f-1cc8-4da3-aa00-232f5d9b3bf7@hololive-cal
 DTSTART;VALUE=DATE:19000610
 DTEND;VALUE=DATE:19000610
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Tsukumo Sana 生日 (hololive EN Council) ‑ 已畢業
+SUMMARY:🎂 九十九佐命 / Tsukumo Sana 生日 (hololive EN Council) - 已畢業
 URL:https://x.com/tsukumosana
-DESCRIPTION:Twitter: https://x.com/tsukumosana\nYouTube: https://www.youtube.com/channel/UCAOY-4FDj-PYdRFKt2Ejhfg
-CATEGORIES:hololive EN,Council,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/tsukumosana\\nYouTube: https://www.youtube.com/channel/UCAOY-4FDj-PYdRFKt2Ejhfg
+CATEGORIES:hololive EN\,Council\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6be502b6-30ad-4b98-be83-d0467cad293a@hololive-cal
+UID:5f8b689a-cb1c-4e06-b978-52dfa805baac@hololive-cal
 DTSTART;VALUE=DATE:19000823
 DTEND;VALUE=DATE:19000823
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Tsukumo Sana 出道紀念日 (hololive EN Council) ‑ 已畢業
+SUMMARY:🎉 九十九佐命 / Tsukumo Sana 出道紀念日 (hololive EN Council) - 已畢業
 URL:https://x.com/tsukumosana
-DESCRIPTION:Twitter: https://x.com/tsukumosana\nYouTube: https://www.youtube.com/channel/UCAOY-4FDj-PYdRFKt2Ejhfg
-CATEGORIES:hololive EN,Council,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/tsukumosana\\nYouTube: https://www.youtube.com/channel/UCAOY-4FDj-PYdRFKt2Ejhfg
+CATEGORIES:hololive EN\,Council\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f89c760d-0654-4fd1-a5c1-93902f51f296@hololive-cal
+UID:cc069284-fc64-4207-ae76-9f0f064dd606@hololive-cal
 DTSTART;VALUE=DATE:20220731
 DTEND;VALUE=DATE:20220731
-SUMMARY:🎓 Tsukumo Sana 畢業 (hololive EN Council)
+SUMMARY:🎓 九十九佐命 / Tsukumo Sana 畢業 (hololive EN Council)
 URL:https://x.com/tsukumosana
-DESCRIPTION:Graduated: 2022-07-31\nTwitter: https://x.com/tsukumosana\nYouTube: https://www.youtube.com/channel/UCAOY-4FDj-PYdRFKt2Ejhfg
-CATEGORIES:hololive EN,Council,畢業
+DESCRIPTION:Graduated: 2022-07-31\\nTwitter: https://x.com/tsukumosana\\nYouTube: https://www.youtube.com/channel/UCAOY-4FDj-PYdRFKt2Ejhfg
+CATEGORIES:hololive EN\,Council\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:39f5620d-63d0-4389-8797-e843efa94b34@hololive-cal
+UID:110a06dc-4f8c-40aa-b92f-923e0e4835ef@hololive-cal
 DTSTART;VALUE=DATE:19000502
 DTEND;VALUE=DATE:19000502
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Shiori Novella 生日 (hololive EN Advent)
 URL:https://x.com/shiorinovella
-DESCRIPTION:Twitter: https://x.com/shiorinovella\nYouTube: https://www.youtube.com/channel/UCgnfPPb9JI3e9A4v7iTofu0\nProfile: https://hololive.hololivepro.com/en/talents/shiori-novella
-CATEGORIES:hololive EN,Advent,生日
+DESCRIPTION:Twitter: https://x.com/shiorinovella\\nYouTube: https://www.youtube.com/channel/UCgnfPPb9JI3e9A4v7iTofu0\\nProfile: https://hololive.hololivepro.com/en/talents/shiori-novella
+CATEGORIES:hololive EN\,Advent\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7e831b13-70e4-4fa8-85c7-b15bafc72b3e@hololive-cal
+UID:bccfc1dd-5855-4e87-a2cd-30888024ad6c@hololive-cal
 DTSTART;VALUE=DATE:19000730
 DTEND;VALUE=DATE:19000730
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Shiori Novella 出道紀念日 (hololive EN Advent)
 URL:https://x.com/shiorinovella
-DESCRIPTION:Twitter: https://x.com/shiorinovella\nYouTube: https://www.youtube.com/channel/UCgnfPPb9JI3e9A4v7iTofu0\nProfile: https://hololive.hololivepro.com/en/talents/shiori-novella
-CATEGORIES:hololive EN,Advent,出道
+DESCRIPTION:Twitter: https://x.com/shiorinovella\\nYouTube: https://www.youtube.com/channel/UCgnfPPb9JI3e9A4v7iTofu0\\nProfile: https://hololive.hololivepro.com/en/talents/shiori-novella
+CATEGORIES:hololive EN\,Advent\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f28a4142-00df-4fcd-aabf-a9a6c5bde50a@hololive-cal
+UID:669db3c2-dd43-4763-b3d1-5121fd3191ea@hololive-cal
 DTSTART;VALUE=DATE:19000414
 DTEND;VALUE=DATE:19000414
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Koseki Bijou 生日 (hololive EN Advent)
 URL:https://x.com/kosekibijou
-DESCRIPTION:Twitter: https://x.com/kosekibijou\nYouTube: https://www.youtube.com/channel/UC9p_lqQ855eIndE6-7-QaSg\nProfile: https://hololive.hololivepro.com/en/talents/koseki-bijou
-CATEGORIES:hololive EN,Advent,生日
+DESCRIPTION:Twitter: https://x.com/kosekibijou\\nYouTube: https://www.youtube.com/channel/UC9p_lqQ855eIndE6-7-QaSg\\nProfile: https://hololive.hololivepro.com/en/talents/koseki-bijou
+CATEGORIES:hololive EN\,Advent\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:48d1b826-f162-430f-aabc-1dffe6995773@hololive-cal
+UID:5f0d5e44-3aa1-4163-883a-fe394941eaca@hololive-cal
 DTSTART;VALUE=DATE:19000730
 DTEND;VALUE=DATE:19000730
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Koseki Bijou 出道紀念日 (hololive EN Advent)
 URL:https://x.com/kosekibijou
-DESCRIPTION:Twitter: https://x.com/kosekibijou\nYouTube: https://www.youtube.com/channel/UC9p_lqQ855eIndE6-7-QaSg\nProfile: https://hololive.hololivepro.com/en/talents/koseki-bijou
-CATEGORIES:hololive EN,Advent,出道
+DESCRIPTION:Twitter: https://x.com/kosekibijou\\nYouTube: https://www.youtube.com/channel/UC9p_lqQ855eIndE6-7-QaSg\\nProfile: https://hololive.hololivepro.com/en/talents/koseki-bijou
+CATEGORIES:hololive EN\,Advent\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b93601ed-0b1b-40a3-b1ea-0b192e9b268f@hololive-cal
+UID:1f228494-f23e-48a1-bc2b-8b7869fff017@hololive-cal
 DTSTART;VALUE=DATE:19001121
 DTEND;VALUE=DATE:19001121
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Nerissa Ravencroft 生日 (hololive EN Advent)
 URL:https://x.com/nerissaravencroft
-DESCRIPTION:Twitter: https://x.com/nerissaravencroft\nYouTube: https://www.youtube.com/channel/UCOX-YnzGa4PnCOIGpqIqfwQ\nProfile: https://hololive.hololivepro.com/en/talents/nerissa-ravencroft
-CATEGORIES:hololive EN,Advent,生日
+DESCRIPTION:Twitter: https://x.com/nerissaravencroft\\nYouTube: https://www.youtube.com/channel/UCOX-YnzGa4PnCOIGpqIqfwQ\\nProfile: https://hololive.hololivepro.com/en/talents/nerissa-ravencroft
+CATEGORIES:hololive EN\,Advent\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6e40efe3-2d1b-4d9c-99f0-ded42b05b750@hololive-cal
+UID:d4013f88-3c58-43f3-9cb0-aa8d64532cc1@hololive-cal
 DTSTART;VALUE=DATE:19000731
 DTEND;VALUE=DATE:19000731
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Nerissa Ravencroft 出道紀念日 (hololive EN Advent)
 URL:https://x.com/nerissaravencroft
-DESCRIPTION:Twitter: https://x.com/nerissaravencroft\nYouTube: https://www.youtube.com/channel/UCOX-YnzGa4PnCOIGpqIqfwQ\nProfile: https://hololive.hololivepro.com/en/talents/nerissa-ravencroft
-CATEGORIES:hololive EN,Advent,出道
+DESCRIPTION:Twitter: https://x.com/nerissaravencroft\\nYouTube: https://www.youtube.com/channel/UCOX-YnzGa4PnCOIGpqIqfwQ\\nProfile: https://hololive.hololivepro.com/en/talents/nerissa-ravencroft
+CATEGORIES:hololive EN\,Advent\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4a9edc6b-ec2f-4762-8b32-45f1c0441c51@hololive-cal
+UID:792f544f-26d6-42e6-a619-80fa3348e05c@hololive-cal
 DTSTART;VALUE=DATE:19000202
 DTEND;VALUE=DATE:19000202
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Fuwawa Abyssgard 生日 (hololive EN Advent)
 URL:https://x.com/fuwamoco
-DESCRIPTION:Twitter: https://x.com/fuwamoco\nYouTube: https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA\nProfile: https://hololive.hololivepro.com/en/talents/fuwawa-abyssgard
-CATEGORIES:hololive EN,Advent,生日
+DESCRIPTION:Twitter: https://x.com/fuwamoco\\nYouTube: https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA\\nProfile: https://hololive.hololivepro.com/en/talents/fuwawa-abyssgard
+CATEGORIES:hololive EN\,Advent\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9a43d9ee-5f5c-4da1-b051-b9aeb1774ea6@hololive-cal
+UID:68a89601-0433-4834-9522-130cb9680a23@hololive-cal
 DTSTART;VALUE=DATE:19000731
 DTEND;VALUE=DATE:19000731
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Fuwawa Abyssgard 出道紀念日 (hololive EN Advent)
 URL:https://x.com/fuwamoco
-DESCRIPTION:Twitter: https://x.com/fuwamoco\nYouTube: https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA\nProfile: https://hololive.hololivepro.com/en/talents/fuwawa-abyssgard
-CATEGORIES:hololive EN,Advent,出道
+DESCRIPTION:Twitter: https://x.com/fuwamoco\\nYouTube: https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA\\nProfile: https://hololive.hololivepro.com/en/talents/fuwawa-abyssgard
+CATEGORIES:hololive EN\,Advent\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:1541a259-d865-4943-83a2-53dfed4bdc04@hololive-cal
+UID:9cd9338f-a3a2-4444-b5fc-283e0a9a24e1@hololive-cal
 DTSTART;VALUE=DATE:19000202
 DTEND;VALUE=DATE:19000202
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Mococo Abyssgard 生日 (hololive EN Advent)
 URL:https://x.com/fuwamoco
-DESCRIPTION:Twitter: https://x.com/fuwamoco\nYouTube: https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA\nProfile: https://hololive.hololivepro.com/en/talents/mococo-abyssgard
-CATEGORIES:hololive EN,Advent,生日
+DESCRIPTION:Twitter: https://x.com/fuwamoco\\nYouTube: https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA\\nProfile: https://hololive.hololivepro.com/en/talents/mococo-abyssgard
+CATEGORIES:hololive EN\,Advent\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:15e548bc-7b34-498c-b9b8-d67c96b37d46@hololive-cal
+UID:660ddd0f-64cd-4eaa-bac1-762ac38d1299@hololive-cal
 DTSTART;VALUE=DATE:19000731
 DTEND;VALUE=DATE:19000731
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Mococo Abyssgard 出道紀念日 (hololive EN Advent)
 URL:https://x.com/fuwamoco
-DESCRIPTION:Twitter: https://x.com/fuwamoco\nYouTube: https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA\nProfile: https://hololive.hololivepro.com/en/talents/mococo-abyssgard
-CATEGORIES:hololive EN,Advent,出道
+DESCRIPTION:Twitter: https://x.com/fuwamoco\\nYouTube: https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA\\nProfile: https://hololive.hololivepro.com/en/talents/mococo-abyssgard
+CATEGORIES:hololive EN\,Advent\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b5dc0243-6061-42b7-9de0-46d1bcafdc66@hololive-cal
+UID:272bf241-acb2-4dff-9b1c-ef38d414c196@hololive-cal
 DTSTART;VALUE=DATE:19000425
 DTEND;VALUE=DATE:19000425
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Elizabeth Rose Bloodflame 生日 (hololive EN Justice)
 URL:https://x.com/ERBloodflame
-DESCRIPTION:Twitter: https://x.com/ERBloodflame\nYouTube: https://www.youtube.com/channel/UCwnXpOp48dFfDMFRBzNDt9A\nProfile: https://hololive.hololivepro.com/en/talents/elizabeth-rose-bloodflame
-CATEGORIES:hololive EN,Justice,生日
+DESCRIPTION:Twitter: https://x.com/ERBloodflame\\nYouTube: https://www.youtube.com/channel/UCwnXpOp48dFfDMFRBzNDt9A\\nProfile: https://hololive.hololivepro.com/en/talents/elizabeth-rose-bloodflame
+CATEGORIES:hololive EN\,Justice\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:93d87390-ed5f-4e4a-b863-638b98a47f7b@hololive-cal
+UID:5d83aa81-18aa-4969-b87e-d8efaba6ec3f@hololive-cal
 DTSTART;VALUE=DATE:19000621
 DTEND;VALUE=DATE:19000621
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Elizabeth Rose Bloodflame 出道紀念日 (hololive EN Justice)
 URL:https://x.com/ERBloodflame
-DESCRIPTION:Twitter: https://x.com/ERBloodflame\nYouTube: https://www.youtube.com/channel/UCwnXpOp48dFfDMFRBzNDt9A\nProfile: https://hololive.hololivepro.com/en/talents/elizabeth-rose-bloodflame
-CATEGORIES:hololive EN,Justice,出道
+DESCRIPTION:Twitter: https://x.com/ERBloodflame\\nYouTube: https://www.youtube.com/channel/UCwnXpOp48dFfDMFRBzNDt9A\\nProfile: https://hololive.hololivepro.com/en/talents/elizabeth-rose-bloodflame
+CATEGORIES:hololive EN\,Justice\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c3767405-e2b4-430e-9298-795244e68fbf@hololive-cal
+UID:ef0efd2d-d8b6-4a55-a87b-1d13ad427942@hololive-cal
 DTSTART;VALUE=DATE:19001018
 DTEND;VALUE=DATE:19001018
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Gigi Murin 生日 (hololive EN Justice)
 URL:https://x.com/gigimurin
-DESCRIPTION:Twitter: https://x.com/gigimurin\nYouTube: https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w\nProfile: https://hololive.hololivepro.com/en/talents/gigi-murin
-CATEGORIES:hololive EN,Justice,生日
+DESCRIPTION:Twitter: https://x.com/gigimurin\\nYouTube: https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w\\nProfile: https://hololive.hololivepro.com/en/talents/gigi-murin
+CATEGORIES:hololive EN\,Justice\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b5c0e216-b6d5-431c-955e-4e192a425ed6@hololive-cal
+UID:0629619d-92fd-4a18-9ae5-4966227289c6@hololive-cal
 DTSTART;VALUE=DATE:19000621
 DTEND;VALUE=DATE:19000621
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Gigi Murin 出道紀念日 (hololive EN Justice)
 URL:https://x.com/gigimurin
-DESCRIPTION:Twitter: https://x.com/gigimurin\nYouTube: https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w\nProfile: https://hololive.hololivepro.com/en/talents/gigi-murin
-CATEGORIES:hololive EN,Justice,出道
+DESCRIPTION:Twitter: https://x.com/gigimurin\\nYouTube: https://www.youtube.com/channel/UCDHABijvPBnJm7F-KlNME3w\\nProfile: https://hololive.hololivepro.com/en/talents/gigi-murin
+CATEGORIES:hololive EN\,Justice\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:893cac73-ddf2-43a5-8a5b-8e8033883eda@hololive-cal
+UID:22a8e063-56b2-440d-85b1-801514f5d567@hololive-cal
 DTSTART;VALUE=DATE:19001111
 DTEND;VALUE=DATE:19001111
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Cecilia Immergreen 生日 (hololive EN Justice)
 URL:https://x.com/ceciliaimgreen
-DESCRIPTION:Twitter: https://x.com/ceciliaimgreen\nYouTube: https://www.youtube.com/channel/UCfODQF_7gHKsXNd1tU0HQKA\nProfile: https://hololive.hololivepro.com/en/talents/cecilia-immergreen
-CATEGORIES:hololive EN,Justice,生日
+DESCRIPTION:Twitter: https://x.com/ceciliaimgreen\\nYouTube: https://www.youtube.com/channel/UCfODQF_7gHKsXNd1tU0HQKA\\nProfile: https://hololive.hololivepro.com/en/talents/cecilia-immergreen
+CATEGORIES:hololive EN\,Justice\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ca41a06e-ad99-4dad-982d-d9c7ff7b9d9f@hololive-cal
+UID:e2ec4e2f-0b67-49b1-b83d-3929eb1b51d5@hololive-cal
 DTSTART;VALUE=DATE:19000622
 DTEND;VALUE=DATE:19000622
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Cecilia Immergreen 出道紀念日 (hololive EN Justice)
 URL:https://x.com/ceciliaimgreen
-DESCRIPTION:Twitter: https://x.com/ceciliaimgreen\nYouTube: https://www.youtube.com/channel/UCfODQF_7gHKsXNd1tU0HQKA\nProfile: https://hololive.hololivepro.com/en/talents/cecilia-immergreen
-CATEGORIES:hololive EN,Justice,出道
+DESCRIPTION:Twitter: https://x.com/ceciliaimgreen\\nYouTube: https://www.youtube.com/channel/UCfODQF_7gHKsXNd1tU0HQKA\\nProfile: https://hololive.hololivepro.com/en/talents/cecilia-immergreen
+CATEGORIES:hololive EN\,Justice\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d694ec87-4c90-496e-8b1d-7c4620d207b0@hololive-cal
+UID:193989db-7b49-4463-b729-ae76c85dbe3f@hololive-cal
 DTSTART;VALUE=DATE:19000511
 DTEND;VALUE=DATE:19000511
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Raora Panthera 生日 (hololive EN Justice)
 URL:https://x.com/raorapanthera
-DESCRIPTION:Twitter: https://x.com/raorapanthera\nYouTube: https://www.youtube.com/channel/UCMNNNbVhSSfDmFHBkN60TjQ\nProfile: https://hololive.hololivepro.com/en/talents/raora-panthera
-CATEGORIES:hololive EN,Justice,生日
+DESCRIPTION:Twitter: https://x.com/raorapanthera\\nYouTube: https://www.youtube.com/channel/UCMNNNbVhSSfDmFHBkN60TjQ\\nProfile: https://hololive.hololivepro.com/en/talents/raora-panthera
+CATEGORIES:hololive EN\,Justice\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0fa5ac0b-333a-40e0-bbe7-139f632d13fd@hololive-cal
+UID:ebc121a1-f207-4201-9a97-f7f7ee389452@hololive-cal
 DTSTART;VALUE=DATE:19000622
 DTEND;VALUE=DATE:19000622
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Raora Panthera 出道紀念日 (hololive EN Justice)
 URL:https://x.com/raorapanthera
-DESCRIPTION:Twitter: https://x.com/raorapanthera\nYouTube: https://www.youtube.com/channel/UCMNNNbVhSSfDmFHBkN60TjQ\nProfile: https://hololive.hololivepro.com/en/talents/raora-panthera
-CATEGORIES:hololive EN,Justice,出道
+DESCRIPTION:Twitter: https://x.com/raorapanthera\\nYouTube: https://www.youtube.com/channel/UCMNNNbVhSSfDmFHBkN60TjQ\\nProfile: https://hololive.hololivepro.com/en/talents/raora-panthera
+CATEGORIES:hololive EN\,Justice\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:cb2f5bac-76c4-41c4-8507-2ba25d279c71@hololive-cal
+UID:e828850e-c9f0-4f17-9cdb-5274d1c6a1d8@hololive-cal
 DTSTART;VALUE=DATE:19000227
 DTEND;VALUE=DATE:19000227
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Hiodoshi Ao 生日 (hololive DEV_IS ReGLOSS) ‑ 已畢業
+SUMMARY:🎂 火威青 / Hiodoshi Ao 生日 (hololive DEV_IS ReGLOSS) - 已畢業
 URL:https://x.com/hiodoshiao
-DESCRIPTION:Twitter: https://x.com/hiodoshiao\nYouTube: https://www.youtube.com/channel/UCqECaV8DC_4-3lUCR1B3YBg
-CATEGORIES:hololive DEV_IS,ReGLOSS,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/hiodoshiao\\nYouTube: https://www.youtube.com/channel/UCqECaV8DC_4-3lUCR1B3YBg
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e173d95f-fa12-4c51-b298-ba696b599975@hololive-cal
+UID:bca7cf4b-f370-417c-9187-82206183d3b0@hololive-cal
 DTSTART;VALUE=DATE:19000909
 DTEND;VALUE=DATE:19000909
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Hiodoshi Ao 出道紀念日 (hololive DEV_IS ReGLOSS) ‑ 已畢業
+SUMMARY:🎉 火威青 / Hiodoshi Ao 出道紀念日 (hololive DEV_IS ReGLOSS) - 已畢業
 URL:https://x.com/hiodoshiao
-DESCRIPTION:Twitter: https://x.com/hiodoshiao\nYouTube: https://www.youtube.com/channel/UCqECaV8DC_4-3lUCR1B3YBg
-CATEGORIES:hololive DEV_IS,ReGLOSS,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/hiodoshiao\\nYouTube: https://www.youtube.com/channel/UCqECaV8DC_4-3lUCR1B3YBg
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5997b100-2aee-497b-8295-f6aae24528db@hololive-cal
+UID:3a0af997-2b1b-427a-aa5c-9f8b274594fd@hololive-cal
 DTSTART;VALUE=DATE:20251003
 DTEND;VALUE=DATE:20251003
-SUMMARY:🎓 Hiodoshi Ao 畢業 (hololive DEV_IS ReGLOSS)
+SUMMARY:🎓 火威青 / Hiodoshi Ao 畢業 (hololive DEV_IS ReGLOSS)
 URL:https://x.com/hiodoshiao
-DESCRIPTION:Graduated: 2025-10-03\nTwitter: https://x.com/hiodoshiao\nYouTube: https://www.youtube.com/channel/UCqECaV8DC_4-3lUCR1B3YBg
-CATEGORIES:hololive DEV_IS,ReGLOSS,畢業
+DESCRIPTION:Graduated: 2025-10-03\\nTwitter: https://x.com/hiodoshiao\\nYouTube: https://www.youtube.com/channel/UCqECaV8DC_4-3lUCR1B3YBg
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:a5dc7885-40af-4bf9-b664-78e9e8491e32@hololive-cal
+UID:ee4fcc9c-5ec0-43dd-9cd3-c083bfc5382f@hololive-cal
 DTSTART;VALUE=DATE:19000420
 DTEND;VALUE=DATE:19000420
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Otonose Kanade 生日 (hololive DEV_IS ReGLOSS)
+SUMMARY:🎂 音乃瀬奏 / Otonose Kanade 生日 (hololive DEV_IS ReGLOSS)
 URL:https://x.com/otonosekanade
-DESCRIPTION:Twitter: https://x.com/otonosekanade\nYouTube: https://www.youtube.com/channel/UCzeI6KhOBCTwBnBfHFPTQRw\nProfile: https://hololive.hololivepro.com/en/talents/otonose-kanade
-CATEGORIES:hololive DEV_IS,ReGLOSS,生日
+DESCRIPTION:Twitter: https://x.com/otonosekanade\\nYouTube: https://www.youtube.com/channel/UCzeI6KhOBCTwBnBfHFPTQRw\\nProfile: https://hololive.hololivepro.com/en/talents/otonose-kanade
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b9c9d6c9-dea4-4b62-a624-3f35a122981c@hololive-cal
+UID:71ce159a-639f-41dd-bd7b-b1c3de437a20@hololive-cal
 DTSTART;VALUE=DATE:19000909
 DTEND;VALUE=DATE:19000909
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Otonose Kanade 出道紀念日 (hololive DEV_IS ReGLOSS)
+SUMMARY:🎉 音乃瀬奏 / Otonose Kanade 出道紀念日 (hololive DEV_IS ReGLOSS)
 URL:https://x.com/otonosekanade
-DESCRIPTION:Twitter: https://x.com/otonosekanade\nYouTube: https://www.youtube.com/channel/UCzeI6KhOBCTwBnBfHFPTQRw\nProfile: https://hololive.hololivepro.com/en/talents/otonose-kanade
-CATEGORIES:hololive DEV_IS,ReGLOSS,出道
+DESCRIPTION:Twitter: https://x.com/otonosekanade\\nYouTube: https://www.youtube.com/channel/UCzeI6KhOBCTwBnBfHFPTQRw\\nProfile: https://hololive.hololivepro.com/en/talents/otonose-kanade
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ede721a6-6609-4a72-9a26-b508bbc96a1b@hololive-cal
+UID:963ed0af-750c-4178-bb04-2042367684f8@hololive-cal
 DTSTART;VALUE=DATE:19000512
 DTEND;VALUE=DATE:19000512
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Ichijou Ririka 生日 (hololive DEV_IS ReGLOSS)
+SUMMARY:🎂 一条莉々華 / Ichijou Ririka 生日 (hololive DEV_IS ReGLOSS)
 URL:https://x.com/ichijoririra
-DESCRIPTION:Twitter: https://x.com/ichijoririra\nYouTube: https://www.youtube.com/channel/UCDumvCFT2MaGbmfEuVvYO3Q\nProfile: https://hololive.hololivepro.com/en/talents/ichijou-ririka
-CATEGORIES:hololive DEV_IS,ReGLOSS,生日
+DESCRIPTION:Twitter: https://x.com/ichijoririra\\nYouTube: https://www.youtube.com/channel/UCDumvCFT2MaGbmfEuVvYO3Q\\nProfile: https://hololive.hololivepro.com/en/talents/ichijou-ririka
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:489bd31c-5537-4fc0-bc12-5937e9b3b7a4@hololive-cal
+UID:9d67897c-40d0-4bf3-bac8-6f76aefe1837@hololive-cal
 DTSTART;VALUE=DATE:19000909
 DTEND;VALUE=DATE:19000909
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Ichijou Ririka 出道紀念日 (hololive DEV_IS ReGLOSS)
+SUMMARY:🎉 一条莉々華 / Ichijou Ririka 出道紀念日 (hololive DEV_IS ReGLOSS)
 URL:https://x.com/ichijoririra
-DESCRIPTION:Twitter: https://x.com/ichijoririra\nYouTube: https://www.youtube.com/channel/UCDumvCFT2MaGbmfEuVvYO3Q\nProfile: https://hololive.hololivepro.com/en/talents/ichijou-ririka
-CATEGORIES:hololive DEV_IS,ReGLOSS,出道
+DESCRIPTION:Twitter: https://x.com/ichijoririra\\nYouTube: https://www.youtube.com/channel/UCDumvCFT2MaGbmfEuVvYO3Q\\nProfile: https://hololive.hololivepro.com/en/talents/ichijou-ririka
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:838e89bb-aa1b-4da6-9f8e-f2dc5751189f@hololive-cal
+UID:85988841-26e3-4bde-9c80-8b6729fda958@hololive-cal
 DTSTART;VALUE=DATE:19000204
 DTEND;VALUE=DATE:19000204
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Juufuutei Raden 生日 (hololive DEV_IS ReGLOSS)
+SUMMARY:🎂 儒烏風亭らでん / Juufuutei Raden 生日 (hololive DEV_IS ReGLOSS)
 URL:https://x.com/juufuuteiraden
-DESCRIPTION:Twitter: https://x.com/juufuuteiraden\nYouTube: https://www.youtube.com/channel/UC9wLx7zWqOzulBDXfPvC4PQ\nProfile: https://hololive.hololivepro.com/en/talents/juufuutei-raden
-CATEGORIES:hololive DEV_IS,ReGLOSS,生日
+DESCRIPTION:Twitter: https://x.com/juufuuteiraden\\nYouTube: https://www.youtube.com/channel/UC9wLx7zWqOzulBDXfPvC4PQ\\nProfile: https://hololive.hololivepro.com/en/talents/juufuutei-raden
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e43e2fcf-6651-416d-95c6-48708ff04206@hololive-cal
+UID:1b3f4ce7-073a-4392-9dbd-82f6d6ade40b@hololive-cal
 DTSTART;VALUE=DATE:19000910
 DTEND;VALUE=DATE:19000910
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Juufuutei Raden 出道紀念日 (hololive DEV_IS ReGLOSS)
+SUMMARY:🎉 儒烏風亭らでん / Juufuutei Raden 出道紀念日 (hololive DEV_IS ReGLOSS)
 URL:https://x.com/juufuuteiraden
-DESCRIPTION:Twitter: https://x.com/juufuuteiraden\nYouTube: https://www.youtube.com/channel/UC9wLx7zWqOzulBDXfPvC4PQ\nProfile: https://hololive.hololivepro.com/en/talents/juufuutei-raden
-CATEGORIES:hololive DEV_IS,ReGLOSS,出道
+DESCRIPTION:Twitter: https://x.com/juufuuteiraden\\nYouTube: https://www.youtube.com/channel/UC9wLx7zWqOzulBDXfPvC4PQ\\nProfile: https://hololive.hololivepro.com/en/talents/juufuutei-raden
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c56a3fbb-18bb-4c99-a109-e29eb1997d7e@hololive-cal
+UID:1c64be8d-f57b-4312-b33d-0f99e693eede@hololive-cal
 DTSTART;VALUE=DATE:19000607
 DTEND;VALUE=DATE:19000607
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Todoroki Hajime 生日 (hololive DEV_IS ReGLOSS)
+SUMMARY:🎂 轟はじめ / Todoroki Hajime 生日 (hololive DEV_IS ReGLOSS)
 URL:https://x.com/todorokihajime
-DESCRIPTION:Twitter: https://x.com/todorokihajime\nYouTube: https://www.youtube.com/channel/UCurEA8YoqFwimJcCuFaAiDQ\nProfile: https://hololive.hololivepro.com/en/talents/todoroki-hajime
-CATEGORIES:hololive DEV_IS,ReGLOSS,生日
+DESCRIPTION:Twitter: https://x.com/todorokihajime\\nYouTube: https://www.youtube.com/channel/UCurEA8YoqFwimJcCuFaAiDQ\\nProfile: https://hololive.hololivepro.com/en/talents/todoroki-hajime
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5ec26aa1-b00c-4594-be0c-c17819e3540c@hololive-cal
+UID:cbe0c464-c6b4-42c6-a8aa-8eca0ae046cb@hololive-cal
 DTSTART;VALUE=DATE:19000910
 DTEND;VALUE=DATE:19000910
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Todoroki Hajime 出道紀念日 (hololive DEV_IS ReGLOSS)
+SUMMARY:🎉 轟はじめ / Todoroki Hajime 出道紀念日 (hololive DEV_IS ReGLOSS)
 URL:https://x.com/todorokihajime
-DESCRIPTION:Twitter: https://x.com/todorokihajime\nYouTube: https://www.youtube.com/channel/UCurEA8YoqFwimJcCuFaAiDQ\nProfile: https://hololive.hololivepro.com/en/talents/todoroki-hajime
-CATEGORIES:hololive DEV_IS,ReGLOSS,出道
+DESCRIPTION:Twitter: https://x.com/todorokihajime\\nYouTube: https://www.youtube.com/channel/UCurEA8YoqFwimJcCuFaAiDQ\\nProfile: https://hololive.hololivepro.com/en/talents/todoroki-hajime
+CATEGORIES:hololive DEV_IS\,ReGLOSS\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0d3b3e6e-fe1e-4772-98f5-cd857ae273e2@hololive-cal
+UID:8fb44f71-5a59-4f3d-919b-54ae770b93ae@hololive-cal
 DTSTART;VALUE=DATE:19000529
 DTEND;VALUE=DATE:19000529
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Isaki Riona 生日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎂 響咲リオナ / Isaki Riona 生日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/isakiriOna
-DESCRIPTION:Twitter: https://x.com/isakiriOna\nYouTube: https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg\nProfile: https://hololive.hololivepro.com/en/talents/isaki-riona
-CATEGORIES:hololive DEV_IS,FLOW GLOW,生日
+DESCRIPTION:Twitter: https://x.com/isakiriOna\\nYouTube: https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg\\nProfile: https://hololive.hololivepro.com/en/talents/isaki-riona
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9395ec85-b499-455e-b5d0-a4072dceb85d@hololive-cal
+UID:1fa4fe84-8d22-4b9b-a173-01886242d0c6@hololive-cal
 DTSTART;VALUE=DATE:19001109
 DTEND;VALUE=DATE:19001109
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Isaki Riona 出道紀念日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎉 響咲リオナ / Isaki Riona 出道紀念日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/isakiriOna
-DESCRIPTION:Twitter: https://x.com/isakiriOna\nYouTube: https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg\nProfile: https://hololive.hololivepro.com/en/talents/isaki-riona
-CATEGORIES:hololive DEV_IS,FLOW GLOW,出道
+DESCRIPTION:Twitter: https://x.com/isakiriOna\\nYouTube: https://www.youtube.com/channel/UCwaS8_S7kMiKA3izlTWHbQg\\nProfile: https://hololive.hololivepro.com/en/talents/isaki-riona
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7a2c3d8a-b323-4e05-b2ee-e9377ff58fda@hololive-cal
+UID:464b5fcc-3fdf-4429-867b-d5b0a84a9c50@hololive-cal
 DTSTART;VALUE=DATE:19000725
 DTEND;VALUE=DATE:19000725
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Koganei Niko 生日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎂 小金井ニコ / Koganei Niko 生日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/koganeiniKo
-DESCRIPTION:Twitter: https://x.com/koganeiniKo\nYouTube: https://www.youtube.com/channel/UCFwPbTCO9Msd7G8IDw2TYZQ\nProfile: https://hololive.hololivepro.com/en/talents/koganei-niko
-CATEGORIES:hololive DEV_IS,FLOW GLOW,生日
+DESCRIPTION:Twitter: https://x.com/koganeiniKo\\nYouTube: https://www.youtube.com/channel/UCFwPbTCO9Msd7G8IDw2TYZQ\\nProfile: https://hololive.hololivepro.com/en/talents/koganei-niko
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d4fef5dc-de79-4473-8f95-b795e814b363@hololive-cal
+UID:e6afaf61-bb19-459e-bbdd-5e72999a4094@hololive-cal
 DTSTART;VALUE=DATE:19001109
 DTEND;VALUE=DATE:19001109
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Koganei Niko 出道紀念日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎉 小金井ニコ / Koganei Niko 出道紀念日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/koganeiniKo
-DESCRIPTION:Twitter: https://x.com/koganeiniKo\nYouTube: https://www.youtube.com/channel/UCFwPbTCO9Msd7G8IDw2TYZQ\nProfile: https://hololive.hololivepro.com/en/talents/koganei-niko
-CATEGORIES:hololive DEV_IS,FLOW GLOW,出道
+DESCRIPTION:Twitter: https://x.com/koganeiniKo\\nYouTube: https://www.youtube.com/channel/UCFwPbTCO9Msd7G8IDw2TYZQ\\nProfile: https://hololive.hololivepro.com/en/talents/koganei-niko
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9b0a6b8a-51a4-4c55-b6c3-0f19f78cf053@hololive-cal
+UID:67d009eb-b326-4410-89d7-37592714848a@hololive-cal
 DTSTART;VALUE=DATE:19000616
 DTEND;VALUE=DATE:19000616
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Mizumiya Su 生日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎂 水宮スゥ / Mizumiya Su 生日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/mizumiyaSu
-DESCRIPTION:Twitter: https://x.com/mizumiyaSu\nYouTube: https://www.youtube.com/channel/UCXjCDCFBvNLB9dQk9EgTFNQ\nProfile: https://hololive.hololivepro.com/en/talents/mizumiya-su
-CATEGORIES:hololive DEV_IS,FLOW GLOW,生日
+DESCRIPTION:Twitter: https://x.com/mizumiyaSu\\nYouTube: https://www.youtube.com/channel/UCXjCDCFBvNLB9dQk9EgTFNQ\\nProfile: https://hololive.hololivepro.com/en/talents/mizumiya-su
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:65370340-501f-4533-9998-c28a8c79d079@hololive-cal
+UID:7b6b7c71-52d9-44cc-b6ac-c457f3d27a08@hololive-cal
 DTSTART;VALUE=DATE:19001109
 DTEND;VALUE=DATE:19001109
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Mizumiya Su 出道紀念日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎉 水宮スゥ / Mizumiya Su 出道紀念日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/mizumiyaSu
-DESCRIPTION:Twitter: https://x.com/mizumiyaSu\nYouTube: https://www.youtube.com/channel/UCXjCDCFBvNLB9dQk9EgTFNQ\nProfile: https://hololive.hololivepro.com/en/talents/mizumiya-su
-CATEGORIES:hololive DEV_IS,FLOW GLOW,出道
+DESCRIPTION:Twitter: https://x.com/mizumiyaSu\\nYouTube: https://www.youtube.com/channel/UCXjCDCFBvNLB9dQk9EgTFNQ\\nProfile: https://hololive.hololivepro.com/en/talents/mizumiya-su
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f7190c68-33ad-4597-af38-fa601f75328b@hololive-cal
+UID:a2ea2e1c-eedf-431e-9a97-f91217075909@hololive-cal
 DTSTART;VALUE=DATE:19000708
 DTEND;VALUE=DATE:19000708
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Rindo Chihaya 生日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎂 鈴童チハヤ / Rindo Chihaya 生日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/rindoChiHaya
-DESCRIPTION:Twitter: https://x.com/rindoChiHaya\nYouTube: https://www.youtube.com/channel/UCIwEMAbHAm9AEP9VFJ-FLRQ\nProfile: https://hololive.hololivepro.com/en/talents/rindo-chihaya
-CATEGORIES:hololive DEV_IS,FLOW GLOW,生日
+DESCRIPTION:Twitter: https://x.com/rindoChiHaya\\nYouTube: https://www.youtube.com/channel/UCIwEMAbHAm9AEP9VFJ-FLRQ\\nProfile: https://hololive.hololivepro.com/en/talents/rindo-chihaya
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:63c5c6a3-6cf5-4139-adf3-7679bcfc1bdb@hololive-cal
+UID:82b72e9e-0139-46b2-9379-c0b4585ad439@hololive-cal
 DTSTART;VALUE=DATE:19001109
 DTEND;VALUE=DATE:19001109
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Rindo Chihaya 出道紀念日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎉 鈴童チハヤ / Rindo Chihaya 出道紀念日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/rindoChiHaya
-DESCRIPTION:Twitter: https://x.com/rindoChiHaya\nYouTube: https://www.youtube.com/channel/UCIwEMAbHAm9AEP9VFJ-FLRQ\nProfile: https://hololive.hololivepro.com/en/talents/rindo-chihaya
-CATEGORIES:hololive DEV_IS,FLOW GLOW,出道
+DESCRIPTION:Twitter: https://x.com/rindoChiHaya\\nYouTube: https://www.youtube.com/channel/UCIwEMAbHAm9AEP9VFJ-FLRQ\\nProfile: https://hololive.hololivepro.com/en/talents/rindo-chihaya
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:77d340d3-39bd-44fd-8ec8-c13f05b19ebc@hololive-cal
+UID:32217722-3e28-4045-b6fe-b58ee30ea43a@hololive-cal
 DTSTART;VALUE=DATE:19000827
 DTEND;VALUE=DATE:19000827
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Kikirara Vivi 生日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎂 綺々羅々ヴィヴィ / Kikirara Vivi 生日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/kikiraraViVi
-DESCRIPTION:Twitter: https://x.com/kikiraraViVi\nYouTube: https://www.youtube.com/channel/UCzlBd5-yWD5NXZQ_cPtlMsg\nProfile: https://hololive.hololivepro.com/en/talents/kikirara-vivi
-CATEGORIES:hololive DEV_IS,FLOW GLOW,生日
+DESCRIPTION:Twitter: https://x.com/kikiraraViVi\\nYouTube: https://www.youtube.com/channel/UCzlBd5-yWD5NXZQ_cPtlMsg\\nProfile: https://hololive.hololivepro.com/en/talents/kikirara-vivi
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e6a445b1-8472-4f60-9666-e91e56fafcc8@hololive-cal
+UID:c7d9ca1d-b431-4061-95cb-abff0e81d1cd@hololive-cal
 DTSTART;VALUE=DATE:19001109
 DTEND;VALUE=DATE:19001109
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Kikirara Vivi 出道紀念日 (hololive DEV_IS FLOW GLOW)
+SUMMARY:🎉 綺々羅々ヴィヴィ / Kikirara Vivi 出道紀念日 (hololive DEV_IS FLOW GLOW)
 URL:https://x.com/kikiraraViVi
-DESCRIPTION:Twitter: https://x.com/kikiraraViVi\nYouTube: https://www.youtube.com/channel/UCzlBd5-yWD5NXZQ_cPtlMsg\nProfile: https://hololive.hololivepro.com/en/talents/kikirara-vivi
-CATEGORIES:hololive DEV_IS,FLOW GLOW,出道
+DESCRIPTION:Twitter: https://x.com/kikiraraViVi\\nYouTube: https://www.youtube.com/channel/UCzlBd5-yWD5NXZQ_cPtlMsg\\nProfile: https://hololive.hololivepro.com/en/talents/kikirara-vivi
+CATEGORIES:hololive DEV_IS\,FLOW GLOW\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ad31d07a-5e76-4dd9-b393-4b3bcb95daad@hololive-cal
+UID:c2216604-7a29-411f-bf11-2ec9de5fc193@hololive-cal
 DTSTART;VALUE=DATE:19000303
 DTEND;VALUE=DATE:19000303
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Hanasaki Miyabi 生日 (HOLOSTARS JP Gen1)
+SUMMARY:🎂 花咲みやび / Hanasaki Miyabi 生日 (HOLOSTARS JP Gen1)
 URL:https://x.com/miyabi_holo
-DESCRIPTION:Twitter: https://x.com/miyabi_holo\nYouTube: https://www.youtube.com/channel/UC6t3-_N8A6MEldC8y7gjKkA\nProfile: https://hololive.hololivepro.com/en/talents/hanasaki-miyabi
-CATEGORIES:HOLOSTARS JP,Gen1,生日
+DESCRIPTION:Twitter: https://x.com/miyabi_holo\\nYouTube: https://www.youtube.com/channel/UC6t3-_N8A6MEldC8y7gjKkA\\nProfile: https://hololive.hololivepro.com/en/talents/hanasaki-miyabi
+CATEGORIES:HOLOSTARS JP\,Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7e20c915-7ae9-4dcc-8d3d-e549087be5bb@hololive-cal
+UID:2d58a44f-6dec-4cec-8110-5f43788d2c42@hololive-cal
 DTSTART;VALUE=DATE:19000608
 DTEND;VALUE=DATE:19000608
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Hanasaki Miyabi 出道紀念日 (HOLOSTARS JP Gen1)
+SUMMARY:🎉 花咲みやび / Hanasaki Miyabi 出道紀念日 (HOLOSTARS JP Gen1)
 URL:https://x.com/miyabi_holo
-DESCRIPTION:Twitter: https://x.com/miyabi_holo\nYouTube: https://www.youtube.com/channel/UC6t3-_N8A6MEldC8y7gjKkA\nProfile: https://hololive.hololivepro.com/en/talents/hanasaki-miyabi
-CATEGORIES:HOLOSTARS JP,Gen1,出道
+DESCRIPTION:Twitter: https://x.com/miyabi_holo\\nYouTube: https://www.youtube.com/channel/UC6t3-_N8A6MEldC8y7gjKkA\\nProfile: https://hololive.hololivepro.com/en/talents/hanasaki-miyabi
+CATEGORIES:HOLOSTARS JP\,Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2e12089e-67bd-4313-9f81-49b5ca7afd4c@hololive-cal
+UID:66160b1d-2fad-41de-9e92-f0c3c70a53a2@hololive-cal
 DTSTART;VALUE=DATE:19000812
 DTEND;VALUE=DATE:19000812
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Kanade Izuru 生日 (HOLOSTARS JP Gen1)
+SUMMARY:🎂 奏手イヅル / Kanade Izuru 生日 (HOLOSTARS JP Gen1)
 URL:https://x.com/holostars_izuru
-DESCRIPTION:Twitter: https://x.com/holostars_izuru\nYouTube: https://www.youtube.com/channel/UCZgOv3qDTeqhjBd6qDFB8vg\nProfile: https://hololive.hololivepro.com/en/talents/kanade-izuru
-CATEGORIES:HOLOSTARS JP,Gen1,生日
+DESCRIPTION:Twitter: https://x.com/holostars_izuru\\nYouTube: https://www.youtube.com/channel/UCZgOv3qDTeqhjBd6qDFB8vg\\nProfile: https://hololive.hololivepro.com/en/talents/kanade-izuru
+CATEGORIES:HOLOSTARS JP\,Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:bea1cbc3-5196-4340-8c40-efa30037b314@hololive-cal
+UID:e3ac8303-ab8b-4419-a2a2-a0801efc1a9f@hololive-cal
 DTSTART;VALUE=DATE:19000622
 DTEND;VALUE=DATE:19000622
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Kanade Izuru 出道紀念日 (HOLOSTARS JP Gen1)
+SUMMARY:🎉 奏手イヅル / Kanade Izuru 出道紀念日 (HOLOSTARS JP Gen1)
 URL:https://x.com/holostars_izuru
-DESCRIPTION:Twitter: https://x.com/holostars_izuru\nYouTube: https://www.youtube.com/channel/UCZgOv3qDTeqhjBd6qDFB8vg\nProfile: https://hololive.hololivepro.com/en/talents/kanade-izuru
-CATEGORIES:HOLOSTARS JP,Gen1,出道
+DESCRIPTION:Twitter: https://x.com/holostars_izuru\\nYouTube: https://www.youtube.com/channel/UCZgOv3qDTeqhjBd6qDFB8vg\\nProfile: https://hololive.hololivepro.com/en/talents/kanade-izuru
+CATEGORIES:HOLOSTARS JP\,Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:fa22a3da-4f6f-46fa-b365-2a22337d3379@hololive-cal
+UID:7105fd48-6e19-4184-ae0c-f5a20291baf9@hololive-cal
 DTSTART;VALUE=DATE:19001026
 DTEND;VALUE=DATE:19001026
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Kagami Kira 生日 (HOLOSTARS JP Gen1) ‑ 已畢業
-CATEGORIES:HOLOSTARS JP,Gen1,生日,已畢業
+SUMMARY:🎂 鏡見キラ / Kagami Kira 生日 (HOLOSTARS JP Gen1) - 已畢業
+CATEGORIES:HOLOSTARS JP\,Gen1\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4aee6d9a-e9e2-4c83-88fd-0bea18a053df@hololive-cal
+UID:e243b47a-b6d4-49a1-8388-f082b2b645f1@hololive-cal
 DTSTART;VALUE=DATE:19000609
 DTEND;VALUE=DATE:19000609
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Kagami Kira 出道紀念日 (HOLOSTARS JP Gen1) ‑ 已畢業
-CATEGORIES:HOLOSTARS JP,Gen1,出道,已畢業
+SUMMARY:🎉 鏡見キラ / Kagami Kira 出道紀念日 (HOLOSTARS JP Gen1) - 已畢業
+CATEGORIES:HOLOSTARS JP\,Gen1\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:951a7265-fa98-4ea0-af0f-4b85cdf2a89e@hololive-cal
+UID:88a41d83-6f3c-44c8-aa1c-edc4b8893928@hololive-cal
 DTSTART;VALUE=DATE:20201231
 DTEND;VALUE=DATE:20201231
-SUMMARY:🎓 Kagami Kira 畢業 (HOLOSTARS JP Gen1)
-DESCRIPTION:Graduated: 2020-12-31\n
-CATEGORIES:HOLOSTARS JP,Gen1,畢業
+SUMMARY:🎓 鏡見キラ / Kagami Kira 畢業 (HOLOSTARS JP Gen1)
+DESCRIPTION:Graduated: 2020-12-31
+CATEGORIES:HOLOSTARS JP\,Gen1\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3aa4c548-86f3-4886-b748-ee666470aee9@hololive-cal
+UID:7ac5e817-c328-4fe8-9c4a-7e608c1d959b@hololive-cal
 DTSTART;VALUE=DATE:19001111
 DTEND;VALUE=DATE:19001111
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Arurandeisu 生日 (HOLOSTARS JP Gen1)
+SUMMARY:🎂 アルランディス / Arurandeisu 生日 (HOLOSTARS JP Gen1)
 URL:https://x.com/arurandeisu
-DESCRIPTION:Twitter: https://x.com/arurandeisu\nYouTube: https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ\nProfile: https://hololive.hololivepro.com/en/talents/arurandeisu
-CATEGORIES:HOLOSTARS JP,Gen1,生日
+DESCRIPTION:Twitter: https://x.com/arurandeisu\\nYouTube: https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ\\nProfile: https://hololive.hololivepro.com/en/talents/arurandeisu
+CATEGORIES:HOLOSTARS JP\,Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:68640479-62a9-449c-8783-08de260e975e@hololive-cal
+UID:c06dff67-5d65-4879-9905-b0d33ff30938@hololive-cal
 DTSTART;VALUE=DATE:19000908
 DTEND;VALUE=DATE:19000908
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Arurandeisu 出道紀念日 (HOLOSTARS JP Gen1)
+SUMMARY:🎉 アルランディス / Arurandeisu 出道紀念日 (HOLOSTARS JP Gen1)
 URL:https://x.com/arurandeisu
-DESCRIPTION:Twitter: https://x.com/arurandeisu\nYouTube: https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ\nProfile: https://hololive.hololivepro.com/en/talents/arurandeisu
-CATEGORIES:HOLOSTARS JP,Gen1,出道
+DESCRIPTION:Twitter: https://x.com/arurandeisu\\nYouTube: https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ\\nProfile: https://hololive.hololivepro.com/en/talents/arurandeisu
+CATEGORIES:HOLOSTARS JP\,Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ef211c28-f133-43bf-9c8d-e915e0727494@hololive-cal
+UID:50092847-2f50-4eaf-ad32-be403f4c1e5e@hololive-cal
 DTSTART;VALUE=DATE:19000415
 DTEND;VALUE=DATE:19000415
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Rikka 生日 (HOLOSTARS JP Gen1)
+SUMMARY:🎂 律可 / Rikka 生日 (HOLOSTARS JP Gen1)
 URL:https://x.com/rikka_joiner
-DESCRIPTION:Twitter: https://x.com/rikka_joiner\nYouTube: https://www.youtube.com/channel/UC9mf_ZznboAQTD9L4gFPFSA\nProfile: https://hololive.hololivepro.com/en/talents/rikka
-CATEGORIES:HOLOSTARS JP,Gen1,生日
+DESCRIPTION:Twitter: https://x.com/rikka_joiner\\nYouTube: https://www.youtube.com/channel/UC9mf_ZznboAQTD9L4gFPFSA\\nProfile: https://hololive.hololivepro.com/en/talents/rikka
+CATEGORIES:HOLOSTARS JP\,Gen1\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:577a0fe1-a48f-41b1-a336-2d3830434a2c@hololive-cal
+UID:c06838ff-1ee5-4975-9d92-22c2a066de12@hololive-cal
 DTSTART;VALUE=DATE:19001020
 DTEND;VALUE=DATE:19001020
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Rikka 出道紀念日 (HOLOSTARS JP Gen1)
+SUMMARY:🎉 律可 / Rikka 出道紀念日 (HOLOSTARS JP Gen1)
 URL:https://x.com/rikka_joiner
-DESCRIPTION:Twitter: https://x.com/rikka_joiner\nYouTube: https://www.youtube.com/channel/UC9mf_ZznboAQTD9L4gFPFSA\nProfile: https://hololive.hololivepro.com/en/talents/rikka
-CATEGORIES:HOLOSTARS JP,Gen1,出道
+DESCRIPTION:Twitter: https://x.com/rikka_joiner\\nYouTube: https://www.youtube.com/channel/UC9mf_ZznboAQTD9L4gFPFSA\\nProfile: https://hololive.hololivepro.com/en/talents/rikka
+CATEGORIES:HOLOSTARS JP\,Gen1\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:268405f4-3265-4ef4-93bc-6de2c67e77d6@hololive-cal
+UID:531247ce-81d6-4e48-874a-d1b094cc5d52@hololive-cal
 DTSTART;VALUE=DATE:19000606
 DTEND;VALUE=DATE:19000606
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Astel Leda 生日 (HOLOSTARS JP Gen2)
+SUMMARY:🎂 アステル・レダ / Astel Leda 生日 (HOLOSTARS JP Gen2)
 URL:https://x.com/astel_leda
-DESCRIPTION:Twitter: https://x.com/astel_leda\nYouTube: https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSqg\nProfile: https://hololive.hololivepro.com/en/talents/astel-leda
-CATEGORIES:HOLOSTARS JP,Gen2,生日
+DESCRIPTION:Twitter: https://x.com/astel_leda\\nYouTube: https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSqg\\nProfile: https://hololive.hololivepro.com/en/talents/astel-leda
+CATEGORIES:HOLOSTARS JP\,Gen2\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0aef1eb7-00f1-425b-9efa-e44452010c4a@hololive-cal
+UID:0640a36f-d42a-415a-aba0-051e33948a1a@hololive-cal
 DTSTART;VALUE=DATE:19001207
 DTEND;VALUE=DATE:19001207
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Astel Leda 出道紀念日 (HOLOSTARS JP Gen2)
+SUMMARY:🎉 アステル・レダ / Astel Leda 出道紀念日 (HOLOSTARS JP Gen2)
 URL:https://x.com/astel_leda
-DESCRIPTION:Twitter: https://x.com/astel_leda\nYouTube: https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSqg\nProfile: https://hololive.hololivepro.com/en/talents/astel-leda
-CATEGORIES:HOLOSTARS JP,Gen2,出道
+DESCRIPTION:Twitter: https://x.com/astel_leda\\nYouTube: https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSqg\\nProfile: https://hololive.hololivepro.com/en/talents/astel-leda
+CATEGORIES:HOLOSTARS JP\,Gen2\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:fcfb6e52-956b-4b0a-b1b8-bdf30da22c39@hololive-cal
+UID:0072cd3d-28c9-47d6-be4a-ce82ce2fe926@hololive-cal
 DTSTART;VALUE=DATE:19000418
 DTEND;VALUE=DATE:19000418
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Kishido Temma 生日 (HOLOSTARS JP Gen2)
+SUMMARY:🎂 岸堂天真 / Kishido Temma 生日 (HOLOSTARS JP Gen2)
 URL:https://x.com/kishidotemma
-DESCRIPTION:Twitter: https://x.com/kishidotemma\nYouTube: https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg\nProfile: https://hololive.hololivepro.com/en/talents/kishido-temma
-CATEGORIES:HOLOSTARS JP,Gen2,生日
+DESCRIPTION:Twitter: https://x.com/kishidotemma\\nYouTube: https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg\\nProfile: https://hololive.hololivepro.com/en/talents/kishido-temma
+CATEGORIES:HOLOSTARS JP\,Gen2\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5ae3587d-7df8-4f99-8ac5-e0e0efe3a5b7@hololive-cal
+UID:68b271c0-e74e-45da-a797-36b4f224446a@hololive-cal
 DTSTART;VALUE=DATE:19001214
 DTEND;VALUE=DATE:19001214
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Kishido Temma 出道紀念日 (HOLOSTARS JP Gen2)
+SUMMARY:🎉 岸堂天真 / Kishido Temma 出道紀念日 (HOLOSTARS JP Gen2)
 URL:https://x.com/kishidotemma
-DESCRIPTION:Twitter: https://x.com/kishidotemma\nYouTube: https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg\nProfile: https://hololive.hololivepro.com/en/talents/kishido-temma
-CATEGORIES:HOLOSTARS JP,Gen2,出道
+DESCRIPTION:Twitter: https://x.com/kishidotemma\\nYouTube: https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg\\nProfile: https://hololive.hololivepro.com/en/talents/kishido-temma
+CATEGORIES:HOLOSTARS JP\,Gen2\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c79bc493-e2d8-4a03-b92d-18e788b7f3e1@hololive-cal
+UID:da35709f-edce-46d2-b4f0-b721d9f364cd@hololive-cal
 DTSTART;VALUE=DATE:19000926
 DTEND;VALUE=DATE:19000926
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Yukoku Roberu 生日 (HOLOSTARS JP Gen2)
+SUMMARY:🎂 夕刻ロベル / Yukoku Roberu 生日 (HOLOSTARS JP Gen2)
 URL:https://x.com/yukoku_roberu
-DESCRIPTION:Twitter: https://x.com/yukoku_roberu\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w\nProfile: https://hololive.hololivepro.com/en/talents/yukoku-roberu
-CATEGORIES:HOLOSTARS JP,Gen2,生日
+DESCRIPTION:Twitter: https://x.com/yukoku_roberu\\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w\\nProfile: https://hololive.hololivepro.com/en/talents/yukoku-roberu
+CATEGORIES:HOLOSTARS JP\,Gen2\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:45c89772-b73c-4a00-b228-ee48e576acc5@hololive-cal
+UID:ae6aeb23-3e8a-4c5d-9762-d76eb532650e@hololive-cal
 DTSTART;VALUE=DATE:19001224
 DTEND;VALUE=DATE:19001224
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Yukoku Roberu 出道紀念日 (HOLOSTARS JP Gen2)
+SUMMARY:🎉 夕刻ロベル / Yukoku Roberu 出道紀念日 (HOLOSTARS JP Gen2)
 URL:https://x.com/yukoku_roberu
-DESCRIPTION:Twitter: https://x.com/yukoku_roberu\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w\nProfile: https://hololive.hololivepro.com/en/talents/yukoku-roberu
-CATEGORIES:HOLOSTARS JP,Gen2,出道
+DESCRIPTION:Twitter: https://x.com/yukoku_roberu\\nYouTube: https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w\\nProfile: https://hololive.hololivepro.com/en/talents/yukoku-roberu
+CATEGORIES:HOLOSTARS JP\,Gen2\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b016af3e-2569-488e-8225-1f6f60fb3547@hololive-cal
+UID:df317b68-0dbe-44f9-afc5-0c70c17760e1@hololive-cal
 DTSTART;VALUE=DATE:19000225
 DTEND;VALUE=DATE:19000225
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Kageyama Shien 生日 (HOLOSTARS JP Gen3)
+SUMMARY:🎂 影山シエン / Kageyama Shien 生日 (HOLOSTARS JP Gen3)
 URL:https://x.com/kageyamashien
-DESCRIPTION:Twitter: https://x.com/kageyamashien\nYouTube: https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g\nProfile: https://hololive.hololivepro.com/en/talents/kageyama-shien
-CATEGORIES:HOLOSTARS JP,Gen3,生日
+DESCRIPTION:Twitter: https://x.com/kageyamashien\\nYouTube: https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g\\nProfile: https://hololive.hololivepro.com/en/talents/kageyama-shien
+CATEGORIES:HOLOSTARS JP\,Gen3\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:14fbb690-95f6-42b5-b838-8a2998df7cc3@hololive-cal
+UID:01a98103-1486-4aad-ba5d-edfd991614d0@hololive-cal
 DTSTART;VALUE=DATE:19000430
 DTEND;VALUE=DATE:19000430
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Kageyama Shien 出道紀念日 (HOLOSTARS JP Gen3)
+SUMMARY:🎉 影山シエン / Kageyama Shien 出道紀念日 (HOLOSTARS JP Gen3)
 URL:https://x.com/kageyamashien
-DESCRIPTION:Twitter: https://x.com/kageyamashien\nYouTube: https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g\nProfile: https://hololive.hololivepro.com/en/talents/kageyama-shien
-CATEGORIES:HOLOSTARS JP,Gen3,出道
+DESCRIPTION:Twitter: https://x.com/kageyamashien\\nYouTube: https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g\\nProfile: https://hololive.hololivepro.com/en/talents/kageyama-shien
+CATEGORIES:HOLOSTARS JP\,Gen3\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2c83312b-41c6-4ddf-9402-95f677d39adf@hololive-cal
+UID:4aba1534-89fc-42ba-bbcf-1ceddfee7c43@hololive-cal
 DTSTART;VALUE=DATE:19000115
 DTEND;VALUE=DATE:19000115
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Aragami Oga 生日 (HOLOSTARS JP Gen3)
+SUMMARY:🎂 荒咬オウガ / Aragami Oga 生日 (HOLOSTARS JP Gen3)
 URL:https://x.com/aragamioga
-DESCRIPTION:Twitter: https://x.com/aragamioga\nYouTube: https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA\nProfile: https://hololive.hololivepro.com/en/talents/aragami-oga
-CATEGORIES:HOLOSTARS JP,Gen3,生日
+DESCRIPTION:Twitter: https://x.com/aragamioga\\nYouTube: https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA\\nProfile: https://hololive.hololivepro.com/en/talents/aragami-oga
+CATEGORIES:HOLOSTARS JP\,Gen3\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:19856133-0c2c-4473-916e-38e87d6eb565@hololive-cal
+UID:43b3c698-43c2-46e5-b506-89c67bdcf149@hololive-cal
 DTSTART;VALUE=DATE:19000501
 DTEND;VALUE=DATE:19000501
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Aragami Oga 出道紀念日 (HOLOSTARS JP Gen3)
+SUMMARY:🎉 荒咬オウガ / Aragami Oga 出道紀念日 (HOLOSTARS JP Gen3)
 URL:https://x.com/aragamioga
-DESCRIPTION:Twitter: https://x.com/aragamioga\nYouTube: https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA\nProfile: https://hololive.hololivepro.com/en/talents/aragami-oga
-CATEGORIES:HOLOSTARS JP,Gen3,出道
+DESCRIPTION:Twitter: https://x.com/aragamioga\\nYouTube: https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA\\nProfile: https://hololive.hololivepro.com/en/talents/aragami-oga
+CATEGORIES:HOLOSTARS JP\,Gen3\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ffb2659a-bd0d-4929-9aeb-43f3e054f3e2@hololive-cal
+UID:e3ea3b97-c747-4d06-a51d-2e5cae78f516@hololive-cal
 DTSTART;VALUE=DATE:19000829
 DTEND;VALUE=DATE:19000829
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Tsukishita Kaoru 生日 (HOLOSTARS JP Gen3) ‑ 已畢業
-CATEGORIES:HOLOSTARS JP,Gen3,生日,已畢業
+SUMMARY:🎂 月下カオル / Tsukishita Kaoru 生日 (HOLOSTARS JP Gen3) - 已畢業
+CATEGORIES:HOLOSTARS JP\,Gen3\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:42051b89-0cf7-4871-819e-734a02191afe@hololive-cal
+UID:fb039719-2e2f-4b99-9582-7e10a200597c@hololive-cal
 DTSTART;VALUE=DATE:19000429
 DTEND;VALUE=DATE:19000429
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Tsukishita Kaoru 出道紀念日 (HOLOSTARS JP Gen3) ‑ 已畢業
-CATEGORIES:HOLOSTARS JP,Gen3,出道,已畢業
+SUMMARY:🎉 月下カオル / Tsukishita Kaoru 出道紀念日 (HOLOSTARS JP Gen3) - 已畢業
+CATEGORIES:HOLOSTARS JP\,Gen3\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:89bbfb76-7948-4d9d-9d20-d286b3916a5c@hololive-cal
+UID:ec7b5ff5-0f31-4c2f-b79d-9f4a2fe30410@hololive-cal
 DTSTART;VALUE=DATE:20200723
 DTEND;VALUE=DATE:20200723
-SUMMARY:🎓 Tsukishita Kaoru 畢業 (HOLOSTARS JP Gen3)
-DESCRIPTION:Graduated: 2020-07-23\n
-CATEGORIES:HOLOSTARS JP,Gen3,畢業
+SUMMARY:🎓 月下カオル / Tsukishita Kaoru 畢業 (HOLOSTARS JP Gen3)
+DESCRIPTION:Graduated: 2020-07-23
+CATEGORIES:HOLOSTARS JP\,Gen3\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:79b1b17b-38f8-46b2-ac18-b188879efbd3@hololive-cal
+UID:3d4914de-f8eb-442a-be55-3631a6faac10@hololive-cal
 DTSTART;VALUE=DATE:19000324
 DTEND;VALUE=DATE:19000324
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Yakushiji Suzaku 生日 (HOLOSTARS JP Gen3) ‑ 已畢業
-CATEGORIES:HOLOSTARS JP,Gen3,生日,已畢業
+SUMMARY:🎂 薬師寺朱雀 / Yakushiji Suzaku 生日 (HOLOSTARS JP Gen3) - 已畢業
+CATEGORIES:HOLOSTARS JP\,Gen3\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e1c7e7c9-090f-40a1-9ed9-4a21600ba739@hololive-cal
+UID:41b21fe4-c45f-43a2-a3d8-8cfc2e617179@hololive-cal
 DTSTART;VALUE=DATE:19000907
 DTEND;VALUE=DATE:19000907
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Yakushiji Suzaku 出道紀念日 (HOLOSTARS JP Gen3) ‑ 已畢業
-CATEGORIES:HOLOSTARS JP,Gen3,出道,已畢業
+SUMMARY:🎉 薬師寺朱雀 / Yakushiji Suzaku 出道紀念日 (HOLOSTARS JP Gen3) - 已畢業
+CATEGORIES:HOLOSTARS JP\,Gen3\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:00f33844-8bd5-487f-b22d-94e162d7ef93@hololive-cal
+UID:8b1aa814-1d2d-41cb-bd94-b5a10e9a6709@hololive-cal
 DTSTART;VALUE=DATE:20201016
 DTEND;VALUE=DATE:20201016
-SUMMARY:🎓 Yakushiji Suzaku 畢業 (HOLOSTARS JP Gen3)
-DESCRIPTION:Graduated: 2020-10-16\n
-CATEGORIES:HOLOSTARS JP,Gen3,畢業
+SUMMARY:🎓 薬師寺朱雀 / Yakushiji Suzaku 畢業 (HOLOSTARS JP Gen3)
+DESCRIPTION:Graduated: 2020-10-16
+CATEGORIES:HOLOSTARS JP\,Gen3\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:180ef3ae-8711-46f8-9d43-54af990ad366@hololive-cal
+UID:8c0f5f74-a84a-428e-b54e-c39665ff5927@hololive-cal
 DTSTART;VALUE=DATE:19000713
 DTEND;VALUE=DATE:19000713
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Yatogami Fuma 生日 (HOLOSTARS JP UPROAR)
+SUMMARY:🎂 夜十神封魔 / Yatogami Fuma 生日 (HOLOSTARS JP UPROAR)
 URL:https://x.com/yatogamifuma
-DESCRIPTION:Twitter: https://x.com/yatogamifuma\nYouTube: https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadAPWA\nProfile: https://hololive.hololivepro.com/en/talents/yatogami-fuma
-CATEGORIES:HOLOSTARS JP,UPROAR,生日
+DESCRIPTION:Twitter: https://x.com/yatogamifuma\\nYouTube: https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadAPWA\\nProfile: https://hololive.hololivepro.com/en/talents/yatogami-fuma
+CATEGORIES:HOLOSTARS JP\,UPROAR\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e6d4ff86-ce65-4cc1-aa5c-aebb5d135a91@hololive-cal
+UID:f70c7dbc-057c-4424-8a9a-dd5e8413b097@hololive-cal
 DTSTART;VALUE=DATE:19000329
 DTEND;VALUE=DATE:19000329
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Yatogami Fuma 出道紀念日 (HOLOSTARS JP UPROAR)
+SUMMARY:🎉 夜十神封魔 / Yatogami Fuma 出道紀念日 (HOLOSTARS JP UPROAR)
 URL:https://x.com/yatogamifuma
-DESCRIPTION:Twitter: https://x.com/yatogamifuma\nYouTube: https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadAPWA\nProfile: https://hololive.hololivepro.com/en/talents/yatogami-fuma
-CATEGORIES:HOLOSTARS JP,UPROAR,出道
+DESCRIPTION:Twitter: https://x.com/yatogamifuma\\nYouTube: https://www.youtube.com/channel/UCt30jJgChL8qeT9VPadAPWA\\nProfile: https://hololive.hololivepro.com/en/talents/yatogami-fuma
+CATEGORIES:HOLOSTARS JP\,UPROAR\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e4df09f1-8562-4fe6-a434-6af62a5ac310@hololive-cal
+UID:810c7b8f-1b6f-4339-b8e3-37512013acc7@hololive-cal
 DTSTART;VALUE=DATE:19000510
 DTEND;VALUE=DATE:19000510
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Utsugi Uyu 生日 (HOLOSTARS JP UPROAR)
+SUMMARY:🎂 宇都木ウユ / Utsugi Uyu 生日 (HOLOSTARS JP UPROAR)
 URL:https://x.com/utsugiuyu
-DESCRIPTION:Twitter: https://x.com/utsugiuyu\nYouTube: https://www.youtube.com/channel/UCgRqGNHDGn_ZyLNxheLRBIA\nProfile: https://hololive.hololivepro.com/en/talents/utsugi-uyu
-CATEGORIES:HOLOSTARS JP,UPROAR,生日
+DESCRIPTION:Twitter: https://x.com/utsugiuyu\\nYouTube: https://www.youtube.com/channel/UCgRqGNHDGn_ZyLNxheLRBIA\\nProfile: https://hololive.hololivepro.com/en/talents/utsugi-uyu
+CATEGORIES:HOLOSTARS JP\,UPROAR\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:796a8924-ae75-492b-9866-722576971906@hololive-cal
+UID:5c8c4619-91da-430f-9c57-00c141f76c9f@hololive-cal
 DTSTART;VALUE=DATE:19000329
 DTEND;VALUE=DATE:19000329
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Utsugi Uyu 出道紀念日 (HOLOSTARS JP UPROAR)
+SUMMARY:🎉 宇都木ウユ / Utsugi Uyu 出道紀念日 (HOLOSTARS JP UPROAR)
 URL:https://x.com/utsugiuyu
-DESCRIPTION:Twitter: https://x.com/utsugiuyu\nYouTube: https://www.youtube.com/channel/UCgRqGNHDGn_ZyLNxheLRBIA\nProfile: https://hololive.hololivepro.com/en/talents/utsugi-uyu
-CATEGORIES:HOLOSTARS JP,UPROAR,出道
+DESCRIPTION:Twitter: https://x.com/utsugiuyu\\nYouTube: https://www.youtube.com/channel/UCgRqGNHDGn_ZyLNxheLRBIA\\nProfile: https://hololive.hololivepro.com/en/talents/utsugi-uyu
+CATEGORIES:HOLOSTARS JP\,UPROAR\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2d6642b0-d9da-4d9a-8b21-032a5bea948a@hololive-cal
+UID:1bcdd370-bbc4-476a-be09-356887662156@hololive-cal
 DTSTART;VALUE=DATE:19000209
 DTEND;VALUE=DATE:19000209
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Hizaki Gamma 生日 (HOLOSTARS JP UPROAR) ‑ 已畢業
+SUMMARY:🎂 緋崎ガンマ / Hizaki Gamma 生日 (HOLOSTARS JP UPROAR) - 已畢業
 URL:https://x.com/hizakigamma
-DESCRIPTION:Twitter: https://x.com/hizakigamma\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\nProfile: https://hololive.hololivepro.com/en/talents/hizaki-gamma
-CATEGORIES:HOLOSTARS JP,UPROAR,生日,已畢業
+DESCRIPTION:Twitter: https://x.com/hizakigamma\\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\\nProfile: https://hololive.hololivepro.com/en/talents/hizaki-gamma
+CATEGORIES:HOLOSTARS JP\,UPROAR\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4a7ce4f1-1da3-4ad7-81e3-2bad7f3ffefe@hololive-cal
+UID:8dc51740-7fca-4aa2-b6e4-0a0a21dce1aa@hololive-cal
 DTSTART;VALUE=DATE:19000330
 DTEND;VALUE=DATE:19000330
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Hizaki Gamma 出道紀念日 (HOLOSTARS JP UPROAR) ‑ 已畢業
+SUMMARY:🎉 緋崎ガンマ / Hizaki Gamma 出道紀念日 (HOLOSTARS JP UPROAR) - 已畢業
 URL:https://x.com/hizakigamma
-DESCRIPTION:Twitter: https://x.com/hizakigamma\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\nProfile: https://hololive.hololivepro.com/en/talents/hizaki-gamma
-CATEGORIES:HOLOSTARS JP,UPROAR,出道,已畢業
+DESCRIPTION:Twitter: https://x.com/hizakigamma\\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\\nProfile: https://hololive.hololivepro.com/en/talents/hizaki-gamma
+CATEGORIES:HOLOSTARS JP\,UPROAR\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0780d370-058b-4657-9355-b5022114ecf3@hololive-cal
+UID:aca1861a-4e21-418c-8baa-bdeb5562737c@hololive-cal
 DTSTART;VALUE=DATE:20240717
 DTEND;VALUE=DATE:20240717
-SUMMARY:🎓 Hizaki Gamma 畢業 (HOLOSTARS JP UPROAR)
+SUMMARY:🎓 緋崎ガンマ / Hizaki Gamma 畢業 (HOLOSTARS JP UPROAR)
 URL:https://x.com/hizakigamma
-DESCRIPTION:Graduated: 2024-07-17\nTwitter: https://x.com/hizakigamma\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\nProfile: https://hololive.hololivepro.com/en/talents/hizaki-gamma
-CATEGORIES:HOLOSTARS JP,UPROAR,畢業
+DESCRIPTION:Graduated: 2024-07-17\\nTwitter: https://x.com/hizakigamma\\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\\nProfile: https://hololive.hololivepro.com/en/talents/hizaki-gamma
+CATEGORIES:HOLOSTARS JP\,UPROAR\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4d428a97-a744-4e4e-ac9f-348b290f516f@hololive-cal
+UID:07ca32dd-2419-4703-a4cd-7dff35eddd63@hololive-cal
 DTSTART;VALUE=DATE:19000403
 DTEND;VALUE=DATE:19000403
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Minase Rio 生日 (HOLOSTARS JP UPROAR) ‑ 已解約
-CATEGORIES:HOLOSTARS JP,UPROAR,生日,已解約
+SUMMARY:🎂 水無世燐央 / Minase Rio 生日 (HOLOSTARS JP UPROAR) - 已解約
+CATEGORIES:HOLOSTARS JP\,UPROAR\,生日\,已解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8b947b87-04d3-48e3-895e-18660994f847@hololive-cal
+UID:3333ec5e-c376-4cde-a336-fa01519181a9@hololive-cal
 DTSTART;VALUE=DATE:19000330
 DTEND;VALUE=DATE:19000330
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Minase Rio 出道紀念日 (HOLOSTARS JP UPROAR) ‑ 已解約
-CATEGORIES:HOLOSTARS JP,UPROAR,出道,已解約
+SUMMARY:🎉 水無世燐央 / Minase Rio 出道紀念日 (HOLOSTARS JP UPROAR) - 已解約
+CATEGORIES:HOLOSTARS JP\,UPROAR\,出道\,已解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ac554f6c-b7e5-4ce7-83c8-b231431e8c1d@hololive-cal
+UID:91ca30ca-f174-4600-9178-89a47f2adc56@hololive-cal
 DTSTART;VALUE=DATE:20240717
 DTEND;VALUE=DATE:20240717
-SUMMARY:🚫 Minase Rio 解約 (HOLOSTARS JP UPROAR)
-DESCRIPTION:Terminated: 2024-07-17\n
-CATEGORIES:HOLOSTARS JP,UPROAR,解約
+SUMMARY:🚫 水無世燐央 / Minase Rio 解約 (HOLOSTARS JP UPROAR)
+DESCRIPTION:Terminated: 2024-07-17
+CATEGORIES:HOLOSTARS JP\,UPROAR\,解約
 END:VEVENT
 
 BEGIN:VEVENT
-UID:14af38d6-5358-43cb-9ac4-6427d6505793@hololive-cal
+UID:f58b0a2a-e3e1-43fb-8cb0-e4f38cec4810@hololive-cal
 DTSTART;VALUE=DATE:19000129
 DTEND;VALUE=DATE:19000129
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Regis Altare 生日 (HOLOSTARS EN Tempus HQ)
 URL:https://x.com/RegisAltare
-DESCRIPTION:Twitter: https://x.com/RegisAltare\nYouTube: https://www.youtube.com/channel/UCyDchNBCiKbhNV8rFSmzVjw\nProfile: https://hololive.hololivepro.com/en/talents/regis-altare
-CATEGORIES:HOLOSTARS EN,Tempus HQ,生日
+DESCRIPTION:Twitter: https://x.com/RegisAltare\\nYouTube: https://www.youtube.com/channel/UCyDchNBCiKbhNV8rFSmzVjw\\nProfile: https://hololive.hololivepro.com/en/talents/regis-altare
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:ce25052b-b57b-4194-98e8-2f0f2f59bf7f@hololive-cal
+UID:c6167893-0df1-415e-bb57-b49dfcffebd7@hololive-cal
 DTSTART;VALUE=DATE:19000722
 DTEND;VALUE=DATE:19000722
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Regis Altare 出道紀念日 (HOLOSTARS EN Tempus HQ)
 URL:https://x.com/RegisAltare
-DESCRIPTION:Twitter: https://x.com/RegisAltare\nYouTube: https://www.youtube.com/channel/UCyDchNBCiKbhNV8rFSmzVjw\nProfile: https://hololive.hololivepro.com/en/talents/regis-altare
-CATEGORIES:HOLOSTARS EN,Tempus HQ,出道
+DESCRIPTION:Twitter: https://x.com/RegisAltare\\nYouTube: https://www.youtube.com/channel/UCyDchNBCiKbhNV8rFSmzVjw\\nProfile: https://hololive.hololivepro.com/en/talents/regis-altare
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:3e7aded4-0280-43a6-b4be-f7f2f1abc552@hololive-cal
+UID:55a701e2-23e5-4826-b92a-2b60612da939@hololive-cal
 DTSTART;VALUE=DATE:19001021
 DTEND;VALUE=DATE:19001021
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Magni Dezmond 生日 (HOLOSTARS EN Tempus HQ) ‑ 已畢業
-CATEGORIES:HOLOSTARS EN,Tempus HQ,生日,已畢業
+SUMMARY:🎂 Magni Dezmond 生日 (HOLOSTARS EN Tempus HQ) - 已畢業
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:82e78d81-2ccc-4b34-8cda-f4447238a165@hololive-cal
+UID:30bc6915-d647-4144-ba71-97586af9208d@hololive-cal
 DTSTART;VALUE=DATE:19000722
 DTEND;VALUE=DATE:19000722
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Magni Dezmond 出道紀念日 (HOLOSTARS EN Tempus HQ) ‑ 已畢業
-CATEGORIES:HOLOSTARS EN,Tempus HQ,出道,已畢業
+SUMMARY:🎉 Magni Dezmond 出道紀念日 (HOLOSTARS EN Tempus HQ) - 已畢業
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:832d6581-d956-4b95-8a6b-e35ffe23a9ed@hololive-cal
+UID:8283f91a-5f84-46a6-9650-c10add6df6b9@hololive-cal
 DTSTART;VALUE=DATE:20230731
 DTEND;VALUE=DATE:20230731
 SUMMARY:🎓 Magni Dezmond 畢業 (HOLOSTARS EN Tempus HQ)
-DESCRIPTION:Graduated: 2023-07-31\n
-CATEGORIES:HOLOSTARS EN,Tempus HQ,畢業
+DESCRIPTION:Graduated: 2023-07-31
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:01bddf1d-e954-404f-933e-10ea43c88fe0@hololive-cal
+UID:828653db-dc8b-4f88-b821-159778d49c17@hololive-cal
 DTSTART;VALUE=DATE:19001101
 DTEND;VALUE=DATE:19001101
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Axel Syrios 生日 (HOLOSTARS EN Tempus HQ)
 URL:https://x.com/AxelSyrios
-DESCRIPTION:Twitter: https://x.com/AxelSyrios\nYouTube: https://www.youtube.com/channel/UC2hx0xVkMoHGWijwr_lA01w\nProfile: https://hololive.hololivepro.com/en/talents/axel-syrios
-CATEGORIES:HOLOSTARS EN,Tempus HQ,生日
+DESCRIPTION:Twitter: https://x.com/AxelSyrios\\nYouTube: https://www.youtube.com/channel/UC2hx0xVkMoHGWijwr_lA01w\\nProfile: https://hololive.hololivepro.com/en/talents/axel-syrios
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0b55f273-4f25-40f0-828f-6c40b52e5417@hololive-cal
+UID:bbb37946-13c7-46c6-80d3-7c71e2df608d@hololive-cal
 DTSTART;VALUE=DATE:19000723
 DTEND;VALUE=DATE:19000723
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Axel Syrios 出道紀念日 (HOLOSTARS EN Tempus HQ)
 URL:https://x.com/AxelSyrios
-DESCRIPTION:Twitter: https://x.com/AxelSyrios\nYouTube: https://www.youtube.com/channel/UC2hx0xVkMoHGWijwr_lA01w\nProfile: https://hololive.hololivepro.com/en/talents/axel-syrios
-CATEGORIES:HOLOSTARS EN,Tempus HQ,出道
+DESCRIPTION:Twitter: https://x.com/AxelSyrios\\nYouTube: https://www.youtube.com/channel/UC2hx0xVkMoHGWijwr_lA01w\\nProfile: https://hololive.hololivepro.com/en/talents/axel-syrios
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:7b5c23dc-1576-4a7c-84df-8d02c8a049fe@hololive-cal
+UID:ed999ffe-d38f-4fc6-a0e1-a2fd17485858@hololive-cal
 DTSTART;VALUE=DATE:19000213
 DTEND;VALUE=DATE:19000213
 RRULE:FREQ=YEARLY
-SUMMARY:🎂 Noir Vesper 生日 (HOLOSTARS EN Tempus HQ) ‑ 已畢業
-CATEGORIES:HOLOSTARS EN,Tempus HQ,生日,已畢業
+SUMMARY:🎂 Noir Vesper 生日 (HOLOSTARS EN Tempus HQ) - 已畢業
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,生日\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8f828c97-0d91-4cd6-b6dd-1590771791c3@hololive-cal
+UID:26981568-5bdb-4840-9bd6-1bce246a671f@hololive-cal
 DTSTART;VALUE=DATE:19000723
 DTEND;VALUE=DATE:19000723
 RRULE:FREQ=YEARLY
-SUMMARY:🎉 Noir Vesper 出道紀念日 (HOLOSTARS EN Tempus HQ) ‑ 已畢業
-CATEGORIES:HOLOSTARS EN,Tempus HQ,出道,已畢業
+SUMMARY:🎉 Noir Vesper 出道紀念日 (HOLOSTARS EN Tempus HQ) - 已畢業
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,出道\,已畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e09ad038-0df7-4de4-865a-512c09d71c57@hololive-cal
+UID:add46219-a021-4d08-996d-cbf37dcfb2fd@hololive-cal
 DTSTART;VALUE=DATE:20230731
 DTEND;VALUE=DATE:20230731
 SUMMARY:🎓 Noir Vesper 畢業 (HOLOSTARS EN Tempus HQ)
-DESCRIPTION:Graduated: 2023-07-31\n
-CATEGORIES:HOLOSTARS EN,Tempus HQ,畢業
+DESCRIPTION:Graduated: 2023-07-31
+CATEGORIES:HOLOSTARS EN\,Tempus HQ\,畢業
 END:VEVENT
 
 BEGIN:VEVENT
-UID:681c3685-6aa5-46ef-9348-70abe1238904@hololive-cal
+UID:017b0549-dc64-4fa0-b906-8128b3065d0b@hololive-cal
 DTSTART;VALUE=DATE:19000517
 DTEND;VALUE=DATE:19000517
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Gavis Bettel 生日 (HOLOSTARS EN Tempus Vanguard)
 URL:https://x.com/GavisBettel
-DESCRIPTION:Twitter: https://x.com/GavisBettel\nYouTube: https://www.youtube.com/channel/UCPGxst_XFnaMkgtJFyRCKgw\nProfile: https://hololive.hololivepro.com/en/talents/gavis-bettel
-CATEGORIES:HOLOSTARS EN,Tempus Vanguard,生日
+DESCRIPTION:Twitter: https://x.com/GavisBettel\\nYouTube: https://www.youtube.com/channel/UCPGxst_XFnaMkgtJFyRCKgw\\nProfile: https://hololive.hololivepro.com/en/talents/gavis-bettel
+CATEGORIES:HOLOSTARS EN\,Tempus Vanguard\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4f4bc049-a318-44a5-9926-9c87995d90c2@hololive-cal
+UID:dae050dd-ecfc-434a-b8d0-569c771eb36e@hololive-cal
 DTSTART;VALUE=DATE:19000107
 DTEND;VALUE=DATE:19000107
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Gavis Bettel 出道紀念日 (HOLOSTARS EN Tempus Vanguard)
 URL:https://x.com/GavisBettel
-DESCRIPTION:Twitter: https://x.com/GavisBettel\nYouTube: https://www.youtube.com/channel/UCPGxst_XFnaMkgtJFyRCKgw\nProfile: https://hololive.hololivepro.com/en/talents/gavis-bettel
-CATEGORIES:HOLOSTARS EN,Tempus Vanguard,出道
+DESCRIPTION:Twitter: https://x.com/GavisBettel\\nYouTube: https://www.youtube.com/channel/UCPGxst_XFnaMkgtJFyRCKgw\\nProfile: https://hololive.hololivepro.com/en/talents/gavis-bettel
+CATEGORIES:HOLOSTARS EN\,Tempus Vanguard\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:8ad794df-7c8a-4f85-81ce-4e01e555e412@hololive-cal
+UID:257c1e77-e951-4f58-8570-903860d6b02c@hololive-cal
 DTSTART;VALUE=DATE:19000605
 DTEND;VALUE=DATE:19000605
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Machina X Flayon 生日 (HOLOSTARS EN Tempus Vanguard)
 URL:https://x.com/MachinaXFlayon
-DESCRIPTION:Twitter: https://x.com/MachinaXFlayon\nYouTube: https://www.youtube.com/channel/UCpEAHMKFMq6GfFVEHXGwkjA\nProfile: https://hololive.hololivepro.com/en/talents/machina-x-flayon
-CATEGORIES:HOLOSTARS EN,Tempus Vanguard,生日
+DESCRIPTION:Twitter: https://x.com/MachinaXFlayon\\nYouTube: https://www.youtube.com/channel/UCpEAHMKFMq6GfFVEHXGwkjA\\nProfile: https://hololive.hololivepro.com/en/talents/machina-x-flayon
+CATEGORIES:HOLOSTARS EN\,Tempus Vanguard\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:594734e2-c7a2-4bd5-a6ff-cd8f7e01a408@hololive-cal
+UID:96fa2bd0-5e37-4c88-b07c-fcd586d28b27@hololive-cal
 DTSTART;VALUE=DATE:19000107
 DTEND;VALUE=DATE:19000107
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Machina X Flayon 出道紀念日 (HOLOSTARS EN Tempus Vanguard)
 URL:https://x.com/MachinaXFlayon
-DESCRIPTION:Twitter: https://x.com/MachinaXFlayon\nYouTube: https://www.youtube.com/channel/UCpEAHMKFMq6GfFVEHXGwkjA\nProfile: https://hololive.hololivepro.com/en/talents/machina-x-flayon
-CATEGORIES:HOLOSTARS EN,Tempus Vanguard,出道
+DESCRIPTION:Twitter: https://x.com/MachinaXFlayon\\nYouTube: https://www.youtube.com/channel/UCpEAHMKFMq6GfFVEHXGwkjA\\nProfile: https://hololive.hololivepro.com/en/talents/machina-x-flayon
+CATEGORIES:HOLOSTARS EN\,Tempus Vanguard\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:0afa1448-de03-4de1-8a9d-1e99ae4426d1@hololive-cal
+UID:a78eca2b-3e25-4b39-9200-923849679823@hololive-cal
 DTSTART;VALUE=DATE:19000421
 DTEND;VALUE=DATE:19000421
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Banzoin Hakka 生日 (HOLOSTARS EN Tempus Vanguard)
 URL:https://x.com/BanzoinHakka
-DESCRIPTION:Twitter: https://x.com/BanzoinHakka\nYouTube: https://www.youtube.com/channel/UCgTzsBI0DIRopMylJEDqnog\nProfile: https://hololive.hololivepro.com/en/talents/banzoin-hakka
-CATEGORIES:HOLOSTARS EN,Tempus Vanguard,生日
+DESCRIPTION:Twitter: https://x.com/BanzoinHakka\\nYouTube: https://www.youtube.com/channel/UCgTzsBI0DIRopMylJEDqnog\\nProfile: https://hololive.hololivepro.com/en/talents/banzoin-hakka
+CATEGORIES:HOLOSTARS EN\,Tempus Vanguard\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:35de5c91-160e-4681-b68a-c57eb7f242d2@hololive-cal
+UID:7fa0ebe1-8387-4d79-a086-1c79095e784c@hololive-cal
 DTSTART;VALUE=DATE:19000107
 DTEND;VALUE=DATE:19000107
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Banzoin Hakka 出道紀念日 (HOLOSTARS EN Tempus Vanguard)
 URL:https://x.com/BanzoinHakka
-DESCRIPTION:Twitter: https://x.com/BanzoinHakka\nYouTube: https://www.youtube.com/channel/UCgTzsBI0DIRopMylJEDqnog\nProfile: https://hololive.hololivepro.com/en/talents/banzoin-hakka
-CATEGORIES:HOLOSTARS EN,Tempus Vanguard,出道
+DESCRIPTION:Twitter: https://x.com/BanzoinHakka\\nYouTube: https://www.youtube.com/channel/UCgTzsBI0DIRopMylJEDqnog\\nProfile: https://hololive.hololivepro.com/en/talents/banzoin-hakka
+CATEGORIES:HOLOSTARS EN\,Tempus Vanguard\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:64551176-645c-4abb-92b8-9449e07adb25@hololive-cal
+UID:11c06bc7-88d0-48a4-81cc-f06ae5302666@hololive-cal
 DTSTART;VALUE=DATE:19000623
 DTEND;VALUE=DATE:19000623
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Josuiji Shinri 生日 (HOLOSTARS EN Tempus Vanguard)
 URL:https://x.com/JosuijiShinri
-DESCRIPTION:Twitter: https://x.com/JosuijiShinri\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\nProfile: https://hololive.hololivepro.com/en/talents/josuiji-shinri
-CATEGORIES:HOLOSTARS EN,Tempus Vanguard,生日
+DESCRIPTION:Twitter: https://x.com/JosuijiShinri\\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\\nProfile: https://hololive.hololivepro.com/en/talents/josuiji-shinri
+CATEGORIES:HOLOSTARS EN\,Tempus Vanguard\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4ee9b610-452f-4f77-8365-3477c4cbcc19@hololive-cal
+UID:19e78025-a376-4947-83b5-db5a8012a9f2@hololive-cal
 DTSTART;VALUE=DATE:19000107
 DTEND;VALUE=DATE:19000107
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Josuiji Shinri 出道紀念日 (HOLOSTARS EN Tempus Vanguard)
 URL:https://x.com/JosuijiShinri
-DESCRIPTION:Twitter: https://x.com/JosuijiShinri\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\nProfile: https://hololive.hololivepro.com/en/talents/josuiji-shinri
-CATEGORIES:HOLOSTARS EN,Tempus Vanguard,出道
+DESCRIPTION:Twitter: https://x.com/JosuijiShinri\\nYouTube: https://www.youtube.com/channel/UCkT1u65YFl8oRCgVmdPcmrg\\nProfile: https://hololive.hololivepro.com/en/talents/josuiji-shinri
+CATEGORIES:HOLOSTARS EN\,Tempus Vanguard\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:635878eb-0b1d-4533-ad8e-41dbd9156c06@hololive-cal
+UID:3a38a733-f9be-4494-808d-b43473d68926@hololive-cal
 DTSTART;VALUE=DATE:19000408
 DTEND;VALUE=DATE:19000408
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Octavio 生日 (HOLOSTARS EN ARMIS)
 URL:https://x.com/OctavioHolostars
-DESCRIPTION:Twitter: https://x.com/OctavioHolostars\nYouTube: https://www.youtube.com/channel/UCNmJmTWTgkxXZJEiDHGdnEg\nProfile: https://hololive.hololivepro.com/en/talents/octavio
-CATEGORIES:HOLOSTARS EN,ARMIS,生日
+DESCRIPTION:Twitter: https://x.com/OctavioHolostars\\nYouTube: https://www.youtube.com/channel/UCNmJmTWTgkxXZJEiDHGdnEg\\nProfile: https://hololive.hololivepro.com/en/talents/octavio
+CATEGORIES:HOLOSTARS EN\,ARMIS\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:80a48a9c-196a-4486-9ea3-5594a1537043@hololive-cal
+UID:0d1a7b9d-2619-4b4f-9cf2-52e2666f47fe@hololive-cal
 DTSTART;VALUE=DATE:19001119
 DTEND;VALUE=DATE:19001119
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Octavio 出道紀念日 (HOLOSTARS EN ARMIS)
 URL:https://x.com/OctavioHolostars
-DESCRIPTION:Twitter: https://x.com/OctavioHolostars\nYouTube: https://www.youtube.com/channel/UCNmJmTWTgkxXZJEiDHGdnEg\nProfile: https://hololive.hololivepro.com/en/talents/octavio
-CATEGORIES:HOLOSTARS EN,ARMIS,出道
+DESCRIPTION:Twitter: https://x.com/OctavioHolostars\\nYouTube: https://www.youtube.com/channel/UCNmJmTWTgkxXZJEiDHGdnEg\\nProfile: https://hololive.hololivepro.com/en/talents/octavio
+CATEGORIES:HOLOSTARS EN\,ARMIS\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:e216f031-e794-460f-8287-9b61301d55d6@hololive-cal
+UID:1232e63b-1b1c-4ad0-ae62-f43709a5f75a@hololive-cal
 DTSTART;VALUE=DATE:19000930
 DTEND;VALUE=DATE:19000930
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Crimzon Ruze 生日 (HOLOSTARS EN ARMIS)
 URL:https://x.com/CrimzonRuze
-DESCRIPTION:Twitter: https://x.com/CrimzonRuze\nYouTube: https://www.youtube.com/channel/UCrXGKXCuQLpMxCdxfHH1jAw\nProfile: https://hololive.hololivepro.com/en/talents/crimzon-ruze
-CATEGORIES:HOLOSTARS EN,ARMIS,生日
+DESCRIPTION:Twitter: https://x.com/CrimzonRuze\\nYouTube: https://www.youtube.com/channel/UCrXGKXCuQLpMxCdxfHH1jAw\\nProfile: https://hololive.hololivepro.com/en/talents/crimzon-ruze
+CATEGORIES:HOLOSTARS EN\,ARMIS\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:9f7c0a73-5254-413b-ba06-127dadeccdff@hololive-cal
+UID:12df403d-03be-4a9a-ac4e-235f79c6abda@hololive-cal
 DTSTART;VALUE=DATE:19001119
 DTEND;VALUE=DATE:19001119
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Crimzon Ruze 出道紀念日 (HOLOSTARS EN ARMIS)
 URL:https://x.com/CrimzonRuze
-DESCRIPTION:Twitter: https://x.com/CrimzonRuze\nYouTube: https://www.youtube.com/channel/UCrXGKXCuQLpMxCdxfHH1jAw\nProfile: https://hololive.hololivepro.com/en/talents/crimzon-ruze
-CATEGORIES:HOLOSTARS EN,ARMIS,出道
+DESCRIPTION:Twitter: https://x.com/CrimzonRuze\\nYouTube: https://www.youtube.com/channel/UCrXGKXCuQLpMxCdxfHH1jAw\\nProfile: https://hololive.hololivepro.com/en/talents/crimzon-ruze
+CATEGORIES:HOLOSTARS EN\,ARMIS\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:c81887f0-5bbe-43d9-9e0d-75aa91a91a06@hololive-cal
+UID:9d25bec6-2c79-47bd-aefc-249298a17ccc@hololive-cal
 DTSTART;VALUE=DATE:19000207
 DTEND;VALUE=DATE:19000207
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Jurard T Rexford 生日 (HOLOSTARS EN ARMIS)
 URL:https://x.com/JurardTRexford
-DESCRIPTION:Twitter: https://x.com/JurardTRexford\nYouTube: https://www.youtube.com/channel/UCv0bKHzR5b2PV9ItDGE7Hcg\nProfile: https://hololive.hololivepro.com/en/talents/jurard-t-rexford
-CATEGORIES:HOLOSTARS EN,ARMIS,生日
+DESCRIPTION:Twitter: https://x.com/JurardTRexford\\nYouTube: https://www.youtube.com/channel/UCv0bKHzR5b2PV9ItDGE7Hcg\\nProfile: https://hololive.hololivepro.com/en/talents/jurard-t-rexford
+CATEGORIES:HOLOSTARS EN\,ARMIS\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:64382b0e-1e49-415c-992a-a3508c3d7e85@hololive-cal
+UID:3374251c-0df4-4494-930c-cba493cd654f@hololive-cal
 DTSTART;VALUE=DATE:19001118
 DTEND;VALUE=DATE:19001118
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Jurard T Rexford 出道紀念日 (HOLOSTARS EN ARMIS)
 URL:https://x.com/JurardTRexford
-DESCRIPTION:Twitter: https://x.com/JurardTRexford\nYouTube: https://www.youtube.com/channel/UCv0bKHzR5b2PV9ItDGE7Hcg\nProfile: https://hololive.hololivepro.com/en/talents/jurard-t-rexford
-CATEGORIES:HOLOSTARS EN,ARMIS,出道
+DESCRIPTION:Twitter: https://x.com/JurardTRexford\\nYouTube: https://www.youtube.com/channel/UCv0bKHzR5b2PV9ItDGE7Hcg\\nProfile: https://hololive.hololivepro.com/en/talents/jurard-t-rexford
+CATEGORIES:HOLOSTARS EN\,ARMIS\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:d58638eb-baf2-435e-b5ac-27939470a19c@hololive-cal
+UID:6593e51c-d8d3-47d1-b848-621cc8f63f36@hololive-cal
 DTSTART;VALUE=DATE:19000630
 DTEND;VALUE=DATE:19000630
 RRULE:FREQ=YEARLY
 SUMMARY:🎂 Goldbullet 生日 (HOLOSTARS EN ARMIS)
 URL:https://x.com/GoldbulletHS
-DESCRIPTION:Twitter: https://x.com/GoldbulletHS\nYouTube: https://www.youtube.com/channel/UCptALCdFFT8PvBxXdKuFBHw\nProfile: https://hololive.hololivepro.com/en/talents/goldbullet
-CATEGORIES:HOLOSTARS EN,ARMIS,生日
+DESCRIPTION:Twitter: https://x.com/GoldbulletHS\\nYouTube: https://www.youtube.com/channel/UCptALCdFFT8PvBxXdKuFBHw\\nProfile: https://hololive.hololivepro.com/en/talents/goldbullet
+CATEGORIES:HOLOSTARS EN\,ARMIS\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:6bd7cac0-cd42-463e-9db7-0f979e1dd63e@hololive-cal
+UID:cc0857c4-714a-4ce6-a5a5-30276b5e3519@hololive-cal
 DTSTART;VALUE=DATE:19001118
 DTEND;VALUE=DATE:19001118
 RRULE:FREQ=YEARLY
 SUMMARY:🎉 Goldbullet 出道紀念日 (HOLOSTARS EN ARMIS)
 URL:https://x.com/GoldbulletHS
-DESCRIPTION:Twitter: https://x.com/GoldbulletHS\nYouTube: https://www.youtube.com/channel/UCptALCdFFT8PvBxXdKuFBHw\nProfile: https://hololive.hololivepro.com/en/talents/goldbullet
-CATEGORIES:HOLOSTARS EN,ARMIS,出道
+DESCRIPTION:Twitter: https://x.com/GoldbulletHS\\nYouTube: https://www.youtube.com/channel/UCptALCdFFT8PvBxXdKuFBHw\\nProfile: https://hololive.hololivepro.com/en/talents/goldbullet
+CATEGORIES:HOLOSTARS EN\,ARMIS\,出道
 END:VEVENT
 
 BEGIN:VEVENT
-UID:f1c87415-42f7-471d-99b8-2a41abc845b5@hololive-cal
+UID:c5f1f1ff-c5ea-45cf-9581-eda73488db68@hololive-cal
 DTSTART;VALUE=DATE:19000708
 DTEND;VALUE=DATE:19000708
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Iida Pochi 生日（繪師媽媽）
 URL:https://x.com/hanami_4
-DESCRIPTION:Twitter: https://x.com/hanami_4\n設計成員: Sakura Miko, Ookami Mio, Moona Hoshinova
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/hanami_4\\n設計成員: Sakura Miko\, Ookami Mio\, Moona Hoshinova
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4b6157b6-acc7-47ac-8d46-22975b21c117@hololive-cal
+UID:3440f392-7752-44ce-bbf8-79c523af04b2@hololive-cal
 DTSTART;VALUE=DATE:19000315
 DTEND;VALUE=DATE:19000315
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Kakage 生日（繪師媽媽）
 URL:https://x.com/kakage0905
-DESCRIPTION:Twitter: https://x.com/kakage0905\n設計成員: AZKi
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/kakage0905\\n設計成員: AZKi
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:13b7a70c-5c83-42b8-9454-e91f3402e98a@hololive-cal
+UID:8116814f-e8d6-47a6-98b2-ad0e627c39ee@hololive-cal
 DTSTART;VALUE=DATE:19000110
 DTEND;VALUE=DATE:19000110
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Yuuki Hagure (憂姫はぐれ) 生日（繪師媽媽）
 URL:https://x.com/hagure_yuuki
-DESCRIPTION:Twitter: https://x.com/hagure_yuuki\n設計成員: Akai Haato, Nakiri Ayame, Usada Pekora, Kiryu Coco, Mano Aloe
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/hagure_yuuki\\n設計成員: Akai Haato\, Nakiri Ayame\, Usada Pekora\, Mano Aloe
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:515c3f06-b320-4d86-a70c-7c6af12d9767@hololive-cal
+UID:a061a276-be86-4f43-8c28-1ca68a5cf33e@hololive-cal
 DTSTART;VALUE=DATE:19000519
 DTEND;VALUE=DATE:19000519
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Itou Life (伊東ライフ) 生日（繪師媽媽）
 URL:https://x.com/itou_life
-DESCRIPTION:Twitter: https://x.com/itou_life\n設計成員: Minato Aqua
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/itou_life\\n設計成員: Minato Aqua
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:940fca30-9456-4093-a4ca-b22475fa9ecb@hololive-cal
+UID:61939f16-6876-4a5d-9363-cf673b5c43b1@hololive-cal
 DTSTART;VALUE=DATE:19000530
 DTEND;VALUE=DATE:19000530
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Shigure Ui (しぐれうい) 生日（繪師媽媽）
 URL:https://x.com/ui_shig
-DESCRIPTION:Twitter: https://x.com/ui_shig\n設計成員: Oozora Subaru
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/ui_shig\\n設計成員: Oozora Subaru
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:5a171051-0876-4ae0-acea-8e14b1a1eb41@hololive-cal
+UID:bf1e5b1a-738f-4529-b8cd-1a3f16099dfc@hololive-cal
 DTSTART;VALUE=DATE:19000913
 DTEND;VALUE=DATE:19000913
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Nabi (なび) 生日（繪師媽媽）
 URL:https://x.com/nabi_artwork
-DESCRIPTION:Twitter: https://x.com/nabi_artwork\n設計成員: Omaru Polka, Ninomae Ina'nis
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/nabi_artwork\\n設計成員: Omaru Polka\, Ninomae Ina'nis\, Watson Amelia
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 BEGIN:VEVENT
-UID:2afa1b57-e8df-414b-8328-1eb46981e555@hololive-cal
+UID:4a4ae7b3-398c-4f79-8604-79a0b3898342@hololive-cal
 DTSTART;VALUE=DATE:19000720
 DTEND;VALUE=DATE:19000720
 RRULE:FREQ=YEARLY
 SUMMARY:🎨 Mika Pikazo 生日（繪師媽媽）
 URL:https://x.com/mika_pikazo
-DESCRIPTION:Twitter: https://x.com/mika_pikazo\n設計成員: Kobo Kanaeru, Hakos Baelz, Elizabeth Rose Bloodflame, Juufuutei Raden
-CATEGORIES:繪師媽媽,生日
+DESCRIPTION:Twitter: https://x.com/mika_pikazo\\n設計成員: Kobo Kanaeru\, Hakos Baelz\, Elizabeth Rose Bloodflame\, Juufuutei Raden
+CATEGORIES:繪師媽媽\,生日
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3121bb7a-f845-4ea8-96cf-86a88579f46f@hololive-cal
+DTSTART;VALUE=DATE:19000727
+DTEND;VALUE=DATE:19000727
+RRULE:FREQ=YEARLY
+SUMMARY:🎨 Amashiro Natsuki (甘城なつき) 生日（繪師媽媽）
+URL:https://x.com/amsrntk3
+DESCRIPTION:Twitter: https://x.com/amsrntk3\\n設計成員: Gawr Gura
+CATEGORIES:繪師媽媽\,生日
 END:VEVENT
 
 END:VCALENDAR
