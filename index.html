@@ -1,1 +1,370 @@
-<!DOCTYPE html><html lang='zh-TW'><head><meta charset='UTF-8'><title>🌸 Hololive 行事曆</title><style>body{font-family:sans-serif;max-width:900px;margin:40px auto;padding:0 20px;background:#0f0c29;color:#eee}h1{color:#e8b4d8}table{width:100%;border-collapse:collapse;margin-top:20px}th{background:#302b63;padding:10px;text-align:left}td{padding:10px;border-bottom:1px solid #333}a{color:#c471ed}.muted{color:#999}</style></head><body><h1>🌸 Hololive Production 行事曆</h1><p>由本地更新工具自動發行。</p><table><tr><th>版本</th><th>Apple</th><th>Google</th></tr><tr><td>🌸 hololive JP/EN/ID/DEV_IS</td><td><a href='webcal://sagac-co.github.io/hololive-calendar/hololive.ics'>Apple 訂閱</a></td><td><a href='https://sagac-co.github.io/hololive-calendar/hololive.ics'>Google / 下載</a></td></tr><tr><td>⭐ HOLOSTARS JP/EN</td><td><a href='webcal://sagac-co.github.io/hololive-calendar/holostars.ics'>Apple 訂閱</a></td><td><a href='https://sagac-co.github.io/hololive-calendar/holostars.ics'>Google / 下載</a></td></tr><tr><td>🎨 繪師媽媽</td><td><a href='webcal://sagac-co.github.io/hololive-calendar/mama.ics'>Apple 訂閱</a></td><td><a href='https://sagac-co.github.io/hololive-calendar/mama.ics'>Google / 下載</a></td></tr><tr><td>🌐 全合併版</td><td><a href='webcal://sagac-co.github.io/hololive-calendar/all.ics'>Apple 訂閱</a></td><td><a href='https://sagac-co.github.io/hololive-calendar/all.ics'>Google / 下載</a></td></tr></table><p class='muted'>更新：2026-04-01 04:00</p></body></html>
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>🌸 Hololive Production 行事曆</title>
+  <meta name="description" content="hololive / HOLOSTARS / 繪師媽媽 非官方行事曆，支援 Apple 與 Google 訂閱。">
+  <style>
+    :root{
+      --bg:#0f0c29;
+      --panel:#1a1f3a;
+      --panel-2:#20264a;
+      --border:#33406f;
+      --text:#f3f0ff;
+      --muted:#b9b2d3;
+      --pink:#f0b6d8;
+      --purple:#8b5cf6;
+      --purple-2:#c084fc;
+      --link:#d8b4fe;
+      --soft:#151933;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans TC","Noto Sans JP","Helvetica Neue",Arial,sans-serif;
+      background:linear-gradient(180deg,#0f0c29 0%, #120e35 100%);
+      color:var(--text);
+      line-height:1.7;
+    }
+    .wrap{
+      max-width:1040px;
+      margin:0 auto;
+      padding:28px 18px 60px;
+    }
+    .hero,.panel{
+      background:var(--panel);
+      border:1px solid var(--border);
+      border-radius:24px;
+      box-shadow:0 10px 30px rgba(0,0,0,.18);
+    }
+    .hero{
+      padding:28px 22px;
+      margin-bottom:22px;
+    }
+    h1{
+      margin:0 0 10px;
+      color:var(--pink);
+      font-size:clamp(28px,4vw,46px);
+      line-height:1.15;
+      letter-spacing:-.02em;
+    }
+    h2{
+      margin:0 0 12px;
+      color:var(--pink);
+      font-size:clamp(24px,3vw,34px);
+      line-height:1.2;
+    }
+    h3{
+      margin:0 0 10px;
+      font-size:20px;
+      color:#fff;
+    }
+    p{margin:0 0 12px}
+    .lead{
+      font-size:18px;
+      color:#f3f0ff;
+    }
+    .muted{color:var(--muted)}
+    .badges{
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px;
+      margin:14px 0 18px;
+    }
+    .badges img{
+      height:20px;
+      max-width:100%;
+      vertical-align:middle;
+    }
+    .lang-nav{
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px;
+      margin-top:18px;
+    }
+    .lang-nav a{
+      text-decoration:none;
+      color:#fff;
+      background:rgba(192,132,252,.12);
+      border:1px solid rgba(192,132,252,.35);
+      padding:10px 14px;
+      border-radius:999px;
+      font-weight:700;
+    }
+    .lang-nav a:hover{
+      background:rgba(192,132,252,.22);
+    }
+    .panel{
+      padding:22px 20px;
+      margin-bottom:20px;
+    }
+    .cards{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+      gap:14px;
+      margin:16px 0 20px;
+    }
+    .card{
+      background:var(--panel-2);
+      border:1px solid var(--border);
+      border-radius:18px;
+      padding:16px;
+    }
+    .card small{
+      display:block;
+      color:var(--muted);
+      margin-bottom:12px;
+    }
+    .btns{
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+      margin-top:10px;
+    }
+    .btn{
+      display:inline-block;
+      text-decoration:none;
+      color:#fff;
+      background:rgba(139,92,246,.25);
+      border:1px solid rgba(192,132,252,.45);
+      border-radius:999px;
+      padding:11px 14px;
+      text-align:center;
+      font-weight:700;
+    }
+    .btn.secondary{
+      background:rgba(255,255,255,.04);
+      border-color:rgba(255,255,255,.16);
+      color:#e8dcff;
+    }
+    .steps{
+      display:grid;
+      grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+      gap:14px;
+      margin-top:14px;
+    }
+    .step-card{
+      background:var(--panel-2);
+      border:1px solid var(--border);
+      border-radius:18px;
+      padding:16px;
+    }
+    ol{
+      margin:10px 0 0 22px;
+      padding:0;
+    }
+    li{margin-bottom:6px}
+    .footer-note{
+      margin-top:12px;
+      color:var(--muted);
+      font-size:14px;
+    }
+    .update{
+      margin-top:12px;
+      color:var(--muted);
+      font-size:14px;
+    }
+    .divider{
+      height:1px;
+      background:linear-gradient(90deg,transparent, rgba(255,255,255,.18), transparent);
+      margin:16px 0;
+    }
+    a{color:var(--link)}
+    @media (max-width:640px){
+      .wrap{padding:18px 12px 42px}
+      .hero,.panel{border-radius:18px}
+      .hero{padding:22px 16px}
+      .panel{padding:18px 16px}
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <section class="hero">
+      <h1>🌸 Hololive Production 行事曆</h1>
+      <p class="lead">非官方粉絲製作的 hololive / HOLOSTARS / 繪師媽媽行事曆，可直接訂閱到 Apple 與 Google 行事曆。</p>
+
+      <div class="badges">
+        <img alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=sagac-co.hololive-calendar">
+        <img alt="Total Clicks" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar&count_bg=%23c471ed&title_bg=%23555555&title=total-clicks&edge_flat=true">
+      </div>
+
+      <p class="muted">
+        收錄生日、出道紀念日、畢業／解約日。已訂閱者在日曆系統重新同步後，會取得最新內容。
+      </p>
+
+      <div class="lang-nav">
+        <a href="#zh">繁體中文</a>
+        <a href="#en">English</a>
+        <a href="#jp">日本語</a>
+      </div>
+
+      <div class="update">更新時間：<span id="last-update">讀取中…</span></div>
+    </section>
+
+    <section class="panel" id="zh">
+      <h2>🇹🇼 繁體中文</h2>
+      <p>這是一份非官方粉絲製作的 hololive Production 行事曆，方便一次追蹤多位成員，不需要再手動一個個輸入。</p>
+      <p class="muted">包含生日、出道紀念日、畢業／解約日；行事曆檔案更新後，已訂閱者後續同步時也會一起更新。</p>
+
+      <div class="cards">
+        <div class="card">
+          <h3>🌸 hololive</h3>
+          <small>JP / EN / ID / DEV_IS</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/hololive.ics">Apple 訂閱</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/hololive.ics">Google / 下載</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>⭐ HOLOSTARS</h3>
+          <small>JP / EN</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/holostars.ics">Apple 訂閱</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/holostars.ics">Google / 下載</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>🎨 繪師媽媽</h3>
+          <small>角色設計師</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/mama.ics">Apple 訂閱</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/mama.ics">Google / 下載</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>🌐 全合併版</h3>
+          <small>hololive + HOLOSTARS + 繪師媽媽</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/all.ics">Apple 訂閱</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/all.ics">Google / 下載</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="steps">
+        <div class="step-card">
+          <h3>Apple 行事曆</h3>
+          <ol>
+            <li>點擊上方 Apple 訂閱連結</li>
+            <li>系統會詢問是否用行事曆開啟</li>
+            <li>按下訂閱即可</li>
+          </ol>
+        </div>
+        <div class="step-card">
+          <h3>Google 行事曆</h3>
+          <ol>
+            <li>點擊 Google / 下載連結</li>
+            <li>複製 `.ics` 網址</li>
+            <li>在 Google Calendar 用「透過網址新增」即可</li>
+          </ol>
+        </div>
+      </div>
+
+      <div class="footer-note">非官方粉絲製作，與 COVER Corporation 無關。</div>
+    </section>
+
+    <section class="panel" id="en">
+      <h2>🇬🇧 English</h2>
+      <p>This is an unofficial fan-made calendar for hololive Production, designed for users who want to follow many talents without entering events one by one.</p>
+      <p class="muted">Includes birthdays, debut anniversaries, and graduation / termination dates. Existing subscribers will receive updates after their calendar app refreshes the feed.</p>
+
+      <div class="cards">
+        <div class="card">
+          <h3>🌸 hololive</h3>
+          <small>JP / EN / ID / DEV_IS</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/hololive.ics">Apple Subscribe</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/hololive.ics">Google / Download</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>⭐ HOLOSTARS</h3>
+          <small>JP / EN</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/holostars.ics">Apple Subscribe</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/holostars.ics">Google / Download</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>🎨 Illustrator Mamas</h3>
+          <small>Character designers</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/mama.ics">Apple Subscribe</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/mama.ics">Google / Download</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>🌐 All-in-One</h3>
+          <small>hololive + HOLOSTARS + Illustrator Mamas</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/all.ics">Apple Subscribe</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/all.ics">Google / Download</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-note">Unofficial fan project. Not affiliated with COVER Corporation.</div>
+    </section>
+
+    <section class="panel" id="jp">
+      <h2>🇯🇵 日本語</h2>
+      <p>hololive Production をまとめて追いやすくするための非公式ファン制作カレンダーです。複数メンバーを一つずつ手入力する手間を減らせます。</p>
+      <p class="muted">誕生日・デビュー記念日・卒業／契約解除日を収録。すでに購読中の人も、カレンダー側の再同期後に新しい内容が反映されます。</p>
+
+      <div class="cards">
+        <div class="card">
+          <h3>🌸 hololive</h3>
+          <small>JP / EN / ID / DEV_IS</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/hololive.ics">Apple 購読</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/hololive.ics">Google / ダウンロード</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>⭐ HOLOSTARS</h3>
+          <small>JP / EN</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/holostars.ics">Apple 購読</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/holostars.ics">Google / ダウンロード</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>🎨 イラストレーターママ</h3>
+          <small>キャラクターデザイナー</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/mama.ics">Apple 購読</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/mama.ics">Google / ダウンロード</a>
+          </div>
+        </div>
+        <div class="card">
+          <h3>🌐 全部入り</h3>
+          <small>hololive + HOLOSTARS + イラストレーターママ</small>
+          <div class="btns">
+            <a class="btn" href="webcal://sagac-co.github.io/hololive-calendar/all.ics">Apple 購読</a>
+            <a class="btn secondary" href="https://sagac-co.github.io/hololive-calendar/all.ics">Google / ダウンロード</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer-note">非公式ファン制作であり、COVER Corporation とは無関係です。</div>
+    </section>
+  </div>
+
+  <script>
+    fetch('./last_update.json?_=' + Date.now())
+      .then(r => r.json())
+      .then(data => {
+        const el = document.getElementById('last-update');
+        if (!el) return;
+        el.textContent = data.updated_at || '未知';
+      })
+      .catch(() => {
+        const el = document.getElementById('last-update');
+        if (!el) return;
+        el.textContent = '未知';
+      });
+  </script>
+</body>
+</html>
