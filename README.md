@@ -19,28 +19,32 @@
 ### 📅 訂閱連結
 
 #### 🌸 hololive（JP / EN / ID / DEV_IS）
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fhololive%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/hololive.ics)
 | 平台 | 連結 |
 |------|------|
-| Apple 行事曆 / iPhone | [點此訂閱](webcal://sagac-co.github.io/hololive-calendar/hololive.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fhololive%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/hololive.ics) |
-| Google 行事曆 / Android | [點此訂閱](https://sagac-co.github.io/hololive-calendar/hololive.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fhololive%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/hololive.ics) |
+| Apple 行事曆 / iPhone | [點此訂閱](webcal://sagac-co.github.io/hololive-calendar/hololive.ics) |
+| Google 行事曆 / Android | [點此訂閱](https://sagac-co.github.io/hololive-calendar/hololive.ics) |
 
 #### ⭐ HOLOSTARS（JP / EN）
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fholostars%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/holostars.ics)
 | 平台 | 連結 |
 |------|------|
-| Apple 行事曆 / iPhone | [點此訂閱](webcal://sagac-co.github.io/hololive-calendar/holostars.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fholostars%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/holostars.ics) |
-| Google 行事曆 / Android | [點此訂閱](https://sagac-co.github.io/hololive-calendar/holostars.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fholostars%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/holostars.ics) |
+| Apple 行事曆 / iPhone | [點此訂閱](webcal://sagac-co.github.io/hololive-calendar/holostars.ics) |
+| Google 行事曆 / Android | [點此訂閱](https://sagac-co.github.io/hololive-calendar/holostars.ics) |
 
 #### 🎨 繪師媽媽
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fmama%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/mama.ics)
 | 平台 | 連結 |
 |------|------|
-| Apple 行事曆 / iPhone | [點此訂閱](webcal://sagac-co.github.io/hololive-calendar/mama.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fmama%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/mama.ics) |
-| Google 行事曆 / Android | [點此訂閱](https://sagac-co.github.io/hololive-calendar/mama.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fmama%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/mama.ics) |
+| Apple 行事曆 / iPhone | [點此訂閱](webcal://sagac-co.github.io/hololive-calendar/mama.ics) |
+| Google 行事曆 / Android | [點此訂閱](https://sagac-co.github.io/hololive-calendar/mama.ics) |
 
 #### 🌐 全合併版（hololive + HOLOSTARS + 繪師媽媽）
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fall%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/all.ics)
 | 平台 | 連結 |
 |------|------|
-| Apple 行事曆 / iPhone | [點此訂閱](webcal://sagac-co.github.io/hololive-calendar/all.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fall%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/all.ics) |
-| Google 行事曆 / Android | [點此訂閱](https://sagac-co.github.io/hololive-calendar/all.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fall%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/all.ics) |
+| Apple 行事曆 / iPhone | [點此訂閱](webcal://sagac-co.github.io/hololive-calendar/all.ics) |
+| Google 行事曆 / Android | [點此訂閱](https://sagac-co.github.io/hololive-calendar/all.ics) |
 
 ### 📱 如何訂閱
 
@@ -77,28 +81,32 @@ An unofficial fan-made calendar for hololive Production, featuring birthdays �
 ### 📅 Subscription Links
 
 #### 🌸 hololive (JP / EN / ID / DEV_IS)
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fhololive%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/hololive.ics)
 | Platform | Link |
 |----------|------|
-| Apple Calendar / iPhone | [Subscribe](webcal://sagac-co.github.io/hololive-calendar/hololive.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fhololive%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/hololive.ics) |
-| Google Calendar / Android | [Subscribe](https://sagac-co.github.io/hololive-calendar/hololive.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fhololive%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/hololive.ics) |
+| Apple Calendar / iPhone | [Subscribe](webcal://sagac-co.github.io/hololive-calendar/hololive.ics) |
+| Google Calendar / Android | [Subscribe](https://sagac-co.github.io/hololive-calendar/hololive.ics) |
 
 #### ⭐ HOLOSTARS (JP / EN)
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fholostars%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/holostars.ics)
 | Platform | Link |
 |----------|------|
-| Apple Calendar / iPhone | [Subscribe](webcal://sagac-co.github.io/hololive-calendar/holostars.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fholostars%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/holostars.ics) |
-| Google Calendar / Android | [Subscribe](https://sagac-co.github.io/hololive-calendar/holostars.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fholostars%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/holostars.ics) |
+| Apple Calendar / iPhone | [Subscribe](webcal://sagac-co.github.io/hololive-calendar/holostars.ics) |
+| Google Calendar / Android | [Subscribe](https://sagac-co.github.io/hololive-calendar/holostars.ics) |
 
 #### 🎨 Illustrator Mamas
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fmama%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/mama.ics)
 | Platform | Link |
 |----------|------|
-| Apple Calendar / iPhone | [Subscribe](webcal://sagac-co.github.io/hololive-calendar/mama.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fmama%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/mama.ics) |
-| Google Calendar / Android | [Subscribe](https://sagac-co.github.io/hololive-calendar/mama.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fmama%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/mama.ics) |
+| Apple Calendar / iPhone | [Subscribe](webcal://sagac-co.github.io/hololive-calendar/mama.ics) |
+| Google Calendar / Android | [Subscribe](https://sagac-co.github.io/hololive-calendar/mama.ics) |
 
 #### 🌐 All-in-One (hololive + HOLOSTARS + Illustrator Mamas)
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fall%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/all.ics)
 | Platform | Link |
 |----------|------|
-| Apple Calendar / iPhone | [Subscribe](webcal://sagac-co.github.io/hololive-calendar/all.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fall%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/all.ics) |
-| Google Calendar / Android | [Subscribe](https://sagac-co.github.io/hololive-calendar/all.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fall%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/all.ics) |
+| Apple Calendar / iPhone | [Subscribe](webcal://sagac-co.github.io/hololive-calendar/all.ics) |
+| Google Calendar / Android | [Subscribe](https://sagac-co.github.io/hololive-calendar/all.ics) |
 
 ### 📱 How to Subscribe
 
@@ -135,28 +143,34 @@ hololive Production の非公式ファン制作カレンダーです。誕生日
 ### 📅 購読リンク
 
 #### 🌸 hololive（JP / EN / ID / DEV_IS）
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fhololive%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/hololive.ics)
+
 | プラットフォーム | リンク |
 |----------------|--------|
-| Apple カレンダー / iPhone | [購読する](webcal://sagac-co.github.io/hololive-calendar/hololive.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fhololive%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/hololive.ics) |
-| Google カレンダー / Android | [購読する](https://sagac-co.github.io/hololive-calendar/hololive.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fhololive%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/hololive.ics) |
+| Apple カレンダー / iPhone | [購読する](webcal://sagac-co.github.io/hololive-calendar/hololive.ics) |
+| Google カレンダー / Android | [購読する](https://sagac-co.github.io/hololive-calendar/hololive.ics) |
 
 #### ⭐ HOLOSTARS（JP / EN）
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fholostars%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/holostars.ics)
+
 | プラットフォーム | リンク |
 |----------------|--------|
-| Apple カレンダー / iPhone | [購読する](webcal://sagac-co.github.io/hololive-calendar/holostars.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fholostars%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/holostars.ics) |
-| Google カレンダー / Android | [購読する](https://sagac-co.github.io/hololive-calendar/holostars.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fholostars%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/holostars.ics) |
+| Apple カレンダー / iPhone | [購読する](webcal://sagac-co.github.io/hololive-calendar/holostars.ics) |
+| Google カレンダー / Android | [購読する](https://sagac-co.github.io/hololive-calendar/holostars.ics) |
 
 #### 🎨 イラストレーターママ
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fmama%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/mama.ics)
 | プラットフォーム | リンク |
 |----------------|--------|
-| Apple カレンダー / iPhone | [購読する](webcal://sagac-co.github.io/hololive-calendar/mama.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fmama%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/mama.ics) |
-| Google カレンダー / Android | [購読する](https://sagac-co.github.io/hololive-calendar/mama.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fmama%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/mama.ics) |
+| Apple カレンダー / iPhone | [購読する](webcal://sagac-co.github.io/hololive-calendar/mama.ics) |
+| Google カレンダー / Android | [購読する](https://sagac-co.github.io/hololive-calendar/mama.ics) |
 
 #### 🌐 全部入り（hololive + HOLOSTARS + イラストレーターママ）
+[![clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fall%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/all.ics)
 | プラットフォーム | リンク |
 |----------------|--------|
-| Apple カレンダー / iPhone | [購読する](webcal://sagac-co.github.io/hololive-calendar/all.ics) [![🍎+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fall%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🍎+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/all.ics) |
-| Google カレンダー / Android | [購読する](https://sagac-co.github.io/hololive-calendar/all.ics) [![🤖+clicks](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsagac-co%2Egithub%2Eio%2Fhololive-calendar%2Fall%2Eics&count_bg=%23c471ed&title_bg=%23555555&title=🤖+clicks&edge_flat=true)](https://sagac-co.github.io/hololive-calendar/all.ics) |
+| Apple カレンダー / iPhone | [購読する](webcal://sagac-co.github.io/hololive-calendar/all.ics) |
+| Google カレンダー / Android | [購読する](https://sagac-co.github.io/hololive-calendar/all.ics) |
 
 ### 📱 購読方法
 
